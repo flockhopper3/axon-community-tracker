@@ -1,0 +1,4 @@
+﻿event,org,field,previous,current,note
+baseline,,,,326,Initial observation; growth cannot yet be measured.
+collection_issue,riverdalepd,status,,error,HTTP 404
+collection_issue,troypdil,status,,error,HTTP 404

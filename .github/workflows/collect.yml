@@ -1,0 +1,58 @@
+name: Weekly camera statistics
+
+on:
+  schedule:
+    - cron: '23 13 * * 1'  # Mondays 13:23 UTC; GitHub scheduling can be delayed.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: camera-statistics-collection
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: Test collector and analysis
+        run: python -m unittest discover -s tests -v
+      - name: Collect, compare, and export
+        id: capture
+        continue-on-error: true
+        run: python -m axon_tracker
+      - name: Preserve snapshots and change log
+        if: always() && steps.capture.outcome != 'skipped'
+        run: |
+          if [ ! -d data ]; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "data: capture public camera statistics $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+      - name: Downloadable data bundle
+        if: always() && steps.capture.outcome != 'skipped'
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: camera-statistics-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            data/latest/
+            data/history/
+            data/CHANGELOG.md
+          retention-days: 90
+          if-no-files-found: warn
+      - name: Report collection failure
+        if: steps.capture.outcome == 'failure'
+        run: |
+          echo 'Collection failed or did not meet the coverage threshold. Preserved diagnostics are in data/runs/.'
+          exit 1

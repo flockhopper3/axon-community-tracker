@@ -1,0 +1,26 @@
+[
+  {
+    "event": "baseline",
+    "org": "",
+    "field": "",
+    "previous": null,
+    "current": 326,
+    "note": "Initial observation; growth cannot yet be measured."
+  },
+  {
+    "event": "collection_issue",
+    "org": "riverdalepd",
+    "field": "status",
+    "previous": null,
+    "current": "error",
+    "note": "HTTP 404"
+  },
+  {
+    "event": "collection_issue",
+    "org": "troypdil",
+    "field": "status",
+    "previous": null,
+    "current": "error",
+    "note": "HTTP 404"
+  }
+]

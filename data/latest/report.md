@@ -1,0 +1,75 @@
+# Camera statistics — 2026-09-15T23:08:15Z
+
+Directory entries: **328**. Distinct organizations: **326**. Complete statistics: **324 (99.4%)**.
+
+Counts are publicly reported API values, not independently verified camera inventories. Different count categories overlap. Sums across organizations may also include the same physical cameras.
+
+## Reported counts
+
+| Metric | Sum across distinct organizations | Organizations reporting |
+|---|---:|---:|
+| totalRegisteredCameras | 282,833 | 324 / 326 |
+| totalIntegratedCameras | 618,864 | 324 / 326 |
+| totalOwnedCameras | 180,735 | 324 / 326 |
+| totalSharedCameras | 196,414 | 324 / 326 |
+| totalMaxCameras | 676,528 | 324 / 326 |
+| subscribedCameras | 163,979 | 324 / 326 |
+
+## Largest reported integrated-camera inventories
+
+| Program | State | Integrated |
+|---|---|---:|
+| Connect Atlanta | GA | 28,373 |
+| Connect Sandy Springs | GA | 15,183 |
+| Connect South Fulton | GA | 14,804 |
+| Connect Statesboro | GA | 14,447 |
+| Connect Albany | GA | 13,935 |
+| Henry Safer Together | GA | 13,830 |
+| Connect Cherokee | GA | 13,420 |
+| Connect Smyrna | GA | 13,064 |
+| Connect Douglasville | GA | 12,889 |
+| Connect Cobb  | GA | 12,810 |
+| Chesterfield Community Connect Program | VA | 11,171 |
+| Connect Clayton County | GA | 10,827 |
+| Connect Roswell | GA | 10,641 |
+| Connect Acworth | GA | 10,580 |
+| Connect College Park | GA | 10,505 |
+
+## Largest increases
+
+No eligible comparisons yet. Rankings require two valid observations at least six days apart; the first run establishes a baseline.
+
+## Fastest increases per week
+
+No eligible comparisons yet. Rankings require two valid observations at least six days apart; the first run establishes a baseline.
+
+## Largest percentage increases (baseline at least 25)
+
+No eligible comparisons yet. Rankings require two valid observations at least six days apart; the first run establishes a baseline.
+
+## Largest decreases
+
+No eligible comparisons yet. Rankings require two valid observations at least six days apart; the first run establishes a baseline.
+
+## Change log
+
+| Event | Organization | Field | Before | After |
+|---|---|---|---|---|
+| baseline |  |  | Missing | 326 |
+| collection_issue | riverdalepd | status | Missing | error |
+| collection_issue | troypdil | status | Missing | error |
+
+## Reading the data
+
+- Growth is a change in reported counts, not proof of newly installed cameras.
+- Failed requests and invalid/missing fields stay blank. Genuine zero values stay zero.
+- Directory additions/removals are tracked separately from camera-count changes.
+- Repeated directory entries for the same org are fetched once and counted once in summaries.
+- Percentage change from zero is undefined. Percentage rankings require a baseline of at least 25.
+- Weekly rates use actual elapsed time. Missing observations can extend the comparison interval.
+- 28- and 91-day comparisons use the most recent valid observation on or before the target date.
+- State groups use program directory labels, not camera locations or guaranteed US-only geography.
+
+Source directory: https://axoncommunityconnect.com/locations.json
+
+See README.md for full methodology and exports. Raw responses and capture metadata are retained with each run.
