@@ -195,7 +195,6 @@ def excel_file(path, tables, manifest):
         chart.legend = None
         chart.x_axis.scaling.min = 0
         chart.x_axis.numFmt = '#,##0'
-        chart.y_axis.scaling.orientation = 'maxMin'
         chart_ws.add_chart(chart, "D2")
     for ws in wb:
         for row in ws:
