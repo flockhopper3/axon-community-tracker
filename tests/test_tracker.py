@@ -14,6 +14,7 @@ from axon_tracker.export import csv_file, excel_file
 from axon_tracker.model import (METRICS, PRIMARY, changes, growth, make_communities,
                                 make_orgs, quality, rankings, summaries, validate_directory)
 from axon_tracker.__main__ import run
+from axon_tracker.schedule import capture_due, main as schedule_main
 
 
 def listing(org="boulderpdco", id="boulder", state="CO"):
@@ -210,6 +211,35 @@ class PipelineTests(unittest.TestCase):
             self.assertTrue((root/"SHA256SUMS.txt").exists())
             self.assertTrue((Path(tmp)/"latest/camera_statistics.xlsx").exists())
             self.assertTrue((Path(tmp)/"history/organizations.csv").exists())
+
+
+class ScheduleTests(unittest.TestCase):
+    # Thursday of ISO week 41; that week runs Monday 2026-10-05 through Sunday 2026-10-11.
+    now = dt.datetime(2026, 10, 8, 13, 23, tzinfo=dt.timezone.utc)
+
+    def test_due_without_any_capture(self):
+        self.assertTrue(capture_due(None, self.now))
+
+    def test_not_due_after_accepted_capture_this_week(self):
+        self.assertFalse(capture_due({"captured_at": "2026-10-05T00:00:00Z", "quality_ok": True}, self.now))
+
+    def test_due_when_latest_capture_is_from_previous_week(self):
+        self.assertTrue(capture_due({"captured_at": "2026-10-04T23:59:59Z", "quality_ok": True}, self.now))
+
+    def test_due_when_this_weeks_capture_failed_quality(self):
+        self.assertTrue(capture_due({"captured_at": "2026-10-06T20:00:00Z", "quality_ok": False}, self.now))
+
+    def test_cli_reads_latest_manifest_and_writes_step_output(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            (Path(tmp)/"data/latest").mkdir(parents=True)
+            (Path(tmp)/"data/latest/manifest.json").write_text(
+                json.dumps({"captured_at": "2000-01-03T00:00:00Z", "quality_ok": True}))
+            output = Path(tmp)/"github_output"
+            with patch.dict("os.environ", {"GITHUB_OUTPUT": str(output)}), \
+                 patch("sys.argv", ["schedule", "--data-dir", str(Path(tmp)/"data")]), \
+                 patch("sys.stdout", io.StringIO()):
+                schedule_main()
+            self.assertEqual(output.read_text(), "due=true\n")
 
 
 if __name__ == "__main__":

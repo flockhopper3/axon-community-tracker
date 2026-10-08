@@ -19,6 +19,8 @@ The first observation establishes a baseline. The tracker does not invent histor
 
 The **Weekly camera statistics** GitHub Actions workflow runs **Mondays at 13:23 UTC** (07:23 MDT / 06:23 MST). It can also be started from **Actions → Weekly camera statistics → Run workflow**. GitHub may delay scheduled jobs; the actual capture times are recorded.
 
+If a week has no accepted capture by Monday (for example, because GitHub-hosted runners were unavailable or quality checks failed), the same schedule retries Tuesday through Thursday. Once a week has an accepted capture, the remaining weekday runs skip collection. A late-week catch-up leaves fewer than six days before the next Monday, so that Monday's week-over-week leaderboards stay empty; 28- and 91-day comparisons are unaffected.
+
 Each run:
 
 1. Downloads the current directory once.

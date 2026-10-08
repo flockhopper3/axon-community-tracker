@@ -2,7 +2,9 @@ name: Weekly camera statistics
 
 on:
   schedule:
-    - cron: '23 13 * * 1'  # Mondays 13:23 UTC; GitHub scheduling can be delayed.
+    # Mondays 13:23 UTC; GitHub scheduling can be delayed. Tuesday-Thursday runs are
+    # catch-ups that collect only if the week has no accepted capture yet.
+    - cron: '23 13 * * 1-4'
   workflow_dispatch:
 
 permissions:
@@ -13,8 +15,23 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  check:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    outputs:
+      due: ${{ steps.due.outputs.due }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          sparse-checkout: |
+            axon_tracker
+            data/latest
+      - id: due
+        run: python3 -m axon_tracker.schedule
   collect:
-    runs-on: ubuntu-latest
+    needs: check
+    if: github.event_name == 'workflow_dispatch' || needs.check.outputs.due == 'true'
+    runs-on: ubuntu-24.04
     timeout-minutes: 45
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
