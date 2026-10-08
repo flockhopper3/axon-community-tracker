@@ -19,7 +19,7 @@ The first observation establishes a baseline. The tracker does not invent histor
 
 The **Weekly camera statistics** GitHub Actions workflow runs **Mondays at 13:23 UTC** (07:23 MDT / 06:23 MST). It can also be started from **Actions → Weekly camera statistics → Run workflow**. GitHub may delay scheduled jobs; the actual capture times are recorded.
 
-If a week has no accepted capture by Monday (for example, because GitHub-hosted runners were unavailable or quality checks failed), the same schedule retries Tuesday through Thursday. Once a week has an accepted capture, the remaining weekday runs skip collection. A late-week catch-up leaves fewer than six days before the next Monday, so that Monday's week-over-week leaderboards stay empty; 28- and 91-day comparisons are unaffected.
+If a week has no accepted capture by Monday (for example, because GitHub-hosted runners were unavailable or quality checks failed), the same schedule retries Tuesday through Thursday. Once a week has an accepted capture, the remaining weekday runs skip collection. A late-week catch-up leaves fewer than six days before the next Monday, so that Monday compares against the latest capture at least six days earlier (see `previous` below) and its leaderboards still populate.
 
 Each run:
 
@@ -71,7 +71,7 @@ The vendor distinguishes registration from live integration. A registered camera
 - Absolute change = current count minus previous count.
 - Percentage change = absolute change / previous count. It stays blank for a zero baseline.
 - Weekly rate = absolute change × 7 / elapsed days, using each org's actual retrieval timestamp. This is an observed rate, not a prediction.
-- `previous` uses that org/metric's latest valid observation in an accepted earlier run. A missed week can therefore produce a longer interval; both timestamps are exported.
+- `previous` uses that org/metric's latest valid observation in an accepted earlier run that is at least six days old, so a short gap after a catch-up capture does not empty the leaderboards. If no observation is that old (for example, a newly listed organization), it uses the latest one, shown but not ranked. A missed week can therefore produce a longer interval; both timestamps are exported.
 - `28d` / `91d` use the latest valid observation on or before the respective target date. Actual intervals may exceed the nominal window and are always shown.
 - Rankings require at least six elapsed days. Percentage rankings additionally require at least 25 cameras in the baseline to reduce tiny-denominator effects.
 - Rankings distinguish absolute increases, weekly rates, percentage increases, and decreases, for every metric and horizon.

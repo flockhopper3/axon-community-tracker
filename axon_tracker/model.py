@@ -13,6 +13,7 @@ METRICS = (
     "totalSharedCameras", "totalMaxCameras", "subscribedCameras",
 )
 PRIMARY = "totalIntegratedCameras"
+RANKING_MIN_DAYS = 6
 ORG_PATTERN = re.compile(r"^[A-Za-z0-9][A-Za-z0-9_-]{0,127}$")
 
 
@@ -124,7 +125,11 @@ def quality(locations, orgs, previous, min_coverage=.8):
 
 
 def growth(current, history):
-    """Per-metric last valid observations; 28/91-day baselines must precede their target."""
+    """Per-metric last valid observations; 28/91-day baselines must precede their target.
+
+    `previous` prefers the latest observation old enough to rank, so a mid-week catch-up
+    does not empty the next weekly leaderboard; without one it falls back to the latest.
+    """
     observations = collections.defaultdict(list)
     for snapshot in history:
         if not snapshot["manifest"]["quality_ok"]:
@@ -143,8 +148,10 @@ def growth(current, history):
             earlier = sorted((old for old in observations[row["org"], metric]
                               if date(old["observed_at"]) < when), key=lambda old: old["observed_at"])
             for period, days in (("previous", None), ("28d", 28), ("91d", 91)):
-                candidates = earlier if days is None else [old for old in earlier if
-                              date(old["observed_at"]) <= when - dt.timedelta(days=days)]
+                candidates = [old for old in earlier if
+                              date(old["observed_at"]) <= when - dt.timedelta(days=days or RANKING_MIN_DAYS)]
+                if days is None:
+                    candidates = candidates or earlier
                 if not candidates:
                     continue
                 old = candidates[-1]
@@ -159,7 +166,7 @@ def growth(current, history):
                     "elapsed_days": round(elapsed, 6), "previous_count": before, "current_count": now,
                     "change": delta, "change_pct": delta / before if before else None,
                     "change_per_week": delta * 7 / elapsed, "from_zero": before == 0,
-                    "ranking_eligible": elapsed >= 6, "source_url": row["source_url"]})
+                    "ranking_eligible": elapsed >= RANKING_MIN_DAYS, "source_url": row["source_url"]})
     return result
 
 

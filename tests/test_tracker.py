@@ -80,6 +80,15 @@ class AnalysisTests(unittest.TestCase):
         self.assertTrue(deltas)
         self.assertEqual(rankings(deltas), [])
 
+    def test_previous_skips_too_recent_baseline_for_rankable_one(self):
+        # A mid-week catch-up 4 days before this run must not empty the weekly leaderboard.
+        history = [snapshot(100), snapshot(150, "2026-01-11T00:00:00Z")]
+        deltas = growth(snapshot(200, "2026-01-15T00:00:00Z")["orgs"], history)
+        row = next(x for x in deltas if x["metric"] == PRIMARY and x["period"] == "previous")
+        self.assertEqual((row["previous_count"], row["elapsed_days"]), (100, 14))
+        self.assertTrue(row["ranking_eligible"])
+        self.assertTrue(rankings(deltas))
+
     def test_last_valid_observation_after_missing_week(self):
         bad = snapshot(999, "2026-01-08T00:00:00Z", quality_ok=False)
         deltas = growth(snapshot(120, "2026-01-15T00:00:00Z")["orgs"], [snapshot(), bad])
