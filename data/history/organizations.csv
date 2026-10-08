@@ -1303,3 +1303,339 @@ True,2026-09-28T20:10:01Z,2026-09-28T20:15:24Z,wintergarden,1,Connect Winter Gar
 True,2026-09-28T20:10:01Z,2026-09-28T20:15:25Z,winterpark,1,Connect Winter Park,Winter Park,FL,ok,200,,,https://api.fususone.com/api/public/organizations/winterpark/stats/,294,1544,1081,0,1500,1073
 True,2026-09-28T20:10:01Z,2026-09-28T20:15:26Z,wpb,1,CityWatch Connect,West Palm Beach,FL,ok,200,,,https://api.fususone.com/api/public/organizations/wpb/stats/,1815,958,460,245,1000,434
 True,2026-09-28T20:10:01Z,2026-09-28T20:15:27Z,zacharypdla,1,Connect Zachary,Zachary,LA,ok,200,,,https://api.fususone.com/api/public/organizations/zacharypdla/stats/,7,8,8,0,0,8
+True,2026-10-08T16:19:55Z,2026-10-08T16:19:56Z,aacounty,1,Connect Anne Arundel,Anne Arundel County,MD,ok,200,,,https://api.fususone.com/api/public/organizations/aacounty/stats/,1060,3185,2380,534,1500,2345
+True,2026-10-08T16:19:55Z,2026-10-08T16:19:57Z,accpd,1,Connect Athens-Clarke County,Athens-Clarke County,GA,ok,200,,,https://api.fususone.com/api/public/organizations/accpd/stats/,68,4336,1843,297,500,534
+True,2026-10-08T16:19:55Z,2026-10-08T16:19:58Z,acworthga,1,Connect Acworth,Acworth,GA,ok,200,,,https://api.fususone.com/api/public/organizations/acworthga/stats/,150,10567,237,427,500,237
+True,2026-10-08T16:19:55Z,2026-10-08T16:19:59Z,adamscsoco,1,Connect Adams County,Adams County,CO,ok,200,,,https://api.fususone.com/api/public/organizations/adamscsoco/stats/,156,166,166,0,1500,166
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:00Z,alachuasheriff,1,Connect Alachua County,Alachua County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/alachuasheriff/stats/,135,221,160,5,850,143
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:01Z,albanypolice,1,Connect Albany,Albany,GA,ok,200,,,https://api.fususone.com/api/public/organizations/albanypolice/stats/,733,14051,1154,3519,6634,1140
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:02Z,alexandriapd,1,Connect Alexandria,Alexandria,VA,ok,200,,,https://api.fususone.com/api/public/organizations/alexandriapd/stats/,0,1751,366,1385,10000,366
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:03Z,alpharetta,1,Connect Alpharetta,Alpharetta,GA,ok,200,,,https://api.fususone.com/api/public/organizations/alpharetta/stats/,0,0,0,0,2500,0
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:04Z,alsipil,1,Connect Alsip,Alsip,IL,ok,200,,,https://api.fususone.com/api/public/organizations/alsipil/stats/,740,977,930,26,1500,979
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:05Z,altoonapd,1,Connect Altoona,Altoona,IA,ok,200,,,https://api.fususone.com/api/public/organizations/altoonapd/stats/,355,605,605,0,925,595
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:06Z,amarillopd,1,Connect Amarillo,Amarillo,TX,ok,200,,,https://api.fususone.com/api/public/organizations/amarillopd/stats/,32,491,491,0,500,483
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:07Z,anaheim,1,Connect Anaheim,Anaheim,CA,ok,200,,,https://api.fususone.com/api/public/organizations/anaheim/stats/,424,704,657,3,1500,626
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:08Z,anchoragepdak,1,Safe Anchorage,Anchorage,AK,ok,200,,,https://api.fususone.com/api/public/organizations/anchoragepdak/stats/,271,46,24,22,0,24
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:09Z,anokacountysomn,1,Anoka County Real Time Crime Center,Anoka County,MN,ok,200,,,https://api.fususone.com/api/public/organizations/anokacountysomn/stats/,374,2681,633,1721,500,632
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:10Z,apachejunctionpdaz,1,Connect Apache Junction,Apache Junction,AZ,ok,200,,,https://api.fususone.com/api/public/organizations/apachejunctionpdaz/stats/,0,199,199,0,225,191
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:11Z,apopkapd,1,Connect Apopka,Apopka,FL,ok,200,,,https://api.fususone.com/api/public/organizations/apopkapd/stats/,174,7852,224,6894,500,221
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:12Z,arlingtonheightspd,1,Connect Arlington Heights,Arlington Heights,IL,ok,200,,,https://api.fususone.com/api/public/organizations/arlingtonheightspd/stats/,652,1142,379,763,1500,363
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:13Z,artesianmpd,1,Connect Artesia,Artesia,MN,ok,200,,,https://api.fususone.com/api/public/organizations/artesianmpd/stats/,57,209,209,0,0,207
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:14Z,ashevillepdnc,1,Connect Asheville,Asheville,NC,ok,200,,,https://api.fususone.com/api/public/organizations/ashevillepdnc/stats/,16,344,344,0,500,332
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:15Z,ashlandpdal,1,Connect Ashland,Ashland,AL,ok,200,,,https://api.fususone.com/api/public/organizations/ashlandpdal/stats/,8,673,49,624,125,49
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:16Z,auroragov,1,Connect Aurora,Aurora,CO,ok,200,,,https://api.fususone.com/api/public/organizations/auroragov/stats/,55,936,936,0,10000,936
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:17Z,baltimorecountypd,1,Connect Baltimore County,Baltimore County,MD,ok,200,,,https://api.fususone.com/api/public/organizations/baltimorecountypd/stats/,4,626,556,70,5000,525
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:18Z,bartowfl,1,Connect Bartow,Bartow,FL,ok,200,,,https://api.fususone.com/api/public/organizations/bartowfl/stats/,1,34,34,0,0,32
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:19Z,baycounty,1,Connect Bay County,Bay County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/baycounty/stats/,1722,1517,1163,289,1500,1130
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:20Z,beaumonttx,1,Connect Southeast Texas,Southeast Texas,TX,ok,200,,,https://api.fususone.com/api/public/organizations/beaumonttx/stats/,4053,3800,1536,2094,4500,762
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:21Z,bedfordparkpd,1,Connect Bedford Park,Bedford Park,IL,ok,200,,,https://api.fususone.com/api/public/organizations/bedfordparkpd/stats/,126,282,217,3,500,200
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:22Z,bendpd,1,Connect Bend,Bend,OR,ok,200,,,https://api.fususone.com/api/public/organizations/bendpd/stats/,785,322,254,68,150,210
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:23Z,bensalem,1,Connect Bensalem,Bensalem,PA,ok,200,,,https://api.fususone.com/api/public/organizations/bensalem/stats/,1174,1006,990,16,1500,978
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:24Z,bernalillo,1,Connect Bernalillo County,Bernalillo County,NM,ok,200,,,https://api.fususone.com/api/public/organizations/bernalillo/stats/,216,453,373,80,500,293
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:25Z,beverlyhillspd,1,Beverly Hills Connect,Beverly Hills,CA,ok,200,,,https://api.fususone.com/api/public/organizations/beverlyhillspd/stats/,520,1883,1782,101,1750,1776
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:26Z,biloxi,1,Connect Biloxi,Biloxi,MS,ok,200,,,https://api.fususone.com/api/public/organizations/biloxi/stats/,157,846,423,373,1000,416
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:27Z,birminghampd,1,Connect Birmingham,Birmingham,AL,ok,200,,,https://api.fususone.com/api/public/organizations/birminghampd/stats/,805,951,280,212,10000,237
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:28Z,blackmanleonitwp,1,Connect Blackman Leoni Township,Blackman Leoni Township,MI,ok,200,,,https://api.fususone.com/api/public/organizations/blackmanleonitwp/stats/,1,3,3,0,0,3
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:29Z,bocaratonpdfl,1,Connect BRPD,Boca Raton,FL,ok,200,,,https://api.fususone.com/api/public/organizations/bocaratonpdfl/stats/,5,911,677,8,0,654
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:30Z,boernepdtx,1,Connect Boerne,Boerne,TX,ok,200,,,https://api.fususone.com/api/public/organizations/boernepdtx/stats/,0,77,77,0,0,77
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:31Z,boulderpdco,1,Boulder Community Connect,Boulder,CO,ok,200,,,https://api.fususone.com/api/public/organizations/boulderpdco/stats/,0,161,161,0,0,108
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:32Z,bradentonfl,1,Connect Bradenton,Bradenton,FL,ok,200,,,https://api.fususone.com/api/public/organizations/bradentonfl/stats/,319,3158,267,2891,1500,258
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:33Z,brazostx,1,Connect Brazos County,Brazos County,TX,ok,200,,,https://api.fususone.com/api/public/organizations/brazostx/stats/,155,197,176,0,1500,158
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:34Z,bristolctpd,1,Connect Bristol,Bristol,CT,ok,200,,,https://api.fususone.com/api/public/organizations/bristolctpd/stats/,2,13,13,0,0,0
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:35Z,brooklynparkpdmn,1,Brooklyn Park Community Cameras,Brooklyn Park,MN,ok,200,,,https://api.fususone.com/api/public/organizations/brooklynparkpdmn/stats/,515,2117,232,1874,0,208
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:36Z,brownsvillepd,1,Connect Brownsville,Brownsville,TX,ok,200,,,https://api.fususone.com/api/public/organizations/brownsvillepd/stats/,664,219,219,0,500,199
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:37Z,brunswickpdga,1,Connect Brunswick,Brunswick,GA,ok,200,,,https://api.fususone.com/api/public/organizations/brunswickpdga/stats/,0,3,3,0,0,3
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:38Z,buncombesheriff,1,Connect Buncombe County,Buncombe County,NC,ok,200,,,https://api.fususone.com/api/public/organizations/buncombesheriff/stats/,568,2693,441,2252,4500,316
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:39Z,burbankpdil,1,Connect Burbank,Burbank,IL,ok,200,,,https://api.fususone.com/api/public/organizations/burbankpdil/stats/,304,425,399,3,150,399
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:40Z,calcasieusheriff,1,Connect Calcasieu Parish,Calcasieu Parish,LA,ok,200,,,https://api.fususone.com/api/public/organizations/calcasieusheriff/stats/,3,98,98,0,10000,98
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:41Z,caldwellpdid,1,Connect Caldwell,Caldwell,ID,ok,200,,,https://api.fususone.com/api/public/organizations/caldwellpdid/stats/,61,215,215,0,225,204
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:42Z,campbellpd,1,Connect Campbell,Campbell,CA,ok,200,,,https://api.fususone.com/api/public/organizations/campbellpd/stats/,198,313,281,32,10000,270
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:43Z,carencropd,1,Connect Carencro,Carencro,LA,ok,200,,,https://api.fususone.com/api/public/organizations/carencropd/stats/,85,1606,211,12,914,211
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:44Z,carlsbadpdnm,1,Connect Carlsbad,Carlsbad,NM,ok,200,,,https://api.fususone.com/api/public/organizations/carlsbadpdnm/stats/,3,12,12,0,225,4
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:45Z,carypd,1,Connect Cary,Cary,NC,ok,200,,,https://api.fususone.com/api/public/organizations/carypd/stats/,37,1273,851,0,1500,850
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:46Z,charlestonpd,1,Connect Charleston,Charleston,SC,ok,200,,,https://api.fususone.com/api/public/organizations/charlestonpd/stats/,300,576,500,25,500,465
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:47Z,charlottecounty,1,Connect Charlotte County,Charlotte County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/charlottecounty/stats/,2333,3826,353,3391,1500,330
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:48Z,charlottemecklenburg,1,Connect Charlotte,Charlotte,NC,ok,200,,,https://api.fususone.com/api/public/organizations/charlottemecklenburg/stats/,3166,1823,1618,21,1500,1472
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:49Z,chattanoogapd,1,Dragonfly Community Connect,Chattanooga,TN,ok,200,,,https://api.fususone.com/api/public/organizations/chattanoogapd/stats/,0,775,774,1,1500,765
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:50Z,cherokeega,1,Connect Cherokee,Cherokee County,GA,ok,200,,,https://api.fususone.com/api/public/organizations/cherokeega/stats/,635,13429,622,549,2500,566
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:51Z,chesterfieldcounty,1,Chesterfield Community Connect Program,Chesterfield County,VA,ok,200,,,https://api.fususone.com/api/public/organizations/chesterfieldcounty/stats/,769,11095,990,10043,4500,931
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:52Z,chicagoheights,1,Connect Chicago Heights,Chicago Heights,IL,ok,200,,,https://api.fususone.com/api/public/organizations/chicagoheights/stats/,221,1225,1172,0,500,729
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:53Z,chicopee,1,Connect Chicopee,Chicopee,MA,ok,200,,,https://api.fususone.com/api/public/organizations/chicopee/stats/,135,522,522,0,1500,519
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:54Z,ciceropd,1,Cicero SAFE (Shared Access For Enforcement),Cicero,IL,ok,200,,,https://api.fususone.com/api/public/organizations/ciceropd/stats/,29,551,551,0,1500,543
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:55Z,cincinnatipd,1,Connect Cincinnati,Cincinnati,OH,ok,200,,,https://api.fususone.com/api/public/organizations/cincinnatipd/stats/,1723,844,801,43,1500,746
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:56Z,cityofatlanta,1,Connect Atlanta,Atlanta,GA,ok,200,,,https://api.fususone.com/api/public/organizations/cityofatlanta/stats/,17522,28396,2597,11643,29250,2561
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:57Z,cityofcanton,1,Connect Canton,Canton,MS,ok,200,,,https://api.fususone.com/api/public/organizations/cityofcanton/stats/,0,31,0,31,10000,0
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:58Z,cityofdoralpd,1,Connect Doral,Doral,FL,ok,200,,,https://api.fususone.com/api/public/organizations/cityofdoralpd/stats/,221,3425,397,3028,10000,243
+True,2026-10-08T16:19:55Z,2026-10-08T16:20:59Z,cityofhawthorne,1,Connect Hawthorne,Hawthorne,CA,ok,200,,,https://api.fususone.com/api/public/organizations/cityofhawthorne/stats/,0,3715,874,2841,1500,844
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:00Z,cityofmanchester,1,Connect Manchester,City of Manchester,NH,ok,200,,,https://api.fususone.com/api/public/organizations/cityofmanchester/stats/,584,1006,436,570,1500,434
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:01Z,cityofmiamipd,1,Connect Miami,Miami,FL,ok,200,,,https://api.fususone.com/api/public/organizations/cityofmiamipd/stats/,2406,4355,1221,2905,1500,1203
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:02Z,cityofnewark,1,Connect Newark,Newark,NJ,ok,200,,,https://api.fususone.com/api/public/organizations/cityofnewark/stats/,1208,929,497,231,500,488
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:03Z,cityofomaha,1,Connect Omaha,Omaha,NE,ok,200,,,https://api.fususone.com/api/public/organizations/cityofomaha/stats/,1260,1643,760,782,1500,687
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:04Z,cityofoxford,1,Connect Oxford,City of Oxford,AL,ok,200,,,https://api.fususone.com/api/public/organizations/cityofoxford/stats/,12,1126,324,753,1500,321
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:05Z,cityofroswell,1,Connect Roswell,Roswell,GA,ok,200,,,https://api.fususone.com/api/public/organizations/cityofroswell/stats/,653,10650,509,374,2793,508
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:06Z,cityofshreveport,1,Connect Shreveport,Shreveport,LA,ok,200,,,https://api.fususone.com/api/public/organizations/cityofshreveport/stats/,1141,2862,2348,514,1500,2360
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:07Z,cityofstarkville,1,Connect Starkville,Starkville,MS,ok,200,,,https://api.fususone.com/api/public/organizations/cityofstarkville/stats/,879,875,598,277,500,587
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:08Z,cityofws,1,Connect Winston-Salem,the City of Winston-Salem,NC,ok,200,,,https://api.fususone.com/api/public/organizations/cityofws/stats/,1678,3345,1809,362,2000,1791
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:09Z,claycountysheriff,1,Connect Clay County,Clay County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/claycountysheriff/stats/,158,3398,3230,126,2000,3225
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:10Z,claytoncountypd,1,Connect Clayton County,Clayton County,GA,ok,200,,,https://api.fususone.com/api/public/organizations/claytoncountypd/stats/,398,10785,972,294,8814,957
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:11Z,clearwaterpd,1,Clearwater Camera Sharing,Clearwater,FL,ok,200,,,https://api.fususone.com/api/public/organizations/clearwaterpd/stats/,693,912,842,70,10000,792
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:12Z,clermontpd,1,Connect Clermont,Clermont,FL,ok,200,,,https://api.fususone.com/api/public/organizations/clermontpd/stats/,74,664,69,595,150,64
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:13Z,clevelanddps,1,Safe Smart CLE,Cleveland,OH,ok,200,,,https://api.fususone.com/api/public/organizations/clevelanddps/stats/,1765,4169,4050,0,2375,4053
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:14Z,clevelandmetroparksoh,1,Cleveland Metroparks Connect,Cleveland Metroparks,OH,ok,200,,,https://api.fususone.com/api/public/organizations/clevelandmetroparksoh/stats/,0,24,24,0,0,24
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:15Z,cobbcountypd,1,Connect Cobb ,Cobb County,GA,ok,200,,,https://api.fususone.com/api/public/organizations/cobbcountypd/stats/,3559,13037,1516,4069,9008,1021
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:16Z,collegeparkga,1,Connect College Park,College Park,GA,ok,200,,,https://api.fususone.com/api/public/organizations/collegeparkga/stats/,0,10516,171,426,2539,143
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:17Z,coloradospringspd,1,Together COS,Colorado Springs,CO,ok,200,,,https://api.fususone.com/api/public/organizations/coloradospringspd/stats/,1313,1099,960,139,750,859
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:18Z,coltonpdca,1,Connect Colton,Colton,CA,ok,200,,,https://api.fususone.com/api/public/organizations/coltonpdca/stats/,348,28,19,9,0,19
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:19Z,columbuspdga,1,Connect Columbus,"Columbus, Georgia",GA,ok,200,,,https://api.fususone.com/api/public/organizations/columbuspdga/stats/,2443,566,566,0,1500,557
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:20Z,connectnewportrichey,1,Connect New Port Richey,New Port Richey,FL,ok,200,,,https://api.fususone.com/api/public/organizations/connectnewportrichey/stats/,6,8,8,0,0,8
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:21Z,connecttallahassee,1,Connect Tallahassee,Tallahassee,FL,ok,200,,,https://api.fususone.com/api/public/organizations/connecttallahassee/stats/,253,369,369,0,1500,349
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:22Z,covinapdca,1,SaferCovina,Covina,CA,ok,200,,,https://api.fususone.com/api/public/organizations/covinapdca/stats/,37,2,2,0,150,0
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:23Z,crestviewpdfl,1,Connect Crestview,Crestview,FL,ok,200,,,https://api.fususone.com/api/public/organizations/crestviewpdfl/stats/,0,52,52,0,0,20
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:24Z,crestwoodpdil,1,Connect Crestwood,Crestwood,MN,ok,200,,,https://api.fususone.com/api/public/organizations/crestwoodpdil/stats/,0,118,4,114,0,0
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:25Z,cummingpdga,1,Connect Cumming,Cumming,GA,ok,200,,,https://api.fususone.com/api/public/organizations/cummingpdga/stats/,5,3116,177,367,1500,159
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:26Z,dallaspd,1,Connect Dallas,Dallas,TX,ok,200,,,https://api.fususone.com/api/public/organizations/dallaspd/stats/,4067,1530,1171,358,1500,1077
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:27Z,dalycitypdca,1,Connect Daly City,Daly City,CA,ok,200,,,https://api.fususone.com/api/public/organizations/dalycitypdca/stats/,29,94,53,41,450,22
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:28Z,danvillepd,1,"One Community, Connect Danville",Danville,VA,ok,200,,,https://api.fususone.com/api/public/organizations/danvillepd/stats/,418,1755,342,1413,500,341
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:29Z,dbsfl,1,Connect Daytona Beach Shores,Daytona Beach Shores,FL,ok,200,,,https://api.fususone.com/api/public/organizations/dbsfl/stats/,3,72,72,0,0,70
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:30Z,dcmetro,1,CameraConnectDC,Washington DC,DC,ok,200,,,https://api.fususone.com/api/public/organizations/dcmetro/stats/,44206,1454,1259,119,4500,1127
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:31Z,dealpdnj,1,Connect Deal,Deal,NJ,ok,200,,,https://api.fususone.com/api/public/organizations/dealpdnj/stats/,322,976,224,0,0,224
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:32Z,dearbornpdmi,1,Connect Dearborn,Dearborn,MI,ok,200,,,https://api.fususone.com/api/public/organizations/dearbornpdmi/stats/,710,695,534,4,1500,520
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:33Z,dekalbcountyga,1,Connect DeKalb County,DeKalb County,GA,ok,200,,,https://api.fususone.com/api/public/organizations/dekalbcountyga/stats/,3533,9120,899,44,1500,752
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:34Z,delraybeach,1,Connect Delray Beach,Delray Beach,FL,ok,200,,,https://api.fususone.com/api/public/organizations/delraybeach/stats/,887,524,298,0,500,286
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:35Z,dentonpdtx,1,Denton Connects,Denton,TX,ok,200,,,https://api.fususone.com/api/public/organizations/dentonpdtx/stats/,12,192,192,0,0,183
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:36Z,dothanpd,1,Connect Dothan,Dothan,AL,ok,200,,,https://api.fususone.com/api/public/organizations/dothanpd/stats/,0,239,239,0,0,233
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:37Z,douglascountysonv,1,Safer Douglas County,Douglas County,NV,ok,200,,,https://api.fususone.com/api/public/organizations/douglascountysonv/stats/,0,50,50,0,150,50
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:38Z,douglasvillepolice,1,Connect Douglasville,Douglasville ,GA,ok,200,,,https://api.fususone.com/api/public/organizations/douglasvillepolice/stats/,260,12900,397,3354,10000,397
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:39Z,dubuquepdia,1,Connect Dubuque,Dubuque,IA,ok,200,,,https://api.fususone.com/api/public/organizations/dubuquepdia/stats/,28,4,4,0,1500,0
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:40Z,duckpdnc,1,Connect Duck,Duck,NC,ok,200,,,https://api.fususone.com/api/public/organizations/duckpdnc/stats/,17,2,2,0,0,0
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:41Z,duncanvillepdtx,1,Connect Duncanville,Duncanville,TX,ok,200,,,https://api.fususone.com/api/public/organizations/duncanvillepdtx/stats/,15,128,120,8,0,116
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:42Z,eaganpdmn,1,Connect Eagan,Eagan,MN,ok,200,,,https://api.fususone.com/api/public/organizations/eaganpdmn/stats/,21,76,76,0,0,76
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:43Z,eastbatonrougesola,1,Connect East Baton Rouge,East Baton Rouge,LA,ok,200,,,https://api.fususone.com/api/public/organizations/eastbatonrougesola/stats/,28,66,27,39,500,27
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:44Z,eastpointpdga,1,Connect East Point,East Point,GA,ok,200,,,https://api.fususone.com/api/public/organizations/eastpointpdga/stats/,60,5121,380,469,500,374
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:45Z,elcajonpdca,1,Connect El Cajon,El Cajon,CA,ok,200,,,https://api.fususone.com/api/public/organizations/elcajonpdca/stats/,51,221,185,36,0,167
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:46Z,elizabethnj,1,Connect Elizabeth,Elizabeth,NJ,ok,200,,,https://api.fususone.com/api/public/organizations/elizabethnj/stats/,184,3452,635,2566,2690,604
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:47Z,elyriapdoh,1,Connect Elyria,Elyria,OH,ok,200,,,https://api.fususone.com/api/public/organizations/elyriapdoh/stats/,178,280,231,49,150,219
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:48Z,escambiafl,1,Star Network,Escambia County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/escambiafl/stats/,1591,1272,918,109,1500,368
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:49Z,euclidpdoh,1,Connect Euclid,Euclid,OH,ok,200,,,https://api.fususone.com/api/public/organizations/euclidpdoh/stats/,288,209,209,0,0,209
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:50Z,eurekapdmo,1,Connect Eureka,Eureka,MO,ok,200,,,https://api.fususone.com/api/public/organizations/eurekapdmo/stats/,183,11,0,11,0,0
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:51Z,fairfaxcopd,1,Connect Fairfax County,Fairfax County,VA,ok,200,,,https://api.fususone.com/api/public/organizations/fairfaxcopd/stats/,3587,2223,759,1425,1500,660
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:52Z,farmingtonpd,2,Connect Farmington,Farmington ,NM,ok,200,,,https://api.fususone.com/api/public/organizations/farmingtonpd/stats/,58,545,545,0,1500,529
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:53Z,fayettevillepd,1,Connect Fayetteville,Fayetteville,NC,ok,200,,,https://api.fususone.com/api/public/organizations/fayettevillepd/stats/,1532,547,456,48,1500,453
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:54Z,federalwaypdwa,1,Connect Federal Way,Federal Way,WA,ok,200,,,https://api.fususone.com/api/public/organizations/federalwaypdwa/stats/,0,247,247,0,0,242
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:55Z,flaglercountysheriff,1,Connect Flagler County,Flagler County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/flaglercountysheriff/stats/,934,2169,1962,0,10000,1942
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:56Z,forestparkpd,1,Connect Forest Park,Forest Park,GA,ok,200,,,https://api.fususone.com/api/public/organizations/forestparkpd/stats/,13,10518,242,295,10000,224
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:57Z,forsyth,1,Connect Forsyth County,"Forsyth County, NC",SC,ok,200,,,https://api.fususone.com/api/public/organizations/forsyth/stats/,1443,1050,493,183,500,473
+True,2026-10-08T16:19:55Z,2026-10-08T16:21:58Z,forsythcosoga,1,Connect Forsyth County,Forsyth County,GA,ok,200,,,https://api.fususone.com/api/public/organizations/forsythcosoga/stats/,808,6935,93,3347,1500,93
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:00Z,fortbendcounty,1,Connect Fort Bend,Fort Bend County,TX,ok,200,,,https://api.fususone.com/api/public/organizations/fortbendcounty/stats/,559,205,201,4,500,201
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:01Z,fortdodgepdia,1,Fort Dodge CARES,Fort Dodge,IA,ok,200,,,https://api.fususone.com/api/public/organizations/fortdodgepdia/stats/,13,57,57,0,0,57
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:02Z,fortwaltonbeachpd,1,Connect Fort Walton Beach,Fort Walton Beach,FL,ok,200,,,https://api.fususone.com/api/public/organizations/fortwaltonbeachpd/stats/,6,261,222,9,300,226
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:03Z,fountainvalleypdca,1,SafeFV,Fountain Valley,CA,ok,200,,,https://api.fususone.com/api/public/organizations/fountainvalleypdca/stats/,0,6,6,0,0,4
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:04Z,gardengrovepdca,1,Connect Garden Grove,Garden Grove,CA,ok,200,,,https://api.fususone.com/api/public/organizations/gardengrovepdca/stats/,1,87,87,0,0,87
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:05Z,garypd,1,Connect Gary,Gary,IN,ok,200,,,https://api.fususone.com/api/public/organizations/garypd/stats/,1674,1320,793,0,1500,734
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:06Z,glendorapdca,1,Connect Glendora,Glendora,CA,ok,200,,,https://api.fususone.com/api/public/organizations/glendorapdca/stats/,20,99,99,0,0,99
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:07Z,grapevinepdtx,1,Connect Grapevine,Grapevine,TX,ok,200,,,https://api.fususone.com/api/public/organizations/grapevinepdtx/stats/,2,259,228,25,1,213
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:08Z,greeleypd,1,Connect Greeley,Greeley,CO,ok,200,,,https://api.fususone.com/api/public/organizations/greeleypd/stats/,247,2425,255,2170,1500,239
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:09Z,greensboropd,1,Connect Greensboro,Greensboro,NC,ok,200,,,https://api.fususone.com/api/public/organizations/greensboropd/stats/,754,1232,765,161,1501,725
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:10Z,greenvillecsosc,1,Connect Greenville County,Greenville County,SC,ok,200,,,https://api.fususone.com/api/public/organizations/greenvillecsosc/stats/,203,281,232,49,3000,232
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:11Z,guilfordsheriff,1,Connect Guilford County,Guilford County ,NC,ok,200,,,https://api.fususone.com/api/public/organizations/guilfordsheriff/stats/,874,229,184,40,500,183
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:12Z,hainescitypdfl,1,Connect Haines City,Haines City,FL,ok,200,,,https://api.fususone.com/api/public/organizations/hainescitypdfl/stats/,3,127,127,0,150,125
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:13Z,hamiltoncoso,1,Connect Hamilton County,Hamilton County,OH,ok,200,,,https://api.fususone.com/api/public/organizations/hamiltoncoso/stats/,1694,472,472,0,2000,472
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:14Z,hammondpd,1,Hammond BlueNET,Hammond,IN,ok,200,,,https://api.fususone.com/api/public/organizations/hammondpd/stats/,1221,1326,1194,10,1500,824
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:15Z,hamptonpdva,1,Connect Hampton,Hampton,VA,ok,200,,,https://api.fususone.com/api/public/organizations/hamptonpdva/stats/,2,162,161,1,1,153
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:16Z,hanoverparkpdil,1,Connect Hanover Park,Hanover Park,IL,ok,200,,,https://api.fususone.com/api/public/organizations/hanoverparkpdil/stats/,0,70,70,0,225,66
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:17Z,harrisoncso,1,Connect Harrison County,Harrison County,MS,ok,200,,,https://api.fususone.com/api/public/organizations/harrisoncso/stats/,563,518,90,57,1000,82
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:18Z,hartfordpd,1,Connect Hartford,Hartford,CT,ok,200,,,https://api.fususone.com/api/public/organizations/hartfordpd/stats/,228,1101,1101,0,2000,646
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:19Z,harveypdil,1,Connect Harvey,Harvey,IL,ok,200,,,https://api.fususone.com/api/public/organizations/harveypdil/stats/,0,55,55,0,1500,34
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:20Z,hcso,1,Connect Hillsborough,Hillsborough County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/hcso/stats/,300,4853,1655,3151,1000,1575
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:21Z,hennepincountyso,1,Connect Hennepin County,Hennepin County,MN,ok,200,,,https://api.fususone.com/api/public/organizations/hennepincountyso/stats/,470,3023,381,1766,1500,381
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:22Z,henricocountypdva,1,Connect Henrico County,Henrico County,VA,ok,200,,,https://api.fususone.com/api/public/organizations/henricocountypdva/stats/,66,2234,809,1385,1500,811
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:23Z,henrycountypd,1,Henry Safer Together,Henry County,GA,ok,200,,,https://api.fususone.com/api/public/organizations/henrycountypd/stats/,4983,13842,677,3627,7950,670
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:24Z,herndonpdva,1,Connect Herndon,Herndon,VA,ok,200,,,https://api.fususone.com/api/public/organizations/herndonpdva/stats/,26,42,42,0,150,42
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:25Z,highpointncpd,1,Link High Point,High Point,NC,ok,200,,,https://api.fususone.com/api/public/organizations/highpointncpd/stats/,1263,579,480,0,500,468
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:26Z,hoodcoso,1,Connect Hood County,Hood County,TX,ok,200,,,https://api.fususone.com/api/public/organizations/hoodcoso/stats/,0,222,222,0,0,222
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:27Z,hooverpd,1,Connect Hoover,Hoover,AL,ok,200,,,https://api.fususone.com/api/public/organizations/hooverpd/stats/,46,920,393,0,1500,391
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:28Z,hopemillspd,1,Connect Hope Mills,Hope Mills,NC,ok,200,,,https://api.fususone.com/api/public/organizations/hopemillspd/stats/,17,349,63,0,10000,63
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:29Z,ilstatepolice,1,Connect Illinois,Illinois,IL,ok,200,,,https://api.fususone.com/api/public/organizations/ilstatepolice/stats/,18,1476,789,0,1500,786
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:30Z,indianriversheriff,1,Connect Indian River County,Indian River County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/indianriversheriff/stats/,224,2492,808,1530,1500,738
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:31Z,irvingpdtx,1,Connect Irving,Irving,TX,ok,200,,,https://api.fususone.com/api/public/organizations/irvingpdtx/stats/,61,1446,1246,200,1500,1158
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:32Z,jacksonms,1,Connect Jackson MS,Jackson,MS,ok,200,,,https://api.fususone.com/api/public/organizations/jacksonms/stats/,324,1246,735,505,2067,728
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:33Z,jacksonpdtn,1,"Safe Jackson, TN",Jackson,TN,ok,200,,,https://api.fususone.com/api/public/organizations/jacksonpdtn/stats/,5,364,302,0,500,281
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:34Z,jacksonvillesheriff,1,ConnectDuval,Duval County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/jacksonvillesheriff/stats/,6828,9815,2703,6966,1500,1688
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:35Z,jeffersoncountysheriff,1,Connect Jefferson County,Jefferson County,AL,ok,200,,,https://api.fususone.com/api/public/organizations/jeffersoncountysheriff/stats/,1473,2674,1788,808,1500,1786
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:36Z,kalamazoodps,1,Connect Kalamazoo,Kalamazoo,MI,ok,200,,,https://api.fususone.com/api/public/organizations/kalamazoodps/stats/,837,1104,1104,0,1500,1093
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:37Z,kansascitykspd,1,Connect KCK,"Kansas City, Kansas",KS,ok,200,,,https://api.fususone.com/api/public/organizations/kansascitykspd/stats/,3340,1193,1148,45,1500,1144
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:38Z,kennesawpd,1,Connect Kennesaw,Kennesaw,GA,ok,200,,,https://api.fususone.com/api/public/organizations/kennesawpd/stats/,566,9240,257,34,500,256
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:39Z,kentcountysd,1,The Kent Safety Network,Kent County,MI,ok,200,,,https://api.fususone.com/api/public/organizations/kentcountysd/stats/,586,2737,765,1944,4500,515
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:40Z,killeenpd,1,KPD Connect,Killeen,TX,ok,200,,,https://api.fususone.com/api/public/organizations/killeenpd/stats/,1412,506,506,0,1500,498
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:41Z,knoxvillepdtn,1,Connect Knoxville,Knoxville,TN,ok,200,,,https://api.fususone.com/api/public/organizations/knoxvillepdtn/stats/,583,682,552,130,500,187
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:42Z,kylepdtx,1,Connect Kyle,Kyle,TX,ok,200,,,https://api.fususone.com/api/public/organizations/kylepdtx/stats/,154,110,110,0,500,110
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:43Z,lafayettepd,1,Connect Lafayette,Lafayette,LA,ok,200,,,https://api.fususone.com/api/public/organizations/lafayettepd/stats/,378,2220,1589,350,1500,1558
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:44Z,lafourcheparishso,1,Connect Lafourche Parish,Lafourche Parish,LA,ok,200,,,https://api.fususone.com/api/public/organizations/lafourcheparishso/stats/,755,136,136,0,500,136
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:45Z,lagrangepd,1,Connect Lagrange,Lagrange,GA,ok,200,,,https://api.fususone.com/api/public/organizations/lagrangepd/stats/,137,58,58,0,150,52
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:46Z,lagunabeachpd,1,Connect Laguna Beach,Laguna Beach,CA,ok,200,,,https://api.fususone.com/api/public/organizations/lagunabeachpd/stats/,0,25,25,0,148,25
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:47Z,lakecountysheriff,1,Connect Lake County,Lake County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/lakecountysheriff/stats/,2266,6360,105,5760,1500,80
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:48Z,lakewoodpdco,1,Connect Lakewood,Lakewood,CO,ok,200,,,https://api.fususone.com/api/public/organizations/lakewoodpdco/stats/,153,496,496,0,0,484
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:49Z,lapd,1,Connect Los Angeles,Los Angeles,CA,ok,200,,,https://api.fususone.com/api/public/organizations/lapd/stats/,0,271,271,0,0,216
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:50Z,lasd,1,Connect Los Angeles County,Los Angeles County,CA,ok,200,,,https://api.fususone.com/api/public/organizations/lasd/stats/,2197,2999,1595,1404,1500,442
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:51Z,lawrencepdks,1,Connect Lawrence,Lawrence,KS,ok,200,,,https://api.fususone.com/api/public/organizations/lawrencepdks/stats/,132,467,467,0,500,467
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:52Z,lawrencevillepdga,1,Connect Lawrenceville,"Lawrenceville, Georgia",GA,ok,200,,,https://api.fususone.com/api/public/organizations/lawrencevillepdga/stats/,0,707,456,193,1,453
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:53Z,lawtonpdok,1,Connect Lawton,Lawton,OK,ok,200,,,https://api.fususone.com/api/public/organizations/lawtonpdok/stats/,0,24,24,0,0,24
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:54Z,leavenworthpdks,1,Connect Leavenworth,Leavenworth,KS,ok,200,,,https://api.fususone.com/api/public/organizations/leavenworthpdks/stats/,0,47,47,0,0,47
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:55Z,lenexapdks,1,Connect Lenexa,Lenexa,KS,ok,200,,,https://api.fususone.com/api/public/organizations/lenexapdks/stats/,0,1171,334,0,0,324
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:56Z,lexingtonky,1,Connect Lexington,Lexington,KY,ok,200,,,https://api.fususone.com/api/public/organizations/lexingtonky/stats/,2108,1087,811,275,10000,807
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:57Z,lincolnbrookhaven,1,Connect Brookhaven and Lincoln County,Brookhaven and Lincoln County,MS,ok,200,,,https://api.fususone.com/api/public/organizations/lincolnbrookhaven/stats/,124,181,181,0,10000,179
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:58Z,littlerockpd,1,Connect Little Rock,Little Rock,AR,ok,200,,,https://api.fususone.com/api/public/organizations/littlerockpd/stats/,2868,2565,1797,542,1500,1904
+True,2026-10-08T16:19:55Z,2026-10-08T16:22:59Z,losgatospdca,1,Community Protecht,Los Gatos,CA,ok,200,,,https://api.fususone.com/api/public/organizations/losgatospdca/stats/,0,39,39,0,0,34
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:00Z,louisvillemetro,1,Connect Louisville,Louisville,KY,ok,200,,,https://api.fususone.com/api/public/organizations/louisvillemetro/stats/,1042,1744,1501,240,1500,1455
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:01Z,lynchburgpd,1,Hill City Connect,Lynchburg,VA,ok,200,,,https://api.fususone.com/api/public/organizations/lynchburgpd/stats/,1390,749,749,0,1500,731
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:02Z,madisonthecity,1,Connect Madison,Madison,MS,ok,200,,,https://api.fususone.com/api/public/organizations/madisonthecity/stats/,33,170,85,0,1500,62
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:03Z,manassaspdva,1,Connect Manassas City,Manassas City,VA,ok,200,,,https://api.fususone.com/api/public/organizations/manassaspdva/stats/,0,451,48,403,0,48
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:04Z,manhattanbeach,1,Connect Manhattan Beach,Manhattan Beach,CA,ok,200,,,https://api.fususone.com/api/public/organizations/manhattanbeach/stats/,7,2881,167,2714,10000,164
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:05Z,manheimtwp,1,Connect Manheim Township,Manheim Township,PA,ok,200,,,https://api.fususone.com/api/public/organizations/manheimtwp/stats/,0,30,30,0,0,27
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:06Z,martincountyso,2,Connect Martin County,Martin County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/martincountyso/stats/,1149,6030,585,5179,1500,504
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:07Z,mcpdmd,1,MoCoConnect,Montgomery County,MD,ok,200,,,https://api.fususone.com/api/public/organizations/mcpdmd/stats/,2270,2050,1251,595,10000,1155
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:08Z,mcso-tn,1,Connect Madison County,Madison County,TN,ok,200,,,https://api.fususone.com/api/public/organizations/mcso-tn/stats/,0,621,365,0,150,365
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:09Z,melroseparkpdil,1,Connect Melrose Park,Melrose Park,IL,ok,200,,,https://api.fususone.com/api/public/organizations/melroseparkpdil/stats/,36,237,197,40,0,193
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:10Z,memphispd,1,Connect Memphis,Memphis,TN,ok,200,,,https://api.fususone.com/api/public/organizations/memphispd/stats/,14252,3158,2326,674,2750,2182
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:11Z,mercedpdca,1,Merced Community Camera Program,Merced,CA,ok,200,,,https://api.fususone.com/api/public/organizations/mercedpdca/stats/,423,105,105,0,0,105
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:12Z,meridianpdid,1,Connect MPD,Meridian,ID,ok,200,,,https://api.fususone.com/api/public/organizations/meridianpdid/stats/,0,62,62,0,0,52
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:13Z,meridianpdms,1,Connect Meridian,Meridian,MS,ok,200,,,https://api.fususone.com/api/public/organizations/meridianpdms/stats/,0,303,303,0,10000,303
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:14Z,miamibeachpdfl,1,Connect Miami Beach,Miami Beach,FL,ok,200,,,https://api.fususone.com/api/public/organizations/miamibeachpdfl/stats/,0,528,528,0,0,480
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:15Z,miamidadepd,1,Connect Miami-Dade,Miami-Dade,FL,ok,200,,,https://api.fususone.com/api/public/organizations/miamidadepd/stats/,1254,1799,767,299,5000,694
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:16Z,milwaukeepd,1,Community Connect Milwaukee,Milwaukee,WI,ok,200,,,https://api.fususone.com/api/public/organizations/milwaukeepd/stats/,1552,1225,1014,211,1500,985
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:17Z,minnetonkapdmn,1,Keep Minnetonka Safe,Minnetonka,MN,ok,200,,,https://api.fususone.com/api/public/organizations/minnetonkapdmn/stats/,692,1895,660,1235,1500,644
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:18Z,missoulapdmt,1,Connect Missoula,Missoula,MT,ok,200,,,https://api.fususone.com/api/public/organizations/missoulapdmt/stats/,99,25,25,0,0,25
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:19Z,mobilepdal,1,Connect Mobile,Mobile,AL,ok,200,,,https://api.fususone.com/api/public/organizations/mobilepdal/stats/,0,259,259,0,0,259
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:20Z,modestopd,1,Connect Modesto,Modesto,CA,ok,200,,,https://api.fususone.com/api/public/organizations/modestopd/stats/,89,429,413,16,1500,392
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:21Z,monmouthcounty,1,Connect Monmouth County,Monmouth County,NJ,ok,200,,,https://api.fususone.com/api/public/organizations/monmouthcounty/stats/,74,1814,1062,0,1500,1024
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:22Z,monroecoso,1,Connect Monroe County,Monroe County,NY,ok,200,,,https://api.fususone.com/api/public/organizations/monroecoso/stats/,181,892,892,0,10000,825
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:23Z,montgomerypd-al,1,STAR Watch Program,Montgomery,AL,ok,200,,,https://api.fususone.com/api/public/organizations/montgomerypd-al/stats/,2915,961,264,631,1500,262
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:24Z,montgomeryso-al,1,Connect Montgomery County,Montgomery County,AL,ok,200,,,https://api.fususone.com/api/public/organizations/montgomeryso-al/stats/,23,295,86,0,402,86
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:25Z,montrosepdco,1,Connect Montrose,Montrose,CO,ok,200,,,https://api.fususone.com/api/public/organizations/montrosepdco/stats/,0,171,171,0,0,171
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:26Z,mooresvillepd,1,Connect Mooresville,Mooresville,NC,ok,200,,,https://api.fususone.com/api/public/organizations/mooresvillepd/stats/,0,267,267,0,1500,267
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:27Z,mpls,1,Connect Minneapolis,Minneapolis,MN,ok,200,,,https://api.fususone.com/api/public/organizations/mpls/stats/,2644,2713,763,1429,1500,757
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:28Z,munsterpdin,1,Connect Munster,Munster,IN,ok,200,,,https://api.fususone.com/api/public/organizations/munsterpdin/stats/,111,274,98,0,150,98
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:29Z,newbrunswickpdnj,1,Connect New Brunswick,New Brunswick,NJ,ok,200,,,https://api.fususone.com/api/public/organizations/newbrunswickpdnj/stats/,0,123,123,0,0,123
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:30Z,newcastlede,1,Connect New Castle County,New Castle County,DE,ok,200,,,https://api.fususone.com/api/public/organizations/newcastlede/stats/,21,162,154,8,0,85
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:31Z,newhavenct,1,Connect New Haven,New Haven,CT,ok,200,,,https://api.fususone.com/api/public/organizations/newhavenct/stats/,193,699,699,0,1500,699
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:32Z,newlondonpdct,1,Connect New London,New London,CT,ok,200,,,https://api.fususone.com/api/public/organizations/newlondonpdct/stats/,0,6,6,0,0,3
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:33Z,newportbeachpdca,1,Connect Newport Beach,Newport Beach,CA,ok,200,,,https://api.fususone.com/api/public/organizations/newportbeachpdca/stats/,420,241,182,59,1,140
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:34Z,newportnewspd,1,Connect Newport News,Newport News,VA,ok,200,,,https://api.fususone.com/api/public/organizations/newportnewspd/stats/,1414,2335,934,1385,1500,930
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:35Z,newtonsheriff,1,Connect Newton County,Newton County,GA,ok,200,,,https://api.fususone.com/api/public/organizations/newtonsheriff/stats/,348,3538,523,52,150,520
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:36Z,norfolkpd,1,Connect Norfolk,Norfolk,VA,ok,200,,,https://api.fususone.com/api/public/organizations/norfolkpd/stats/,441,3701,2080,1385,4500,1978
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:37Z,northcharlestonpd,1,Connect North Charleston,North Charleston,SC,ok,200,,,https://api.fususone.com/api/public/organizations/northcharlestonpd/stats/,1369,536,291,71,10000,283
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:38Z,northlittlerock,1,Connect North Little Rock,North Little Rock,AR,ok,200,,,https://api.fususone.com/api/public/organizations/northlittlerock/stats/,408,991,728,61,1500,728
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:39Z,northport,1,Connect North Port,North Port,FL,ok,200,,,https://api.fususone.com/api/public/organizations/northport/stats/,149,893,246,543,150,202
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:40Z,novatopdca,1,Connect Novato,Novato,CA,ok,200,,,https://api.fususone.com/api/public/organizations/novatopdca/stats/,667,42,42,0,0,42
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:41Z,nypd,1,Connect NYPD,New York City,NY,ok,200,,,https://api.fususone.com/api/public/organizations/nypd/stats/,5511,2185,2185,0,32767,2108
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:42Z,oakbrookpd,1,Connect Oak Brook,Oak Brook,IL,ok,200,,,https://api.fususone.com/api/public/organizations/oakbrookpd/stats/,166,403,363,40,1500,363
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:43Z,oakdaleca,1,Connect Oakdale,Oakdale,CA,ok,200,,,https://api.fususone.com/api/public/organizations/oakdaleca/stats/,17,259,246,13,500,244
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:44Z,oaklawn,1,Connect Oak Lawn,Oak Lawn,IL,ok,200,,,https://api.fususone.com/api/public/organizations/oaklawn/stats/,1426,2205,955,1157,1500,763
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:45Z,obterracepd,1,Connect Oakbrook Terrace,Oakbrook Terrace,IL,ok,200,,,https://api.fususone.com/api/public/organizations/obterracepd/stats/,163,312,0,6,500,0
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:46Z,oceansidepdca,1,Connect Oceanside,Oceanside,CA,ok,200,,,https://api.fususone.com/api/public/organizations/oceansidepdca/stats/,325,257,150,107,0,150
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:47Z,ocsdca,1,Connect Orange County,Orange County,CA,ok,200,,,https://api.fususone.com/api/public/organizations/ocsdca/stats/,2815,2875,1343,1511,5000,1198
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:48Z,okaloosacounty,1,Connect Okaloosa County,Okaloosa County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/okaloosacounty/stats/,783,527,197,262,1500,167
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:49Z,okcpd,1,Connect Oklahoma City,Oklahoma City,OK,ok,200,,,https://api.fususone.com/api/public/organizations/okcpd/stats/,1733,7145,6530,615,1500,2034
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:50Z,ontariopolice,1,Connect Ontario,Ontario,CA,ok,200,,,https://api.fususone.com/api/public/organizations/ontariopolice/stats/,319,2150,1322,828,1500,1257
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:51Z,orangecofl,1,Connect Orange County,Orange County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/orangecofl/stats/,2299,10289,861,7481,7750,758
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:52Z,orlando,1,Orlando Connect,Orlando,FL,ok,200,,,https://api.fususone.com/api/public/organizations/orlando/stats/,7318,4096,1050,2658,1500,1000
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:53Z,orlandparkpd,1,Connect Orland Park,Orland Park,IL,ok,200,,,https://api.fususone.com/api/public/organizations/orlandparkpd/stats/,425,1275,429,846,10000,386
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:54Z,overlandparkpdks,1,Secure OP,Overland Park,KS,ok,200,,,https://api.fususone.com/api/public/organizations/overlandparkpdks/stats/,7,1089,555,0,1500,542
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:55Z,pascopdwa,1,OnePasco,Pasco,WA,ok,200,,,https://api.fususone.com/api/public/organizations/pascopdwa/stats/,88,148,148,0,150,142
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:56Z,patersonpdnj,1,Connect Paterson,Paterson,NJ,ok,200,,,https://api.fususone.com/api/public/organizations/patersonpdnj/stats/,185,379,379,0,10000,374
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:57Z,pbso,1,Keep Palm Beach County Safe,Palm Beach County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/pbso/stats/,1897,1506,1020,0,1,926
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:58Z,peachtreecorners,1,Connect Peachtree,Peachtree Corners,GA,ok,200,,,https://api.fususone.com/api/public/organizations/peachtreecorners/stats/,445,191,142,32,500,139
+True,2026-10-08T16:19:55Z,2026-10-08T16:23:59Z,pekinpdil,1,Connect Pekin,Pekin,IL,ok,200,,,https://api.fususone.com/api/public/organizations/pekinpdil/stats/,0,87,68,0,0,68
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:00Z,pellcitypd,1,Connect Pell City,Pell City,AL,ok,200,,,https://api.fususone.com/api/public/organizations/pellcitypd/stats/,272,976,279,697,1000,279
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:01Z,peoriapd,1,Connect Peoria,Peoria,IL,ok,200,,,https://api.fususone.com/api/public/organizations/peoriapd/stats/,445,898,543,0,1500,536
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:02Z,peoriapdaz,1,Connect Peoria,Peoria,AZ,ok,200,,,https://api.fususone.com/api/public/organizations/peoriapdaz/stats/,76,592,396,25,10000,390
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:03Z,petersburgpd,1,Connect Petersburg,Petersburg,VA,ok,200,,,https://api.fususone.com/api/public/organizations/petersburgpd/stats/,358,1711,298,1413,1500,273
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:04Z,pgcountypd,1,Connect Prince George's County,Prince George's County,MD,ok,200,,,https://api.fususone.com/api/public/organizations/pgcountypd/stats/,488,2777,1781,578,1500,1482
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:05Z,placerca,1,Connect Placer County,Placer County,CA,ok,200,,,https://api.fususone.com/api/public/organizations/placerca/stats/,558,912,263,472,500,219
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:06Z,planotx,1,Keep Plano Safe,Plano,TX,ok,200,,,https://api.fususone.com/api/public/organizations/planotx/stats/,26,324,324,0,500,316
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:07Z,plaqueminesparishso,1,Connect Plaquemines Parish,Plaquemines Parish,LA,ok,200,,,https://api.fususone.com/api/public/organizations/plaqueminesparishso/stats/,8,532,35,497,10000,35
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:08Z,pomonapd,1,Pomona Safe Communities,Pomona,CA,ok,200,,,https://api.fususone.com/api/public/organizations/pomonapd/stats/,266,194,179,15,10000,168
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:09Z,portsmouthpd,1,Portsmouth Connect,Portsmouth,VA,ok,200,,,https://api.fususone.com/api/public/organizations/portsmouthpd/stats/,491,1806,393,1413,1500,392
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:10Z,powderspringspd,1,Connect Powder Springs,Powder Springs,GA,ok,200,,,https://api.fususone.com/api/public/organizations/powderspringspd/stats/,113,2966,52,18,150,52
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:11Z,prairievillagepdks,1,Connect Prairie Village,Prairie Village,KS,ok,200,,,https://api.fususone.com/api/public/organizations/prairievillagepdks/stats/,129,1490,327,320,1500,312
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:12Z,queencreekaz,1,Connect Queen Creek,Queen Creek,AZ,ok,200,,,https://api.fususone.com/api/public/organizations/queencreekaz/stats/,76,994,490,333,1499,482
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:13Z,raleighncpd,1,CONNECTRALEIGH,Raleigh,NC,ok,200,,,https://api.fususone.com/api/public/organizations/raleighncpd/stats/,1904,1624,1129,64,1500,1126
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:14Z,rankincounty,1,Connect Rankin County,Rankin County,MS,ok,200,,,https://api.fususone.com/api/public/organizations/rankincounty/stats/,0,368,266,58,1500,261
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:15Z,redondobchpd,1,Connect Redondo Beach,Redondo Beach,CA,ok,200,,,https://api.fususone.com/api/public/organizations/redondobchpd/stats/,445,482,77,405,350,75
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:16Z,renopd,1,Connect Reno,Reno,NV,ok,200,,,https://api.fususone.com/api/public/organizations/renopd/stats/,710,946,542,141,500,514
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:17Z,rentonpdwa,1,Connect Renton,Renton,WA,ok,200,,,https://api.fususone.com/api/public/organizations/rentonpdwa/stats/,1328,237,237,0,0,219
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:18Z,rialtopd,1,Connect Rialto,Rialto,CA,ok,200,,,https://api.fususone.com/api/public/organizations/rialtopd/stats/,352,3614,703,2911,500,689
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:19Z,richlandpdwa,1,Connect Richland,Richland,WA,ok,200,,,https://api.fususone.com/api/public/organizations/richlandpdwa/stats/,40,148,148,0,0,117
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:20Z,richmondcsoga,1,Connect Richmond County,Richmond County,GA,ok,200,,,https://api.fususone.com/api/public/organizations/richmondcsoga/stats/,0,141,141,0,0,141
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:21Z,richmondva,1,Connect Richmond,Richmond,VA,ok,200,,,https://api.fususone.com/api/public/organizations/richmondva/stats/,238,563,489,0,1500,410
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:22Z,rileycountypd,1,Connect Riley County,Riley County,KS,ok,200,,,https://api.fususone.com/api/public/organizations/rileycountypd/stats/,81,47,47,0,150,47
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:23Z,riverdalepd,1,Connect Riverdale,Riverdale,IL,error,404,HTTP 404,totalRegisteredCameras;totalIntegratedCameras;totalOwnedCameras;totalSharedCameras;totalMaxCameras;subscribedCameras,https://api.fususone.com/api/public/organizations/riverdalepd/stats/,,,,,,
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:24Z,rocklinpd,1,Rocklin on Watch,Rocklin,CA,ok,200,,,https://api.fususone.com/api/public/organizations/rocklinpd/stats/,505,280,99,147,150,99
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:25Z,rockymountpd,1,Connect Rocky Mount,Rocky Mount,NC,ok,200,,,https://api.fususone.com/api/public/organizations/rockymountpd/stats/,112,724,672,50,5000,614
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:26Z,rogerspdar,1,Connect Rogers,Rogers,AR,ok,200,,,https://api.fususone.com/api/public/organizations/rogerspdar/stats/,280,265,265,0,0,254
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:27Z,roswellpdnm,1,SaferRoswell,Roswell,NM,ok,200,,,https://api.fususone.com/api/public/organizations/roswellpdnm/stats/,4,102,102,0,0,102
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:28Z,sacramentocoso,1,Connect Sacramento County,Sacramento County,CA,ok,200,,,https://api.fususone.com/api/public/organizations/sacramentocoso/stats/,353,415,188,227,5000,187
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:29Z,sacramentopd,1,Sacramento PD Connect,Sacramento,CA,ok,200,,,https://api.fususone.com/api/public/organizations/sacramentopd/stats/,912,1779,1038,423,2000,1016
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:30Z,salinaspd,1,Connect Salinas,Salinas,CA,ok,200,,,https://api.fususone.com/api/public/organizations/salinaspd/stats/,42,2947,264,2683,500,262
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:31Z,sanbernardinopdca,1,Connect San Bernardino,San Bernardino,CA,ok,200,,,https://api.fususone.com/api/public/organizations/sanbernardinopdca/stats/,156,680,558,122,6000,451
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:32Z,sandyspringspd,1,Connect Sandy Springs,Sandy Springs,GA,ok,200,,,https://api.fususone.com/api/public/organizations/sandyspringspd/stats/,879,15236,301,4382,7782,298
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:33Z,sanjoaquincsoca,1,ConnectSJSO,San Joaquin County,CA,ok,200,,,https://api.fususone.com/api/public/organizations/sanjoaquincsoca/stats/,152,131,63,68,0,62
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:34Z,sanjose,1,Connect San Jose,San Jose,CA,ok,200,,,https://api.fususone.com/api/public/organizations/sanjose/stats/,10816,1596,1319,277,1500,1205
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:35Z,sanmarcospdtx,1,Connect San Marcos,San Marcos,TX,ok,200,,,https://api.fususone.com/api/public/organizations/sanmarcospdtx/stats/,63,78,78,0,10000,78
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:36Z,sanmateopd,1,Connect San Mateo,San Mateo,CA,ok,200,,,https://api.fususone.com/api/public/organizations/sanmateopd/stats/,3094,99,99,0,1500,96
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:37Z,sarasotacsofl,1,Connect Sarasota County,Sarasota County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/sarasotacsofl/stats/,5,452,386,66,0,374
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:38Z,saratogaspringspdny,1,Connect Saratoga Springs,Saratoga Springs,NY,ok,200,,,https://api.fususone.com/api/public/organizations/saratogaspringspdny/stats/,130,197,181,16,0,180
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:39Z,savannahpd,1,Connect Savannah,Savannah,GA,ok,200,,,https://api.fususone.com/api/public/organizations/savannahpd/stats/,1173,9269,304,23,1500,304
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:40Z,schenectadypdny,1,Connect Schenectady,Schenectady,NY,ok,200,,,https://api.fususone.com/api/public/organizations/schenectadypdny/stats/,0,69,69,0,0,69
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:41Z,scrantonpd,1,Connect Scranton,Scranton,PA,ok,200,,,https://api.fususone.com/api/public/organizations/scrantonpd/stats/,710,60,60,0,0,60
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:42Z,seagovillepdtx,1,Seagoville Connect and Protect,Seagoville,TX,ok,200,,,https://api.fususone.com/api/public/organizations/seagovillepdtx/stats/,22,50,50,0,225,50
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:43Z,seatpleasantmd,1,Connect Seat Pleasant,Seat Pleasant,MD,ok,200,,,https://api.fususone.com/api/public/organizations/seatpleasantmd/stats/,0,1128,193,534,500,190
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:44Z,seattlepd,1,Connect Seattle,Seattle,WA,ok,200,,,https://api.fususone.com/api/public/organizations/seattlepd/stats/,888,687,664,0,5000,663
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:45Z,seminolecountyso,1,Connect Seminole,Seminole County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/seminolecountyso/stats/,110,2046,528,1081,1500,518
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:46Z,shawneecosheriff,1,Connect Shawnee County and the City of Topeka,Shawnee County and the City of Topeka,KS,ok,200,,,https://api.fususone.com/api/public/organizations/shawneecosheriff/stats/,1203,2249,648,1601,500,548
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:47Z,shelbycoso,1,Connect Shelby County,Shelby County,TN,ok,200,,,https://api.fususone.com/api/public/organizations/shelbycoso/stats/,1309,2379,181,123,1500,152
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:48Z,smyrnaga,1,Connect Smyrna,Smyrna,GA,ok,200,,,https://api.fususone.com/api/public/organizations/smyrnaga/stats/,333,13075,262,3416,3058,257
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:49Z,southbendpd,1,Sync South Bend,South Bend,IN,ok,200,,,https://api.fususone.com/api/public/organizations/southbendpd/stats/,2536,2035,1291,744,1500,1278
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:50Z,southfultonga,1,Connect South Fulton,South Fulton,GA,ok,200,,,https://api.fususone.com/api/public/organizations/southfultonga/stats/,460,14815,552,4105,8000,537
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:51Z,sparkspdnv,1,Connect Sparks,Sparks,NV,ok,200,,,https://api.fususone.com/api/public/organizations/sparkspdnv/stats/,244,749,216,0,500,202
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:52Z,spartanburgpd,1,Connect Spartanburg,Spartanburg,SC,ok,200,,,https://api.fususone.com/api/public/organizations/spartanburgpd/stats/,187,674,670,4,500,670
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:53Z,spokanecsowa,1,Connect Spokane County,Spokane County,WA,ok,200,,,https://api.fususone.com/api/public/organizations/spokanecsowa/stats/,0,959,827,131,150,720
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:54Z,springfieldpd,1,Sync Springfield,Springfield,IL,ok,200,,,https://api.fususone.com/api/public/organizations/springfieldpd/stats/,1647,2550,2477,0,1500,2452
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:55Z,springfieldpdmo,1,Springfield Safe,Springfield,MO,ok,200,,,https://api.fususone.com/api/public/organizations/springfieldpdmo/stats/,18,313,162,151,0,153
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:56Z,statesboropd,1,Connect Statesboro,Statesboro,GA,ok,200,,,https://api.fususone.com/api/public/organizations/statesboropd/stats/,1,14459,629,4132,3950,622
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:57Z,stbernardso,1,Protect St. Bernard,St. Bernard Parish,LA,ok,200,,,https://api.fususone.com/api/public/organizations/stbernardso/stats/,147,85,84,1,781,84
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:58Z,stcloud,1,Connect St. Cloud,St. Cloud,FL,ok,200,,,https://api.fususone.com/api/public/organizations/stcloud/stats/,356,9039,1926,5783,7000,1903
+True,2026-10-08T16:19:55Z,2026-10-08T16:24:59Z,stcloudpdmn,1,Saint Cloud Connect and Protect,Saint Cloud,MN,ok,200,,,https://api.fususone.com/api/public/organizations/stcloudpdmn/stats/,0,27,27,0,350,19
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:00Z,stjohnscountyso,1,Connect St. Johns,St. Johns County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/stjohnscountyso/stats/,1710,1336,1150,186,1500,1104
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:01Z,stluciesheriff,1,Connect St Lucie County,St. Lucie County,FL,ok,200,,,https://api.fususone.com/api/public/organizations/stluciesheriff/stats/,831,124,124,0,1500,72
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:02Z,stocktonpdca,1,SaferStockton,Stockton,CA,ok,200,,,https://api.fususone.com/api/public/organizations/stocktonpdca/stats/,52,371,370,1,1,366
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:03Z,stpaulpdmn,1,Connect Saint Paul,Saint Paul,MN,ok,200,,,https://api.fususone.com/api/public/organizations/stpaulpdmn/stats/,66,1247,341,445,0,332
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:04Z,sumnercounty,1,Connect Sumner,Sumner,TN,ok,200,,,https://api.fususone.com/api/public/organizations/sumnercounty/stats/,461,92,33,38,4000,31
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:05Z,tempepd,1,Connect Tempe,Tempe,AZ,ok,200,,,https://api.fususone.com/api/public/organizations/tempepd/stats/,177,1522,924,0,1500,905
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:06Z,torrancepd,1,Secure Torrance,Torrance,CA,ok,200,,,https://api.fususone.com/api/public/organizations/torrancepd/stats/,140,389,143,246,200,93
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:07Z,troypdil,1,Connect Troy,Troy,MI,error,404,HTTP 404,totalRegisteredCameras;totalIntegratedCameras;totalOwnedCameras;totalSharedCameras;totalMaxCameras;subscribedCameras,https://api.fususone.com/api/public/organizations/troypdil/stats/,,,,,,
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:08Z,trussvillepd,1,Connect Trussville,Trussville,AL,ok,200,,,https://api.fususone.com/api/public/organizations/trussvillepd/stats/,0,133,133,0,500,133
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:09Z,tucsonpd,1,Connect Tucson,Tucson,AZ,ok,200,,,https://api.fususone.com/api/public/organizations/tucsonpd/stats/,1329,637,466,0,1500,467
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:10Z,tupeloms,1,Connect Tupelo,Tupelo,MS,ok,200,,,https://api.fususone.com/api/public/organizations/tupeloms/stats/,271,349,349,0,500,344
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:11Z,turlockpd,1,Connect Turlock,Turlock,CA,ok,200,,,https://api.fususone.com/api/public/organizations/turlockpd/stats/,199,110,99,11,150,99
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:12Z,tuscaloosapd,1,Safeguard Tuscaloosa,Tuscaloosa,AL,ok,200,,,https://api.fususone.com/api/public/organizations/tuscaloosapd/stats/,258,1096,401,624,1500,381
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:13Z,uarizonapdaz,1,Connect University of Arizona,University of Arizona,AZ,ok,200,,,https://api.fususone.com/api/public/organizations/uarizonapdaz/stats/,0,16,4,0,0,0
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:14Z,uillinoispd,1,Connect University of Illinois Urbana-Champaign,University of Illinois Urbana-Champaign,IL,ok,200,,,https://api.fususone.com/api/public/organizations/uillinoispd/stats/,3,4177,4089,0,0,4079
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:15Z,universityofmissouripdmo,1,Mizzou SafeConnect,Mizzou,MO,ok,200,,,https://api.fususone.com/api/public/organizations/universityofmissouripdmo/stats/,166,1012,1012,0,0,999
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:16Z,virginiabeachpd,1,Connect Virginia Beach,Virginia Beach,VA,ok,200,,,https://api.fususone.com/api/public/organizations/virginiabeachpd/stats/,1447,3308,647,1409,2000,636
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:17Z,volusiasheriff,1,Connect Volusia,Volusia,FL,ok,200,,,https://api.fususone.com/api/public/organizations/volusiasheriff/stats/,670,3959,583,3025,1500,902
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:18Z,wakecounty,1,Connect Wake County,Wake County,NC,ok,200,,,https://api.fususone.com/api/public/organizations/wakecounty/stats/,171,978,295,60,1500,263
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:19Z,warnerrobinspd,1,Connect Warner Robins,Warner Robins,GA,ok,200,,,https://api.fususone.com/api/public/organizations/warnerrobinspd/stats/,218,9241,139,0,500,139
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:20Z,warrenpdmi,1,Connect Warren,Warren,MI,ok,200,,,https://api.fususone.com/api/public/organizations/warrenpdmi/stats/,64,238,144,94,1500,117
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:21Z,washoesheriff,1,Connect Washoe County,Washoe County,NV,ok,200,,,https://api.fususone.com/api/public/organizations/washoesheriff/stats/,9,470,178,4,500,171
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:22Z,webbcountyso,1,Connect Webb County,Webb County,TX,ok,200,,,https://api.fususone.com/api/public/organizations/webbcountyso/stats/,0,279,279,0,2000,275
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:23Z,westsacramento,1,West Sacramento Safe and Secure,West Sacramento,CA,ok,200,,,https://api.fususone.com/api/public/organizations/westsacramento/stats/,831,513,340,89,500,329
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:24Z,wheatonpd,1,Connect Wheaton,Wheaton,IL,ok,200,,,https://api.fususone.com/api/public/organizations/wheatonpd/stats/,428,535,535,0,1500,531
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:25Z,whitehallpd,1,Connect Whitehall,Whitehall,OH,ok,200,,,https://api.fususone.com/api/public/organizations/whitehallpd/stats/,575,615,153,462,1500,151
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:26Z,wichitapdks,1,Connected Wichita,Wichita,KS,ok,200,,,https://api.fususone.com/api/public/organizations/wichitapdks/stats/,9,361,340,21,1500,307
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:27Z,williamsoncsotn,1,Connect Williamson,Williamson County,TN,ok,200,,,https://api.fususone.com/api/public/organizations/williamsoncsotn/stats/,103,9,9,0,0,0
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:28Z,wilmingtonnc,1,Connect Wilmington,Wilmington,NC,ok,200,,,https://api.fususone.com/api/public/organizations/wilmingtonnc/stats/,2,712,696,0,10000,696
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:29Z,wintergarden,1,Connect Winter Garden,Winter Garden,FL,ok,200,,,https://api.fususone.com/api/public/organizations/wintergarden/stats/,0,274,172,0,500,172
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:30Z,winterpark,1,Connect Winter Park,Winter Park,FL,ok,200,,,https://api.fususone.com/api/public/organizations/winterpark/stats/,294,1544,1081,0,1500,1073
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:31Z,wpb,1,CityWatch Connect,West Palm Beach,FL,ok,200,,,https://api.fususone.com/api/public/organizations/wpb/stats/,1815,958,460,245,1000,434
+True,2026-10-08T16:19:55Z,2026-10-08T16:25:32Z,zacharypdla,1,Connect Zachary,Zachary,LA,ok,200,,,https://api.fususone.com/api/public/organizations/zacharypdla/stats/,7,8,8,0,0,8
