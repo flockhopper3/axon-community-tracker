@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "run_id": "2026-10-19T192304Z",
+  "captured_at": "2026-10-19T19:23:04Z",
+  "finished_at": "2026-10-19T19:28:41Z",
+  "directory_url": "https://axoncommunityconnect.com/locations.json",
+  "stats_url_template": "https://api.fususone.com/api/public/organizations/{org}/stats/",
+  "previous_accepted_run": "2026-10-12T214718Z",
+  "git_commit": "9285582b6acd3da47cb79b09eb92a004872be200",
+  "quality_ok": true,
+  "quality_reasons": [],
+  "coverage": 0.9940476190476191,
+  "complete_orgs": 334,
+  "distinct_orgs": 336,
+  "directory_entries": 339,
+  "invalid_directory_entries": 1,
+  "directory_size_ratio": 1.0
+}

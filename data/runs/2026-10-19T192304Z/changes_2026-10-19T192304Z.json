@@ -1,0 +1,2698 @@
+[
+  {
+    "event": "metric_changed",
+    "org": "aacounty",
+    "field": "totalRegisteredCameras",
+    "previous": 1060,
+    "current": 1064,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "aacounty",
+    "field": "totalIntegratedCameras",
+    "previous": 3191,
+    "current": 3256,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "accpd",
+    "field": "totalIntegratedCameras",
+    "previous": 4336,
+    "current": 5437,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "acworthga",
+    "field": "totalIntegratedCameras",
+    "previous": 10567,
+    "current": 11664,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "adamscsoco",
+    "field": "totalRegisteredCameras",
+    "previous": 156,
+    "current": 159,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "albanypolice",
+    "field": "totalIntegratedCameras",
+    "previous": 14035,
+    "current": 15119,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "amarillopd",
+    "field": "totalIntegratedCameras",
+    "previous": 491,
+    "current": 493,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "amarillopd",
+    "field": "totalOwnedCameras",
+    "previous": 491,
+    "current": 493,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "amarillopd",
+    "field": "subscribedCameras",
+    "previous": 483,
+    "current": 485,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "anokacountysomn",
+    "field": "totalIntegratedCameras",
+    "previous": 2629,
+    "current": 2616,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "anokacountysomn",
+    "field": "totalOwnedCameras",
+    "previous": 581,
+    "current": 568,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "anokacountysomn",
+    "field": "subscribedCameras",
+    "previous": 580,
+    "current": 567,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "apopkapd",
+    "field": "totalIntegratedCameras",
+    "previous": 7852,
+    "current": 7850,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "auroragov",
+    "field": "totalIntegratedCameras",
+    "previous": 936,
+    "current": 934,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "auroragov",
+    "field": "totalOwnedCameras",
+    "previous": 936,
+    "current": 934,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "auroragov",
+    "field": "subscribedCameras",
+    "previous": 936,
+    "current": 934,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "baycounty",
+    "field": "totalRegisteredCameras",
+    "previous": 1722,
+    "current": 1728,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "baycounty",
+    "field": "totalIntegratedCameras",
+    "previous": 1501,
+    "current": 1500,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "baycounty",
+    "field": "totalOwnedCameras",
+    "previous": 1163,
+    "current": 1162,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "baycounty",
+    "field": "subscribedCameras",
+    "previous": 1130,
+    "current": 1129,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "beaumonttx",
+    "field": "totalRegisteredCameras",
+    "previous": 4054,
+    "current": 4059,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "beaumonttx",
+    "field": "totalIntegratedCameras",
+    "previous": 3800,
+    "current": 3804,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "beaumonttx",
+    "field": "totalOwnedCameras",
+    "previous": 1536,
+    "current": 1540,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "beaumonttx",
+    "field": "subscribedCameras",
+    "previous": 762,
+    "current": 766,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "bocaratonpdfl",
+    "field": "totalIntegratedCameras",
+    "previous": 911,
+    "current": 912,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "bocaratonpdfl",
+    "field": "totalOwnedCameras",
+    "previous": 677,
+    "current": 678,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "bocaratonpdfl",
+    "field": "subscribedCameras",
+    "previous": 654,
+    "current": 655,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "bradentonfl",
+    "field": "totalIntegratedCameras",
+    "previous": 3158,
+    "current": 3165,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "bradentonfl",
+    "field": "totalOwnedCameras",
+    "previous": 267,
+    "current": 274,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "bradentonfl",
+    "field": "subscribedCameras",
+    "previous": 258,
+    "current": 265,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "brunswickpdga",
+    "field": "totalIntegratedCameras",
+    "previous": 3,
+    "current": 4,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "brunswickpdga",
+    "field": "totalOwnedCameras",
+    "previous": 3,
+    "current": 4,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "brunswickpdga",
+    "field": "subscribedCameras",
+    "previous": 3,
+    "current": 4,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "buncombesheriff",
+    "field": "totalIntegratedCameras",
+    "previous": 2701,
+    "current": 2706,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "buncombesheriff",
+    "field": "totalOwnedCameras",
+    "previous": 449,
+    "current": 451,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "buncombesheriff",
+    "field": "totalSharedCameras",
+    "previous": 2252,
+    "current": 2255,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "carencropd",
+    "field": "totalIntegratedCameras",
+    "previous": 1606,
+    "current": 1616,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "carencropd",
+    "field": "totalOwnedCameras",
+    "previous": 211,
+    "current": 221,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "carencropd",
+    "field": "subscribedCameras",
+    "previous": 211,
+    "current": 221,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "carlsbadpdnm",
+    "field": "totalIntegratedCameras",
+    "previous": 12,
+    "current": 13,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "carlsbadpdnm",
+    "field": "totalOwnedCameras",
+    "previous": 12,
+    "current": 13,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "carypd",
+    "field": "totalIntegratedCameras",
+    "previous": 1273,
+    "current": 1277,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "carypd",
+    "field": "totalOwnedCameras",
+    "previous": 851,
+    "current": 854,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "carypd",
+    "field": "subscribedCameras",
+    "previous": 850,
+    "current": 853,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "charlestonpd",
+    "field": "totalIntegratedCameras",
+    "previous": 576,
+    "current": 575,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "charlestonpd",
+    "field": "totalOwnedCameras",
+    "previous": 500,
+    "current": 499,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "charlestonpd",
+    "field": "subscribedCameras",
+    "previous": 465,
+    "current": 464,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "charlottemecklenburg",
+    "field": "totalRegisteredCameras",
+    "previous": 3169,
+    "current": 3243,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "charlottemecklenburg",
+    "field": "totalIntegratedCameras",
+    "previous": 1822,
+    "current": 1824,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "charlottemecklenburg",
+    "field": "totalOwnedCameras",
+    "previous": 1617,
+    "current": 1619,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "charlottemecklenburg",
+    "field": "subscribedCameras",
+    "previous": 1471,
+    "current": 1473,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cherokeega",
+    "field": "totalRegisteredCameras",
+    "previous": 636,
+    "current": 637,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cherokeega",
+    "field": "totalIntegratedCameras",
+    "previous": 13429,
+    "current": 14602,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cherokeega",
+    "field": "totalSharedCameras",
+    "previous": 549,
+    "current": 630,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "chesterfieldcounty",
+    "field": "totalRegisteredCameras",
+    "previous": 769,
+    "current": 770,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "chesterfieldcounty",
+    "field": "totalIntegratedCameras",
+    "previous": 11095,
+    "current": 11068,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "chesterfieldcounty",
+    "field": "totalOwnedCameras",
+    "previous": 990,
+    "current": 992,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "chesterfieldcounty",
+    "field": "totalSharedCameras",
+    "previous": 10043,
+    "current": 10014,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "chicagoheights",
+    "field": "totalRegisteredCameras",
+    "previous": 221,
+    "current": 225,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "ciceropd",
+    "field": "totalIntegratedCameras",
+    "previous": 551,
+    "current": 510,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "ciceropd",
+    "field": "totalOwnedCameras",
+    "previous": 551,
+    "current": 510,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "ciceropd",
+    "field": "subscribedCameras",
+    "previous": 543,
+    "current": 502,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cincinnatipd",
+    "field": "totalRegisteredCameras",
+    "previous": 1723,
+    "current": 1756,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cincinnatipd",
+    "field": "totalIntegratedCameras",
+    "previous": 844,
+    "current": 845,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cincinnatipd",
+    "field": "totalOwnedCameras",
+    "previous": 801,
+    "current": 802,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cincinnatipd",
+    "field": "subscribedCameras",
+    "previous": 746,
+    "current": 747,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofatlanta",
+    "field": "totalRegisteredCameras",
+    "previous": 17522,
+    "current": 17527,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofatlanta",
+    "field": "totalIntegratedCameras",
+    "previous": 28396,
+    "current": 29826,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofatlanta",
+    "field": "totalOwnedCameras",
+    "previous": 2597,
+    "current": 3698,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofatlanta",
+    "field": "totalSharedCameras",
+    "previous": 11643,
+    "current": 11972,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofatlanta",
+    "field": "subscribedCameras",
+    "previous": 2561,
+    "current": 3686,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofmiamipd",
+    "field": "totalIntegratedCameras",
+    "previous": 4339,
+    "current": 4337,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofmiamipd",
+    "field": "totalOwnedCameras",
+    "previous": 1221,
+    "current": 1219,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofmiamipd",
+    "field": "subscribedCameras",
+    "previous": 1203,
+    "current": 1201,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofomaha",
+    "field": "totalRegisteredCameras",
+    "previous": 1260,
+    "current": 1270,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofomaha",
+    "field": "totalIntegratedCameras",
+    "previous": 1643,
+    "current": 1742,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofomaha",
+    "field": "totalOwnedCameras",
+    "previous": 760,
+    "current": 767,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofomaha",
+    "field": "totalSharedCameras",
+    "previous": 782,
+    "current": 874,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofomaha",
+    "field": "subscribedCameras",
+    "previous": 687,
+    "current": 694,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofroswell",
+    "field": "totalIntegratedCameras",
+    "previous": 10650,
+    "current": 11819,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofroswell",
+    "field": "totalSharedCameras",
+    "previous": 374,
+    "current": 455,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofstarkville",
+    "field": "totalRegisteredCameras",
+    "previous": 879,
+    "current": 881,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofws",
+    "field": "totalRegisteredCameras",
+    "previous": 1678,
+    "current": 1684,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofws",
+    "field": "totalIntegratedCameras",
+    "previous": 3345,
+    "current": 3343,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cityofws",
+    "field": "totalOwnedCameras",
+    "previous": 1809,
+    "current": 1807,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "claycountysheriff",
+    "field": "totalIntegratedCameras",
+    "previous": 3372,
+    "current": 3389,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "claycountysheriff",
+    "field": "totalOwnedCameras",
+    "previous": 3204,
+    "current": 3221,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "claycountysheriff",
+    "field": "subscribedCameras",
+    "previous": 3199,
+    "current": 3216,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "claytoncountypd",
+    "field": "totalIntegratedCameras",
+    "previous": 10785,
+    "current": 11873,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "clearwaterpd",
+    "field": "totalRegisteredCameras",
+    "previous": 693,
+    "current": 720,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "clevelanddps",
+    "field": "totalRegisteredCameras",
+    "previous": 1765,
+    "current": 1767,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "clevelanddps",
+    "field": "totalIntegratedCameras",
+    "previous": 4169,
+    "current": 4145,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "clevelanddps",
+    "field": "totalOwnedCameras",
+    "previous": 4050,
+    "current": 4026,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "clevelanddps",
+    "field": "subscribedCameras",
+    "previous": 4053,
+    "current": 4029,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cobbcountypd",
+    "field": "totalRegisteredCameras",
+    "previous": 3559,
+    "current": 3564,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cobbcountypd",
+    "field": "totalIntegratedCameras",
+    "previous": 13067,
+    "current": 14183,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cobbcountypd",
+    "field": "totalOwnedCameras",
+    "previous": 1546,
+    "current": 1574,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cobbcountypd",
+    "field": "subscribedCameras",
+    "previous": 1021,
+    "current": 1046,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "collegeparkga",
+    "field": "totalIntegratedCameras",
+    "previous": 10516,
+    "current": 11617,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "coloradospringspd",
+    "field": "totalIntegratedCameras",
+    "previous": 1099,
+    "current": 1103,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "coloradospringspd",
+    "field": "totalOwnedCameras",
+    "previous": 960,
+    "current": 964,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "coloradospringspd",
+    "field": "subscribedCameras",
+    "previous": 859,
+    "current": 862,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "connecttallahassee",
+    "field": "totalIntegratedCameras",
+    "previous": 369,
+    "current": 371,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "connecttallahassee",
+    "field": "totalOwnedCameras",
+    "previous": 369,
+    "current": 371,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cummingpdga",
+    "field": "totalIntegratedCameras",
+    "previous": 3122,
+    "current": 4216,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cummingpdga",
+    "field": "totalOwnedCameras",
+    "previous": 183,
+    "current": 193,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "cummingpdga",
+    "field": "subscribedCameras",
+    "previous": 165,
+    "current": 175,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "dallaspd",
+    "field": "totalRegisteredCameras",
+    "previous": 4067,
+    "current": 4088,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "dallaspd",
+    "field": "totalIntegratedCameras",
+    "previous": 1530,
+    "current": 1707,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "dallaspd",
+    "field": "totalOwnedCameras",
+    "previous": 1171,
+    "current": 1348,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "dallaspd",
+    "field": "subscribedCameras",
+    "previous": 1077,
+    "current": 1254,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "dalycitypdca",
+    "field": "totalIntegratedCameras",
+    "previous": 94,
+    "current": 95,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "dalycitypdca",
+    "field": "totalOwnedCameras",
+    "previous": 53,
+    "current": 54,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "dalycitypdca",
+    "field": "subscribedCameras",
+    "previous": 22,
+    "current": 23,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "danvillepd",
+    "field": "totalIntegratedCameras",
+    "previous": 1755,
+    "current": 1751,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "danvillepd",
+    "field": "totalOwnedCameras",
+    "previous": 342,
+    "current": 338,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "danvillepd",
+    "field": "subscribedCameras",
+    "previous": 341,
+    "current": 337,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "dcmetro",
+    "field": "totalRegisteredCameras",
+    "previous": 44210,
+    "current": 44233,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "dcmetro",
+    "field": "totalIntegratedCameras",
+    "previous": 1454,
+    "current": 1449,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "dcmetro",
+    "field": "totalOwnedCameras",
+    "previous": 1259,
+    "current": 1254,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "dcmetro",
+    "field": "subscribedCameras",
+    "previous": 1127,
+    "current": 1122,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "dekalbcountyga",
+    "field": "totalIntegratedCameras",
+    "previous": 9050,
+    "current": 9116,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "dekalbcountyga",
+    "field": "totalOwnedCameras",
+    "previous": 829,
+    "current": 877,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "dekalbcountyga",
+    "field": "subscribedCameras",
+    "previous": 705,
+    "current": 753,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "delraybeach",
+    "field": "subscribedCameras",
+    "previous": 286,
+    "current": 287,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "douglasvillepolice",
+    "field": "totalIntegratedCameras",
+    "previous": 12900,
+    "current": 13984,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "duckpdnc",
+    "field": "totalIntegratedCameras",
+    "previous": 2,
+    "current": 14,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "duckpdnc",
+    "field": "totalOwnedCameras",
+    "previous": 2,
+    "current": 14,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "duckpdnc",
+    "field": "subscribedCameras",
+    "previous": 0,
+    "current": 12,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "eastpointpdga",
+    "field": "totalIntegratedCameras",
+    "previous": 5121,
+    "current": 6195,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "escambiafl",
+    "field": "totalIntegratedCameras",
+    "previous": 1256,
+    "current": 1255,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "fairfaxcopd",
+    "field": "totalRegisteredCameras",
+    "previous": 3614,
+    "current": 3622,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "fairfaxcopd",
+    "field": "totalIntegratedCameras",
+    "previous": 2223,
+    "current": 2232,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "fairfaxcopd",
+    "field": "totalOwnedCameras",
+    "previous": 759,
+    "current": 768,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "fairfaxcopd",
+    "field": "subscribedCameras",
+    "previous": 660,
+    "current": 667,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "fayettevillepd",
+    "field": "totalOwnedCameras",
+    "previous": 456,
+    "current": 480,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "fayettevillepd",
+    "field": "totalSharedCameras",
+    "previous": 48,
+    "current": 24,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "fayettevillepd",
+    "field": "subscribedCameras",
+    "previous": 453,
+    "current": 477,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "flaglercountysheriff",
+    "field": "totalIntegratedCameras",
+    "previous": 2153,
+    "current": 2176,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "flaglercountysheriff",
+    "field": "totalOwnedCameras",
+    "previous": 1962,
+    "current": 1985,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "flaglercountysheriff",
+    "field": "subscribedCameras",
+    "previous": 1942,
+    "current": 1965,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "forestparkpd",
+    "field": "totalIntegratedCameras",
+    "previous": 10520,
+    "current": 11613,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "forestparkpd",
+    "field": "totalOwnedCameras",
+    "previous": 244,
+    "current": 249,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "forestparkpd",
+    "field": "subscribedCameras",
+    "previous": 226,
+    "current": 231,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "forsythcosoga",
+    "field": "totalRegisteredCameras",
+    "previous": 808,
+    "current": 820,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "forsythcosoga",
+    "field": "totalIntegratedCameras",
+    "previous": 6930,
+    "current": 8031,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "fountainvalleypdca",
+    "field": "totalIntegratedCameras",
+    "previous": 6,
+    "current": 7,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "fountainvalleypdca",
+    "field": "totalOwnedCameras",
+    "previous": 6,
+    "current": 7,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "fountainvalleypdca",
+    "field": "subscribedCameras",
+    "previous": 4,
+    "current": 5,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "gardengrovepdca",
+    "field": "totalIntegratedCameras",
+    "previous": 87,
+    "current": 88,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "gardengrovepdca",
+    "field": "totalOwnedCameras",
+    "previous": 87,
+    "current": 88,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "gardengrovepdca",
+    "field": "subscribedCameras",
+    "previous": 87,
+    "current": 88,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "garypd",
+    "field": "totalIntegratedCameras",
+    "previous": 1324,
+    "current": 1323,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "garypd",
+    "field": "totalOwnedCameras",
+    "previous": 797,
+    "current": 796,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "garypd",
+    "field": "subscribedCameras",
+    "previous": 738,
+    "current": 737,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "glendorapdca",
+    "field": "totalIntegratedCameras",
+    "previous": 99,
+    "current": 102,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "glendorapdca",
+    "field": "totalOwnedCameras",
+    "previous": 99,
+    "current": 102,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "glendorapdca",
+    "field": "subscribedCameras",
+    "previous": 99,
+    "current": 102,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "greeleypd",
+    "field": "totalRegisteredCameras",
+    "previous": 247,
+    "current": 250,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "guilfordsheriff",
+    "field": "totalRegisteredCameras",
+    "previous": 874,
+    "current": 883,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "hcso",
+    "field": "totalIntegratedCameras",
+    "previous": 4858,
+    "current": 4854,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "hcso",
+    "field": "totalOwnedCameras",
+    "previous": 1660,
+    "current": 1656,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "hennepincountyso",
+    "field": "totalRegisteredCameras",
+    "previous": 507,
+    "current": 528,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "henrycountypd",
+    "field": "totalRegisteredCameras",
+    "previous": 4983,
+    "current": 4999,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "henrycountypd",
+    "field": "totalIntegratedCameras",
+    "previous": 13842,
+    "current": 15011,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "henrycountypd",
+    "field": "totalSharedCameras",
+    "previous": 3627,
+    "current": 3708,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "highpointncpd",
+    "field": "totalIntegratedCameras",
+    "previous": 579,
+    "current": 582,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "highpointncpd",
+    "field": "totalOwnedCameras",
+    "previous": 480,
+    "current": 483,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "hopemillspd",
+    "field": "totalIntegratedCameras",
+    "previous": 349,
+    "current": 63,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "irvingpdtx",
+    "field": "totalIntegratedCameras",
+    "previous": 1446,
+    "current": 1444,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "irvingpdtx",
+    "field": "totalOwnedCameras",
+    "previous": 1246,
+    "current": 1244,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "irvingpdtx",
+    "field": "subscribedCameras",
+    "previous": 1158,
+    "current": 1156,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "jacksonpdtn",
+    "field": "totalRegisteredCameras",
+    "previous": 5,
+    "current": 8,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "jacksonvillesheriff",
+    "field": "totalRegisteredCameras",
+    "previous": 6828,
+    "current": 6837,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "jacksonvillesheriff",
+    "field": "totalIntegratedCameras",
+    "previous": 9815,
+    "current": 9853,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "jacksonvillesheriff",
+    "field": "totalOwnedCameras",
+    "previous": 2703,
+    "current": 2741,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "jacksonvillesheriff",
+    "field": "subscribedCameras",
+    "previous": 1688,
+    "current": 1726,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "kansascitykspd",
+    "field": "totalRegisteredCameras",
+    "previous": 3340,
+    "current": 3348,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "kennesawpd",
+    "field": "totalIntegratedCameras",
+    "previous": 9240,
+    "current": 10328,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "kentcountysd",
+    "field": "totalRegisteredCameras",
+    "previous": 586,
+    "current": 590,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "kentcountysd",
+    "field": "totalIntegratedCameras",
+    "previous": 2737,
+    "current": 2742,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "kentcountysd",
+    "field": "totalOwnedCameras",
+    "previous": 765,
+    "current": 767,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "kentcountysd",
+    "field": "totalSharedCameras",
+    "previous": 1944,
+    "current": 1947,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "kentcountysd",
+    "field": "subscribedCameras",
+    "previous": 515,
+    "current": 517,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "knoxvillepdtn",
+    "field": "totalIntegratedCameras",
+    "previous": 682,
+    "current": 789,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "knoxvillepdtn",
+    "field": "totalOwnedCameras",
+    "previous": 552,
+    "current": 659,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "knoxvillepdtn",
+    "field": "subscribedCameras",
+    "previous": 187,
+    "current": 294,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "lafayettepd",
+    "field": "totalIntegratedCameras",
+    "previous": 2220,
+    "current": 2230,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "lakecountysheriff",
+    "field": "totalIntegratedCameras",
+    "previous": 6360,
+    "current": 6358,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "lasd",
+    "field": "totalRegisteredCameras",
+    "previous": 2197,
+    "current": 2202,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "lenexapdks",
+    "field": "totalIntegratedCameras",
+    "previous": 1176,
+    "current": 1190,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "lexingtonky",
+    "field": "totalIntegratedCameras",
+    "previous": 1087,
+    "current": 1088,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "lexingtonky",
+    "field": "totalOwnedCameras",
+    "previous": 811,
+    "current": 812,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "lexingtonky",
+    "field": "subscribedCameras",
+    "previous": 807,
+    "current": 808,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "littlerockpd",
+    "field": "totalIntegratedCameras",
+    "previous": 2565,
+    "current": 2568,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "louisvillemetro",
+    "field": "totalIntegratedCameras",
+    "previous": 1744,
+    "current": 1741,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "louisvillemetro",
+    "field": "totalOwnedCameras",
+    "previous": 1501,
+    "current": 1498,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "louisvillemetro",
+    "field": "subscribedCameras",
+    "previous": 1455,
+    "current": 1452,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "lynchburgpd",
+    "field": "totalIntegratedCameras",
+    "previous": 749,
+    "current": 783,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "lynchburgpd",
+    "field": "totalOwnedCameras",
+    "previous": 749,
+    "current": 783,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "lynchburgpd",
+    "field": "subscribedCameras",
+    "previous": 731,
+    "current": 765,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "mcpdmd",
+    "field": "totalIntegratedCameras",
+    "previous": 2048,
+    "current": 2118,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "mcpdmd",
+    "field": "totalOwnedCameras",
+    "previous": 1249,
+    "current": 1254,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "mcpdmd",
+    "field": "subscribedCameras",
+    "previous": 1155,
+    "current": 1160,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "memphispd",
+    "field": "totalRegisteredCameras",
+    "previous": 14272,
+    "current": 14300,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "memphispd",
+    "field": "totalIntegratedCameras",
+    "previous": 3158,
+    "current": 3216,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "memphispd",
+    "field": "totalOwnedCameras",
+    "previous": 2326,
+    "current": 2384,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "memphispd",
+    "field": "subscribedCameras",
+    "previous": 2182,
+    "current": 2240,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "miamidadepd",
+    "field": "totalIntegratedCameras",
+    "previous": 1799,
+    "current": 1811,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "miamidadepd",
+    "field": "totalOwnedCameras",
+    "previous": 783,
+    "current": 795,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "miamidadepd",
+    "field": "subscribedCameras",
+    "previous": 694,
+    "current": 706,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "milwaukeepd",
+    "field": "totalIntegratedCameras",
+    "previous": 1225,
+    "current": 1226,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "milwaukeepd",
+    "field": "totalOwnedCameras",
+    "previous": 1014,
+    "current": 1015,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "milwaukeepd",
+    "field": "subscribedCameras",
+    "previous": 985,
+    "current": 986,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "modestopd",
+    "field": "totalOwnedCameras",
+    "previous": 417,
+    "current": 413,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "modestopd",
+    "field": "totalSharedCameras",
+    "previous": 16,
+    "current": 20,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "modestopd",
+    "field": "subscribedCameras",
+    "previous": 396,
+    "current": 392,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "monroecoso",
+    "field": "totalRegisteredCameras",
+    "previous": 181,
+    "current": 184,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "montrosepdco",
+    "field": "totalIntegratedCameras",
+    "previous": 171,
+    "current": 173,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "montrosepdco",
+    "field": "totalOwnedCameras",
+    "previous": 171,
+    "current": 173,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "montrosepdco",
+    "field": "subscribedCameras",
+    "previous": 171,
+    "current": 173,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "mpls",
+    "field": "totalRegisteredCameras",
+    "previous": 2644,
+    "current": 2650,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "newbrunswickpdnj",
+    "field": "totalIntegratedCameras",
+    "previous": 123,
+    "current": 125,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "newbrunswickpdnj",
+    "field": "totalOwnedCameras",
+    "previous": 123,
+    "current": 125,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "newcastlede",
+    "field": "totalIntegratedCameras",
+    "previous": 162,
+    "current": 183,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "newcastlede",
+    "field": "totalOwnedCameras",
+    "previous": 154,
+    "current": 175,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "newcastlede",
+    "field": "subscribedCameras",
+    "previous": 85,
+    "current": 106,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "newlondonpdct",
+    "field": "totalRegisteredCameras",
+    "previous": 0,
+    "current": 32,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "newlondonpdct",
+    "field": "totalIntegratedCameras",
+    "previous": 6,
+    "current": 5,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "newlondonpdct",
+    "field": "totalOwnedCameras",
+    "previous": 6,
+    "current": 5,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "newlondonpdct",
+    "field": "subscribedCameras",
+    "previous": 3,
+    "current": 2,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "newportbeachpdca",
+    "field": "totalIntegratedCameras",
+    "previous": 249,
+    "current": 269,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "newportbeachpdca",
+    "field": "totalOwnedCameras",
+    "previous": 190,
+    "current": 210,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "newportnewspd",
+    "field": "totalRegisteredCameras",
+    "previous": 1416,
+    "current": 1419,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "newtonsheriff",
+    "field": "totalIntegratedCameras",
+    "previous": 3538,
+    "current": 4604,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "norfolkpd",
+    "field": "totalRegisteredCameras",
+    "previous": 444,
+    "current": 447,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "northcharlestonpd",
+    "field": "totalIntegratedCameras",
+    "previous": 536,
+    "current": 527,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "northlittlerock",
+    "field": "totalIntegratedCameras",
+    "previous": 991,
+    "current": 994,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "northlittlerock",
+    "field": "totalOwnedCameras",
+    "previous": 728,
+    "current": 731,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "northlittlerock",
+    "field": "subscribedCameras",
+    "previous": 728,
+    "current": 731,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "nypd",
+    "field": "totalRegisteredCameras",
+    "previous": 5511,
+    "current": 5516,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "nypd",
+    "field": "totalIntegratedCameras",
+    "previous": 2210,
+    "current": 2226,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "nypd",
+    "field": "totalOwnedCameras",
+    "previous": 2210,
+    "current": 2226,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "nypd",
+    "field": "subscribedCameras",
+    "previous": 2133,
+    "current": 2149,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "okcpd",
+    "field": "totalIntegratedCameras",
+    "previous": 7145,
+    "current": 7374,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "okcpd",
+    "field": "totalOwnedCameras",
+    "previous": 6530,
+    "current": 6759,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "ontariopolice",
+    "field": "totalIntegratedCameras",
+    "previous": 2272,
+    "current": 2343,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "ontariopolice",
+    "field": "totalOwnedCameras",
+    "previous": 1332,
+    "current": 1330,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "ontariopolice",
+    "field": "totalSharedCameras",
+    "previous": 940,
+    "current": 1013,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "ontariopolice",
+    "field": "subscribedCameras",
+    "previous": 1267,
+    "current": 1265,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "orangecofl",
+    "field": "totalRegisteredCameras",
+    "previous": 2299,
+    "current": 2306,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "orangecofl",
+    "field": "totalIntegratedCameras",
+    "previous": 10288,
+    "current": 10282,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "orangecofl",
+    "field": "totalOwnedCameras",
+    "previous": 861,
+    "current": 859,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "orangecofl",
+    "field": "totalSharedCameras",
+    "previous": 7480,
+    "current": 7476,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "orangecofl",
+    "field": "subscribedCameras",
+    "previous": 758,
+    "current": 756,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "orlando",
+    "field": "totalIntegratedCameras",
+    "previous": 4096,
+    "current": 4094,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "overlandparkpdks",
+    "field": "totalIntegratedCameras",
+    "previous": 1094,
+    "current": 1107,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "overlandparkpdks",
+    "field": "totalOwnedCameras",
+    "previous": 560,
+    "current": 573,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "overlandparkpdks",
+    "field": "subscribedCameras",
+    "previous": 547,
+    "current": 560,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "pascopdwa",
+    "field": "totalRegisteredCameras",
+    "previous": 88,
+    "current": 102,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "pbso",
+    "field": "totalRegisteredCameras",
+    "previous": 1899,
+    "current": 1903,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "peoriapdaz",
+    "field": "totalIntegratedCameras",
+    "previous": 592,
+    "current": 594,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "peoriapdaz",
+    "field": "totalOwnedCameras",
+    "previous": 396,
+    "current": 398,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "peoriapdaz",
+    "field": "subscribedCameras",
+    "previous": 390,
+    "current": 392,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "pgcountypd",
+    "field": "totalRegisteredCameras",
+    "previous": 488,
+    "current": 498,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "pgcountypd",
+    "field": "totalIntegratedCameras",
+    "previous": 2949,
+    "current": 2951,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "pgcountypd",
+    "field": "totalOwnedCameras",
+    "previous": 1953,
+    "current": 1955,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "pgcountypd",
+    "field": "subscribedCameras",
+    "previous": 1654,
+    "current": 1656,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "powderspringspd",
+    "field": "totalIntegratedCameras",
+    "previous": 2966,
+    "current": 4067,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "prairievillagepdks",
+    "field": "totalIntegratedCameras",
+    "previous": 1495,
+    "current": 1509,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "queencreekaz",
+    "field": "totalIntegratedCameras",
+    "previous": 943,
+    "current": 944,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "queencreekaz",
+    "field": "totalOwnedCameras",
+    "previous": 439,
+    "current": 440,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "queencreekaz",
+    "field": "subscribedCameras",
+    "previous": 431,
+    "current": 432,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "raleighncpd",
+    "field": "totalRegisteredCameras",
+    "previous": 1904,
+    "current": 1906,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "raleighncpd",
+    "field": "totalIntegratedCameras",
+    "previous": 1624,
+    "current": 1731,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "raleighncpd",
+    "field": "totalOwnedCameras",
+    "previous": 1129,
+    "current": 1234,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "raleighncpd",
+    "field": "totalSharedCameras",
+    "previous": 64,
+    "current": 65,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "raleighncpd",
+    "field": "subscribedCameras",
+    "previous": 1126,
+    "current": 1231,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "rialtopd",
+    "field": "totalRegisteredCameras",
+    "previous": 352,
+    "current": 353,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "richmondva",
+    "field": "totalIntegratedCameras",
+    "previous": 563,
+    "current": 599,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "richmondva",
+    "field": "totalOwnedCameras",
+    "previous": 489,
+    "current": 525,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "rileycountypd",
+    "field": "totalRegisteredCameras",
+    "previous": 81,
+    "current": 88,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "rocklinpd",
+    "field": "totalRegisteredCameras",
+    "previous": 505,
+    "current": 512,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "rogerspdar",
+    "field": "totalIntegratedCameras",
+    "previous": 265,
+    "current": 263,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "rogerspdar",
+    "field": "totalOwnedCameras",
+    "previous": 265,
+    "current": 263,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "sacramentocoso",
+    "field": "totalIntegratedCameras",
+    "previous": 400,
+    "current": 404,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "sacramentocoso",
+    "field": "totalOwnedCameras",
+    "previous": 188,
+    "current": 192,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "sacramentocoso",
+    "field": "subscribedCameras",
+    "previous": 187,
+    "current": 191,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "sacramentopd",
+    "field": "totalIntegratedCameras",
+    "previous": 1779,
+    "current": 1778,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "sacramentopd",
+    "field": "totalOwnedCameras",
+    "previous": 1038,
+    "current": 1037,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "sacramentopd",
+    "field": "subscribedCameras",
+    "previous": 1016,
+    "current": 1015,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "sandyspringspd",
+    "field": "totalIntegratedCameras",
+    "previous": 15241,
+    "current": 16414,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "sandyspringspd",
+    "field": "totalSharedCameras",
+    "previous": 4382,
+    "current": 4463,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "sanjose",
+    "field": "totalIntegratedCameras",
+    "previous": 1596,
+    "current": 1659,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "sanjose",
+    "field": "totalOwnedCameras",
+    "previous": 1319,
+    "current": 1382,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "sanjose",
+    "field": "subscribedCameras",
+    "previous": 1205,
+    "current": 1268,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "sanmateopd",
+    "field": "totalIntegratedCameras",
+    "previous": 99,
+    "current": 94,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "sanmateopd",
+    "field": "totalOwnedCameras",
+    "previous": 99,
+    "current": 94,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "sanmateopd",
+    "field": "subscribedCameras",
+    "previous": 96,
+    "current": 91,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "savannahpd",
+    "field": "totalIntegratedCameras",
+    "previous": 9269,
+    "current": 10366,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "scrantonpd",
+    "field": "totalRegisteredCameras",
+    "previous": 733,
+    "current": 836,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "seatpleasantmd",
+    "field": "totalIntegratedCameras",
+    "previous": 1128,
+    "current": 1193,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "seattlepd",
+    "field": "totalIntegratedCameras",
+    "previous": 687,
+    "current": 688,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "seminolecountyso",
+    "field": "totalIntegratedCameras",
+    "previous": 2034,
+    "current": 2032,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "shawneecosheriff",
+    "field": "subscribedCameras",
+    "previous": 548,
+    "current": 552,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "shelbycoso",
+    "field": "totalIntegratedCameras",
+    "previous": 2379,
+    "current": 2429,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "smyrnaga",
+    "field": "totalIntegratedCameras",
+    "previous": 13075,
+    "current": 14176,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "southfultonga",
+    "field": "totalIntegratedCameras",
+    "previous": 14815,
+    "current": 15909,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "southfultonga",
+    "field": "totalOwnedCameras",
+    "previous": 552,
+    "current": 562,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "southfultonga",
+    "field": "subscribedCameras",
+    "previous": 537,
+    "current": 547,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "springfieldpdmo",
+    "field": "totalRegisteredCameras",
+    "previous": 18,
+    "current": 21,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "statesboropd",
+    "field": "totalIntegratedCameras",
+    "previous": 14459,
+    "current": 15614,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "statesboropd",
+    "field": "totalOwnedCameras",
+    "previous": 629,
+    "current": 610,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "statesboropd",
+    "field": "totalSharedCameras",
+    "previous": 4132,
+    "current": 4213,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "statesboropd",
+    "field": "subscribedCameras",
+    "previous": 622,
+    "current": 609,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "stcloud",
+    "field": "totalIntegratedCameras",
+    "previous": 9042,
+    "current": 9015,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "stcloud",
+    "field": "totalSharedCameras",
+    "previous": 5782,
+    "current": 5778,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "stpaulpdmn",
+    "field": "totalIntegratedCameras",
+    "previous": 1247,
+    "current": 1251,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "virginiabeachpd",
+    "field": "totalIntegratedCameras",
+    "previous": 3308,
+    "current": 3369,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "virginiabeachpd",
+    "field": "totalOwnedCameras",
+    "previous": 647,
+    "current": 708,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "virginiabeachpd",
+    "field": "subscribedCameras",
+    "previous": 636,
+    "current": 697,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "volusiasheriff",
+    "field": "totalIntegratedCameras",
+    "previous": 3959,
+    "current": 3957,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "wakecounty",
+    "field": "totalRegisteredCameras",
+    "previous": 188,
+    "current": 82,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "wakecounty",
+    "field": "totalIntegratedCameras",
+    "previous": 978,
+    "current": 983,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "wakecounty",
+    "field": "totalOwnedCameras",
+    "previous": 295,
+    "current": 299,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "wakecounty",
+    "field": "totalSharedCameras",
+    "previous": 60,
+    "current": 61,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "wakecounty",
+    "field": "subscribedCameras",
+    "previous": 263,
+    "current": 267,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "warnerrobinspd",
+    "field": "totalIntegratedCameras",
+    "previous": 9241,
+    "current": 10334,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "warrenpdmi",
+    "field": "totalIntegratedCameras",
+    "previous": 238,
+    "current": 241,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "warrenpdmi",
+    "field": "totalSharedCameras",
+    "previous": 94,
+    "current": 97,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "washoesheriff",
+    "field": "totalIntegratedCameras",
+    "previous": 470,
+    "current": 475,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "washoesheriff",
+    "field": "totalOwnedCameras",
+    "previous": 178,
+    "current": 183,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "westsacramento",
+    "field": "totalIntegratedCameras",
+    "previous": 513,
+    "current": 512,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "westsacramento",
+    "field": "totalSharedCameras",
+    "previous": 89,
+    "current": 88,
+    "note": ""
+  },
+  {
+    "event": "metric_changed",
+    "org": "winterpark",
+    "field": "totalIntegratedCameras",
+    "previous": 1544,
+    "current": 1542,
+    "note": ""
+  },
+  {
+    "event": "collection_issue",
+    "org": "riverdalepd",
+    "field": "status",
+    "previous": null,
+    "current": "error",
+    "note": "HTTP 404"
+  },
+  {
+    "event": "collection_issue",
+    "org": "troypdil",
+    "field": "status",
+    "previous": null,
+    "current": "error",
+    "note": "HTTP 404"
+  }
+]
