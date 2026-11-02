@@ -1,0 +1,4362 @@
+[
+  {
+    "source_url": "https://axoncommunityconnect.com/locations.json",
+    "retrieved_at": "2026-11-02T22:22:39Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://axoncommunityconnect.com/locations.json",
+    "bytes": 130679,
+    "sha256": "c489426f64e3d4697585bd2e7d3b39739131b65440a6c9a55248e26f4ae8b66a",
+    "headers": {
+      "Age": "0",
+      "Cache-Control": "public,max-age=0,must-revalidate",
+      "Content-Type": "application/json",
+      "Date": "Mon, 02 Nov 2026 22:22:39 GMT",
+      "Etag": "\"6ae2b5a799a4c7fb48a23fc4aa4a1071-ssl\""
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/aacounty/stats/",
+    "retrieved_at": "2026-11-02T22:22:40Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/aacounty/stats/",
+    "bytes": 159,
+    "sha256": "cab3a370cac3fac6a4ff287c2ba82e2b3d52989348c8c126efa8137d946bf2b5",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:40 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/accpd/stats/",
+    "retrieved_at": "2026-11-02T22:22:41Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/accpd/stats/",
+    "bytes": 155,
+    "sha256": "215012f7ef7ba0eb4a30607fe08704ef11b8d1f29ac7dee98d8e60bf71cdd8bf",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:41 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/acworthga/stats/",
+    "retrieved_at": "2026-11-02T22:22:42Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/acworthga/stats/",
+    "bytes": 156,
+    "sha256": "a25ae01c0aad2743f965716d06f660f067329659db60bb1a6c5c7c44c2e7bc92",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:42 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/adamscsoco/stats/",
+    "retrieved_at": "2026-11-02T22:22:43Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/adamscsoco/stats/",
+    "bytes": 153,
+    "sha256": "9f121c6ea9db0c236816af9230b72dd5d426fc424f327db76ff83e292eddd005",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:43 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/alachuasheriff/stats/",
+    "retrieved_at": "2026-11-02T22:22:44Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/alachuasheriff/stats/",
+    "bytes": 152,
+    "sha256": "574c667f9efd34179303b01fae42c280a63df361d1dba00076097137432ad5e9",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:44 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/albanypolice/stats/",
+    "retrieved_at": "2026-11-02T22:22:45Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/albanypolice/stats/",
+    "bytes": 160,
+    "sha256": "9d37895ec522d0f7e86cd3cc75eaf017ea98a91e4bf4a5380fe3ab452d1f132e",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:45 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/alexandriapd/stats/",
+    "retrieved_at": "2026-11-02T22:22:46Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/alexandriapd/stats/",
+    "bytes": 156,
+    "sha256": "4002ef29a6b65ca9d4f01a3c3c90bc5fb68d09b69d3a3ff1965bb604eed46aa1",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:46 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/alpharetta/stats/",
+    "retrieved_at": "2026-11-02T22:22:47Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/alpharetta/stats/",
+    "bytes": 145,
+    "sha256": "b56d1cbb1b0b51eb2697b4c2e8c86a1c8f88d2a01ee4090f093c7b8682001c8a",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:47 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/alsipil/stats/",
+    "retrieved_at": "2026-11-02T22:22:48Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/alsipil/stats/",
+    "bytes": 154,
+    "sha256": "b54d9d6fecebdcda32ea58da33a666c9735c0d0846b10ba0ba8ed8b7815b0196",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:48 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/altoonapd/stats/",
+    "retrieved_at": "2026-11-02T22:22:49Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/altoonapd/stats/",
+    "bytes": 152,
+    "sha256": "037fd49f39224ac57a6121183cf5dd2154010bf7dd707ac7b58ff049183604d1",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:49 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/amarillopd/stats/",
+    "retrieved_at": "2026-11-02T22:22:50Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/amarillopd/stats/",
+    "bytes": 151,
+    "sha256": "663f60fa8c7522407b8140289e3f3131293a0d2a7c5d8b8599b29860bfd5aabd",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:50 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/anaheim/stats/",
+    "retrieved_at": "2026-11-02T22:22:51Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/anaheim/stats/",
+    "bytes": 153,
+    "sha256": "868cb120a3f129a83655c4b050a677f515ee9c002e9642273ca58e9b6c89549c",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:51 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/anchoragepdak/stats/",
+    "retrieved_at": "2026-11-02T22:22:52Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/anchoragepdak/stats/",
+    "bytes": 148,
+    "sha256": "9bd65503b4f6ef04c9640cb4ed23361819a2a0799566d2eff0947710688ee559",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:52 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/anokacountysomn/stats/",
+    "retrieved_at": "2026-11-02T22:22:53Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/anokacountysomn/stats/",
+    "bytes": 156,
+    "sha256": "0b694d6c91d65285f817f7c92336f347c36f031760335000fdec37b7677a81c8",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:53 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/apachejunctionpdaz/stats/",
+    "retrieved_at": "2026-11-02T22:22:54Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/apachejunctionpdaz/stats/",
+    "bytes": 150,
+    "sha256": "03e030923063d8191470799e91c31b361e792c3205de1f9f9fae8efc97d9c91d",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:54 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/apopkapd/stats/",
+    "retrieved_at": "2026-11-02T22:22:55Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/apopkapd/stats/",
+    "bytes": 156,
+    "sha256": "5ca25b4c8d55548298362a76722374ab63d37c9b0c8e659c4a86438eb05cd6e9",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:55 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/arlingtonheightspd/stats/",
+    "retrieved_at": "2026-11-02T22:22:56Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/arlingtonheightspd/stats/",
+    "bytes": 156,
+    "sha256": "1d71babdab296c998ba896b861b6a90e79b952772db4bb7a36ad8e7d47bcb9e2",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:56 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/artesianmpd/stats/",
+    "retrieved_at": "2026-11-02T22:22:57Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/artesianmpd/stats/",
+    "bytes": 149,
+    "sha256": "32d371a03cd4d4f3dcf38f44156f93562a87c5d2ada1a5016990712533ec3bcd",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:57 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/ashevillepdnc/stats/",
+    "retrieved_at": "2026-11-02T22:22:58Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/ashevillepdnc/stats/",
+    "bytes": 151,
+    "sha256": "de526a16b682267f8e0b5eb5406a67326993f30763ddf3b9b6cfe9ffc4ede290",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:58 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/ashlandpdal/stats/",
+    "retrieved_at": "2026-11-02T22:22:59Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/ashlandpdal/stats/",
+    "bytes": 150,
+    "sha256": "85df68ad1da8f05d0e89d4db9c4766999a93c4995b06575a1dcad52b3574f563",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:22:59 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/auroragov/stats/",
+    "retrieved_at": "2026-11-02T22:23:00Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/auroragov/stats/",
+    "bytes": 153,
+    "sha256": "0a48f2da57fd056b0670aaaeab64cddffa493bc3438f35095bbfc9fbeaff9318",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:00 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/baltimorecountypd/stats/",
+    "retrieved_at": "2026-11-02T22:23:01Z",
+    "attempts": 1,
+    "http_status": 404,
+    "error": "HTTP 404"
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/bartowfl/stats/",
+    "retrieved_at": "2026-11-02T22:23:02Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/bartowfl/stats/",
+    "bytes": 145,
+    "sha256": "bb461b43a707db250cefeafdbe9ad024a416811d147d353d5348655d9e0156ff",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:02 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/baycounty/stats/",
+    "retrieved_at": "2026-11-02T22:23:03Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/baycounty/stats/",
+    "bytes": 159,
+    "sha256": "bc9d9fe28a81da8d01d6130e0d9238353945a34bf916af1c75c209fa24842738",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:03 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/beaumonttx/stats/",
+    "retrieved_at": "2026-11-02T22:23:04Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/beaumonttx/stats/",
+    "bytes": 159,
+    "sha256": "5e0c8d0466097c7827c02da204a80a37a141ebfad916ef2b66432f0d52419996",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:04 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/bedfordparkpd/stats/",
+    "retrieved_at": "2026-11-02T22:23:05Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/bedfordparkpd/stats/",
+    "bytes": 152,
+    "sha256": "42b58b2b2630c49b4ae90f07c08143bc93f7f01da5911ad3d573e7d527ffbf5c",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:05 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/bendpd/stats/",
+    "retrieved_at": "2026-11-02T22:23:06Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/bendpd/stats/",
+    "bytes": 153,
+    "sha256": "9596d55ac9d43e475d938f7d78919e42bf139c9b82c55779af5c29d93ed98db7",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:06 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/bensalem/stats/",
+    "retrieved_at": "2026-11-02T22:23:07Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/bensalem/stats/",
+    "bytes": 156,
+    "sha256": "d4487979948f041cc361e05c40368523a13b0d0efd23d4633c08a53e062dc7ee",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:07 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/bernalillo/stats/",
+    "retrieved_at": "2026-11-02T22:23:08Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/bernalillo/stats/",
+    "bytes": 153,
+    "sha256": "88845c352dfda25b027401e80c1824dcdeb583db4add597fd0f9db320f9e0f64",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:08 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/beverlyhillspd/stats/",
+    "retrieved_at": "2026-11-02T22:23:09Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/beverlyhillspd/stats/",
+    "bytes": 158,
+    "sha256": "3025603d01ee7c862dd49d7a67de3ba536f4e8191aa80ed6ed510ec93fe978f3",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:09 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/biloxi/stats/",
+    "retrieved_at": "2026-11-02T22:23:10Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/biloxi/stats/",
+    "bytes": 155,
+    "sha256": "96e9a7a6c61e99808c7d3bfaca1dbf34a678f1c2b64ff71314d81e02551d9802",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:10 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/birminghampd/stats/",
+    "retrieved_at": "2026-11-02T22:23:11Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/birminghampd/stats/",
+    "bytes": 156,
+    "sha256": "46a00a75026640e18a394f9abf4041e48c33e51582eab934d2f65aaa8aafb9ad",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:11 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/blackmanleonitwp/stats/",
+    "retrieved_at": "2026-11-02T22:23:12Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/blackmanleonitwp/stats/",
+    "bytes": 142,
+    "sha256": "e96a303f117d6640e19021079303037393a04597b393dff01c8548c212faa06a",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:12 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/bocaratonpdfl/stats/",
+    "retrieved_at": "2026-11-02T22:23:13Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/bocaratonpdfl/stats/",
+    "bytes": 148,
+    "sha256": "22c7ea9254e85bf6ecdc6e3e34714ad7dbb100909dfaddaf9d77e19011d57286",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:13 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/boernepdtx/stats/",
+    "retrieved_at": "2026-11-02T22:23:14Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/boernepdtx/stats/",
+    "bytes": 145,
+    "sha256": "d105e28c78ab127b7ec7507d3f5777e637e9ec805d0a6dcdda109e2383b8f3fb",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:14 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/boulderpdco/stats/",
+    "retrieved_at": "2026-11-02T22:23:15Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/boulderpdco/stats/",
+    "bytes": 148,
+    "sha256": "e7c9213505cb13c7043606f0411296383a123eb0c9a5fdb91d4b9151269fccc6",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:15 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/bradentonfl/stats/",
+    "retrieved_at": "2026-11-02T22:23:16Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/bradentonfl/stats/",
+    "bytes": 157,
+    "sha256": "6e272c88502fd67cd90afc8f7347b39fadf0907f126cf5ff21ed02505822b79f",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:16 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/brazostx/stats/",
+    "retrieved_at": "2026-11-02T22:23:17Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/brazostx/stats/",
+    "bytes": 153,
+    "sha256": "4c578cf3d2316ab0f8b4da7f265444e36a0d2250adaafde4a783343054900697",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:17 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/bristolctpd/stats/",
+    "retrieved_at": "2026-11-02T22:23:18Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/bristolctpd/stats/",
+    "bytes": 144,
+    "sha256": "ec09c3b9d7d53b19f14f876795f648e7c05e3c0911902af51aae239eb17be6b9",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:18 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/brooklynparkpdmn/stats/",
+    "retrieved_at": "2026-11-02T22:23:19Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/brooklynparkpdmn/stats/",
+    "bytes": 154,
+    "sha256": "fa0b02d2d5af3fe8ba1244ec73203221016b54ea07885fbb55f5a3d4a8012a03",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:19 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/brownsvillepd/stats/",
+    "retrieved_at": "2026-11-02T22:23:20Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/brownsvillepd/stats/",
+    "bytes": 152,
+    "sha256": "4525beb8fa67e9cdf8dc99f98d9e33543daa5a2d2d3f8b0e67bdc8608649e7dd",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:20 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/brunswickpdga/stats/",
+    "retrieved_at": "2026-11-02T22:23:21Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/brunswickpdga/stats/",
+    "bytes": 142,
+    "sha256": "d916aa880418dd998dc6fe5c9b1338f4223736bb1dd7f5979e67133d7f83c9b2",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:21 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/buncombesheriff/stats/",
+    "retrieved_at": "2026-11-02T22:23:22Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/buncombesheriff/stats/",
+    "bytes": 157,
+    "sha256": "b2e464454ef57deae336b77bb4d6c68c4f762ba7cc29b5731959a08927d08e00",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:22 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/burbankpdil/stats/",
+    "retrieved_at": "2026-11-02T22:23:23Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/burbankpdil/stats/",
+    "bytes": 152,
+    "sha256": "77faee2db58862db2b86d3aae5120043d5496588f09861006ef805d8c4089a45",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:23 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/calcasieusheriff/stats/",
+    "retrieved_at": "2026-11-02T22:23:24Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/calcasieusheriff/stats/",
+    "bytes": 149,
+    "sha256": "e77afcea17b8797596f6a186604afada14445377664becb2f4fd025b37bd372a",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:24 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/caldwellpdid/stats/",
+    "retrieved_at": "2026-11-02T22:23:25Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/caldwellpdid/stats/",
+    "bytes": 151,
+    "sha256": "9fd281b92bca90b8a95273c4eaa6e8de18f994bb8960fb512bdc62ece841281a",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:25 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/campbellpd/stats/",
+    "retrieved_at": "2026-11-02T22:23:26Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/campbellpd/stats/",
+    "bytes": 155,
+    "sha256": "2299279d4de2265613fdb43482741ec31288f0652c42745e27ae89ffff55ca4a",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:26 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/carencropd/stats/",
+    "retrieved_at": "2026-11-02T22:23:27Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/carencropd/stats/",
+    "bytes": 153,
+    "sha256": "5a2598b3ff3c4859dba19ab8dbbca9a44dbb813f212622c8be36f21303b20590",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:27 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/carlsbadpdnm/stats/",
+    "retrieved_at": "2026-11-02T22:23:28Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/carlsbadpdnm/stats/",
+    "bytes": 146,
+    "sha256": "ccb96497d5283cf287eb33b5dcbff8042a895d0e69e367828e81c777ac0f034c",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:28 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/carypd/stats/",
+    "retrieved_at": "2026-11-02T22:23:29Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/carypd/stats/",
+    "bytes": 153,
+    "sha256": "255e94288db51c115b588223e865e46aaa59f88c890f895dbd58ebdcc6411619",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:29 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/charlestonpd/stats/",
+    "retrieved_at": "2026-11-02T22:23:30Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/charlestonpd/stats/",
+    "bytes": 153,
+    "sha256": "26fe1bc7162a63f2da394a70b9a8cf36ef1fe513178a331f2c47c9ed049aa12b",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:30 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/charlottecounty/stats/",
+    "retrieved_at": "2026-11-02T22:23:31Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/charlottecounty/stats/",
+    "bytes": 158,
+    "sha256": "45fcf423f641dcbe28cb00eb8aed0adcc190e5b7e170b4b9ecc2ce9ef7e371bd",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:31 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/charlottemecklenburg/stats/",
+    "retrieved_at": "2026-11-02T22:23:32Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/charlottemecklenburg/stats/",
+    "bytes": 158,
+    "sha256": "7e43a64c54336ff97912381aad93f702c9644b16486c5a2e631f440192080f0a",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:32 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/chattanoogapd/stats/",
+    "retrieved_at": "2026-11-02T22:23:33Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/chattanoogapd/stats/",
+    "bytes": 151,
+    "sha256": "3e2fff3145def74d3d42e583cbafc8aeca57f77086c3593d816c94a173abcfae",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:33 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cherokeega/stats/",
+    "retrieved_at": "2026-11-02T22:23:34Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cherokeega/stats/",
+    "bytes": 157,
+    "sha256": "1a7d6613c454a78fe76310019d38213070a5be00f8e2f9e39f17faa1b7c8819b",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:34 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/chesterfieldcounty/stats/",
+    "retrieved_at": "2026-11-02T22:23:35Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/chesterfieldcounty/stats/",
+    "bytes": 158,
+    "sha256": "204e09a88e9e21cbc90e7e189bf971d1840a599c554e060c6de93a8a194e5542",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:35 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/chicagoheights/stats/",
+    "retrieved_at": "2026-11-02T22:23:36Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/chicagoheights/stats/",
+    "bytes": 154,
+    "sha256": "e650143bc4615902bfc3aca4f4c361a8a5bc2a6b01e4f36889d0e7af05b9b3ea",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:36 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/chicopee/stats/",
+    "retrieved_at": "2026-11-02T22:23:37Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/chicopee/stats/",
+    "bytes": 153,
+    "sha256": "858406f10fa3f944e9fc23684b3a1a33cc2c992aa586913d7f94dbcd087bb526",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:37 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/ciceropd/stats/",
+    "retrieved_at": "2026-11-02T22:23:38Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/ciceropd/stats/",
+    "bytes": 152,
+    "sha256": "a547623709a431a1e8485ca5af2f0e1284987384e7d43c7d5046696aa036d331",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:38 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cincinnatipd/stats/",
+    "retrieved_at": "2026-11-02T22:23:39Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cincinnatipd/stats/",
+    "bytes": 155,
+    "sha256": "b4920d025b74d980e38fdcadc1e58c6b2bb13944c2331c377d7ed4159dc6eb85",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:39 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cityofatlanta/stats/",
+    "retrieved_at": "2026-11-02T22:23:40Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cityofatlanta/stats/",
+    "bytes": 164,
+    "sha256": "b953d1894e50146442c76cd340db6b8407dc17fe0cf7e927f46389a37b7c916c",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:40 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cityofcanton/stats/",
+    "retrieved_at": "2026-11-02T22:23:41Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cityofcanton/stats/",
+    "bytes": 148,
+    "sha256": "9eed989d63305ac188b88709cc6f4c232eb6d4342ca35d270c5e3a04100aa730",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:41 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cityofdoralpd/stats/",
+    "retrieved_at": "2026-11-02T22:23:42Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cityofdoralpd/stats/",
+    "bytes": 158,
+    "sha256": "e4e75f6a1dc90d7ad435def826c24d2f119dbb4be1cbc23fd6bb34bf60710f14",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:42 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cityofhawthorne/stats/",
+    "retrieved_at": "2026-11-02T22:23:43Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cityofhawthorne/stats/",
+    "bytes": 155,
+    "sha256": "50f6734d57427fd7e28a3f30fb962df1fcc0baf41b275f4b79ceaa94dd0ad97d",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:43 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cityofmanchester/stats/",
+    "retrieved_at": "2026-11-02T22:23:44Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cityofmanchester/stats/",
+    "bytes": 156,
+    "sha256": "f5b68e18ba287d7e6ce633df8b1371535abe25590b42375e979afd2132351577",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:44 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cityofmiamipd/stats/",
+    "retrieved_at": "2026-11-02T22:23:45Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cityofmiamipd/stats/",
+    "bytes": 160,
+    "sha256": "fe76f6a2cd472ac4228c9f5d6a7a46dcc168277c9efa6b5c09df8fdc1b7b9a43",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:45 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cityofnewark/stats/",
+    "retrieved_at": "2026-11-02T22:23:46Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cityofnewark/stats/",
+    "bytes": 155,
+    "sha256": "990aae8dbf2adb52717186894956b4dd0bf055be86a51c95fd5d9755af805bc5",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:46 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cityofomaha/stats/",
+    "retrieved_at": "2026-11-02T22:23:47Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cityofomaha/stats/",
+    "bytes": 158,
+    "sha256": "43872f3794e5731374ad54c451e123bd064191a7ceeb9876b6dcde0a6a2b5f6e",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:47 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cityofoxford/stats/",
+    "retrieved_at": "2026-11-02T22:23:48Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cityofoxford/stats/",
+    "bytes": 155,
+    "sha256": "d04075f8020c7695ab7d4686b062eb9282b686084316a8dbf5cf5af3a1da53b7",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:48 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cityofroswell/stats/",
+    "retrieved_at": "2026-11-02T22:23:49Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cityofroswell/stats/",
+    "bytes": 157,
+    "sha256": "0365d217e7f96301f699d6a0bcf72bcaf6f5742e7e7e9fd84cb7bd18fc2b3734",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:49 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cityofshreveport/stats/",
+    "retrieved_at": "2026-11-02T22:23:50Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cityofshreveport/stats/",
+    "bytes": 159,
+    "sha256": "883a637259ecce8877667ec022b3522f1e452590b332f87d2badcf7929c51cd4",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:50 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cityofstarkville/stats/",
+    "retrieved_at": "2026-11-02T22:23:51Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cityofstarkville/stats/",
+    "bytes": 154,
+    "sha256": "871a719876b3f74f08f5c341522ed56a50addec546823f5473af913bac4ec7da",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:51 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cityofws/stats/",
+    "retrieved_at": "2026-11-02T22:23:52Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cityofws/stats/",
+    "bytes": 159,
+    "sha256": "f2aaa04cef4197e0c4952267913074f85bba1230627729b6da2a407c47321e15",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:52 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/claycountysheriff/stats/",
+    "retrieved_at": "2026-11-02T22:23:53Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/claycountysheriff/stats/",
+    "bytes": 158,
+    "sha256": "2de4fb3bb436a1e7a60c5f06ecfdca2c1563e17541d57a36d05189b4ed745900",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:53 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/claytoncountypd/stats/",
+    "retrieved_at": "2026-11-02T22:23:54Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/claytoncountypd/stats/",
+    "bytes": 157,
+    "sha256": "ad2d8ce83a094e0c665b8e2e23bae401e53ebcba49bdae8eba822e2b530c9eba",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:54 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/clearwaterpd/stats/",
+    "retrieved_at": "2026-11-02T22:23:55Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/clearwaterpd/stats/",
+    "bytes": 155,
+    "sha256": "1b380bed5d1c7da382958107f6e1d4b44f0ca6490cb86d535d93f4aaccd8add5",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:55 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/clermontpd/stats/",
+    "retrieved_at": "2026-11-02T22:23:56Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/clermontpd/stats/",
+    "bytes": 151,
+    "sha256": "739671d203285095fc653305e365d7c2f3fd2fb2f8fe351ebbb23aec2b95a60a",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:56 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/clevelanddps/stats/",
+    "retrieved_at": "2026-11-02T22:23:57Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/clevelanddps/stats/",
+    "bytes": 157,
+    "sha256": "0ef85762710e13bfb64abca4c5c1e2e07bcd608436dd797316c9a93ccc5d2810",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:57 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/clevelandmetroparksoh/stats/",
+    "retrieved_at": "2026-11-02T22:23:58Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/clevelandmetroparksoh/stats/",
+    "bytes": 145,
+    "sha256": "7854906b0fc31cbac9fac00d5b6d200bcc20345d3b09bc2efba794c649281877",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:58 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cobbcountypd/stats/",
+    "retrieved_at": "2026-11-02T22:23:59Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cobbcountypd/stats/",
+    "bytes": 161,
+    "sha256": "a96de92fbb12a001ebce4769149b2dc7f88ecd285a7b66bb60ad1ac464a412ba",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:23:59 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/collegeparkga/stats/",
+    "retrieved_at": "2026-11-02T22:24:00Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/collegeparkga/stats/",
+    "bytes": 155,
+    "sha256": "db960239570c092d6dc9063a57a72ab2fd14d343480892a72d6688d2d1e433cd",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:00 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/coloradospringspd/stats/",
+    "retrieved_at": "2026-11-02T22:24:01Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/coloradospringspd/stats/",
+    "bytes": 156,
+    "sha256": "888c5eb544ffbf6f12b14862b833f410d3f88de9b9d861aeb74f27b2c25335ed",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:01 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/coltonpdca/stats/",
+    "retrieved_at": "2026-11-02T22:24:02Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/coltonpdca/stats/",
+    "bytes": 147,
+    "sha256": "6e72f9c2a517af18fe7d96f09e1d476906e415319dadd05a9c296c9e1cfa8ef6",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:02 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/columbuspdga/stats/",
+    "retrieved_at": "2026-11-02T22:24:03Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/columbuspdga/stats/",
+    "bytes": 154,
+    "sha256": "344757b524d2f90de67de29552285b4f9ccb65a604d54accc059f80b3387f2a7",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:03 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/connectnewportrichey/stats/",
+    "retrieved_at": "2026-11-02T22:24:04Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/connectnewportrichey/stats/",
+    "bytes": 142,
+    "sha256": "9e9e5c2c57651b59b21f6d0abd6749969319c9fa261e60651d14a18b6a131f99",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:04 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/connecttallahassee/stats/",
+    "retrieved_at": "2026-11-02T22:24:05Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/connecttallahassee/stats/",
+    "bytes": 153,
+    "sha256": "0d59945009026d41b43dd94a141a58fba8c798ba1c3c95bb2b0ae00f79fddeab",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:05 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/covinapdca/stats/",
+    "retrieved_at": "2026-11-02T22:24:06Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/covinapdca/stats/",
+    "bytes": 145,
+    "sha256": "621e8a82bb49c0ed4e70e99da7678d8705094e8cad52313225b86dd6693a3586",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:06 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/crestviewpdfl/stats/",
+    "retrieved_at": "2026-11-02T22:24:07Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/crestviewpdfl/stats/",
+    "bytes": 145,
+    "sha256": "1971457e5c795b4096996548f3b661ad9908b1945f07b53058ce9bb3b26528fd",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:07 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/crestwoodpdil/stats/",
+    "retrieved_at": "2026-11-02T22:24:08Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/crestwoodpdil/stats/",
+    "bytes": 146,
+    "sha256": "66d2d6b268dce3112a7f1ae9cece190c05d395109be732554e22f0640711d6d0",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:08 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/cummingpdga/stats/",
+    "retrieved_at": "2026-11-02T22:24:09Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/cummingpdga/stats/",
+    "bytes": 154,
+    "sha256": "d0242e3df1eb8b81b5b3aa876576bf420f22338697ebb28970ffbf24a17919ce",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:09 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/dallaspd/stats/",
+    "retrieved_at": "2026-11-02T22:24:10Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/dallaspd/stats/",
+    "bytes": 159,
+    "sha256": "8d8811a743bf8e705a11aecf73f710be740f5b9bc79499082f390de3491ec9a1",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:10 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/dalycitypdca/stats/",
+    "retrieved_at": "2026-11-02T22:24:11Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/dalycitypdca/stats/",
+    "bytes": 149,
+    "sha256": "af756212d63c60c18a87689dc715d4d066180349e4720af25d88a4ca8178170c",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:11 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/danvillepd/stats/",
+    "retrieved_at": "2026-11-02T22:24:12Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/danvillepd/stats/",
+    "bytes": 156,
+    "sha256": "0822d8125fb07e9a84452165b11497cd22ce28b156cdea7f7eb0268016cdac88",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:12 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/dbsfl/stats/",
+    "retrieved_at": "2026-11-02T22:24:13Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/dbsfl/stats/",
+    "bytes": 145,
+    "sha256": "2e7f81a1d22c8ab8f3bfe9692f06215da2997b1322f3de97795f6e9a167e5193",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:13 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/dcmetro/stats/",
+    "retrieved_at": "2026-11-02T22:24:14Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/dcmetro/stats/",
+    "bytes": 160,
+    "sha256": "cc8def6b53b22f75497d35c7e2a72b7b7a7daf1a02b75edcaaa0b8995eb0a337",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:14 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/dealpdnj/stats/",
+    "retrieved_at": "2026-11-02T22:24:15Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/dealpdnj/stats/",
+    "bytes": 150,
+    "sha256": "ce69250f40f3bf1c07463053286aee557124464e80b352bc2028c68143395d74",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:15 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/dearbornpdmi/stats/",
+    "retrieved_at": "2026-11-02T22:24:16Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/dearbornpdmi/stats/",
+    "bytes": 153,
+    "sha256": "86de27818c5a88c035b2192fa8c55e6a63a9e983e85084ea8230aa5b4676565c",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:16 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/dekalbcountyga/stats/",
+    "retrieved_at": "2026-11-02T22:24:17Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/dekalbcountyga/stats/",
+    "bytes": 156,
+    "sha256": "6e94a1a39f6f566aaa9a1a26bb1ba1dbe23dc3796a50b3487f3c86c3cf453672",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:17 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/delraybeach/stats/",
+    "retrieved_at": "2026-11-02T22:24:18Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/delraybeach/stats/",
+    "bytes": 152,
+    "sha256": "8bfdcb3a66533fb93939b317f8ce91ab02af9bab7fcc250a810369add05c33b9",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:18 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/dentonpdtx/stats/",
+    "retrieved_at": "2026-11-02T22:24:19Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/dentonpdtx/stats/",
+    "bytes": 149,
+    "sha256": "35bcdb08228874ff64ed2fed73335fdb3e96fccee7246d82b788e6de8adc02ab",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:19 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/dothanpd/stats/",
+    "retrieved_at": "2026-11-02T22:24:20Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/dothanpd/stats/",
+    "bytes": 149,
+    "sha256": "b52a01228ffcba6d971b253d4b671bd6db94005de84dd1af89ff7fd208826928",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:20 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/douglascountysonv/stats/",
+    "retrieved_at": "2026-11-02T22:24:21Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/douglascountysonv/stats/",
+    "bytes": 147,
+    "sha256": "6eda8ed3eb11272dcc78816cde17de7146c017828aad2e3b7d625525d3d5c3f4",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:21 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/douglasvillepolice/stats/",
+    "retrieved_at": "2026-11-02T22:24:22Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/douglasvillepolice/stats/",
+    "bytes": 159,
+    "sha256": "35a0b60fc96ab0885bb7dcc4e173a88a1bb4003ca7bae60c53b0947fa8f25bf4",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:22 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/dubuquepdia/stats/",
+    "retrieved_at": "2026-11-02T22:24:23Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/dubuquepdia/stats/",
+    "bytes": 146,
+    "sha256": "11a6a3cbd5f433a123a28b09fe14c41644ff3ba7861852ecdec59fec8ebdf372",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:23 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/duckpdnc/stats/",
+    "retrieved_at": "2026-11-02T22:24:24Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/duckpdnc/stats/",
+    "bytes": 146,
+    "sha256": "c3ba80a6be582daad4de36c3983744dcc62a8dfef2d569f4e5347e8ebca281db",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:24 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/duncanvillepdtx/stats/",
+    "retrieved_at": "2026-11-02T22:24:25Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/duncanvillepdtx/stats/",
+    "bytes": 149,
+    "sha256": "f85d70a1cf671cb3882f374350b18c35b27bb6443214d50ba80e081466ed4eaf",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:25 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/eaganpdmn/stats/",
+    "retrieved_at": "2026-11-02T22:24:26Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/eaganpdmn/stats/",
+    "bytes": 146,
+    "sha256": "dd90e6b93d68705e5d26a96fcbd726ba1a73c9947590ad99e35abdd0f1578491",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:26 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/eastbatonrougesola/stats/",
+    "retrieved_at": "2026-11-02T22:24:27Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/eastbatonrougesola/stats/",
+    "bytes": 149,
+    "sha256": "d54963912523f3988652c4562a08bc1e01f965ceaa39279db9c0a42012722dc0",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:27 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/eastpointpdga/stats/",
+    "retrieved_at": "2026-11-02T22:24:28Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/eastpointpdga/stats/",
+    "bytes": 154,
+    "sha256": "fad3fd7c2bfac12e0b7aad45c31248aa7c8ead652f28e53abb4a67d6eb692bac",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:28 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/elcajonpdca/stats/",
+    "retrieved_at": "2026-11-02T22:24:29Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/elcajonpdca/stats/",
+    "bytes": 150,
+    "sha256": "51f7a9f5a859148d781fcbf49984241b9090dfe91a69ff811e5b62988d0a8c2d",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:29 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/elizabethnj/stats/",
+    "retrieved_at": "2026-11-02T22:24:30Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/elizabethnj/stats/",
+    "bytes": 157,
+    "sha256": "aafd91ad1247dd84b38e24f1aae52298ca9b34b812955b3d7c885949cc86523a",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:30 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/elyriapdoh/stats/",
+    "retrieved_at": "2026-11-02T22:24:31Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/elyriapdoh/stats/",
+    "bytes": 153,
+    "sha256": "bd8e0ed4331622b803b68619a4495966ed7edcb23356515d56ff3c34f8233fde",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:31 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/escambiafl/stats/",
+    "retrieved_at": "2026-11-02T22:24:32Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/escambiafl/stats/",
+    "bytes": 157,
+    "sha256": "9f9f572cc3376bcf7bcd97f26c6156bbbe7c9bf26efded3ff5c1e35b3f76dcee",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:32 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/euclidpdoh/stats/",
+    "retrieved_at": "2026-11-02T22:24:33Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/euclidpdoh/stats/",
+    "bytes": 150,
+    "sha256": "554365544a1c653d1e02314b549b81965d782fae9323be6ccc5c226f2befb0f7",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:33 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/eurekapdmo/stats/",
+    "retrieved_at": "2026-11-02T22:24:34Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/eurekapdmo/stats/",
+    "bytes": 146,
+    "sha256": "ff1412acab969ec848e55a43dfeb54936936cd4dcf62c763a6e5b7c1da55c2e9",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:34 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/fairfaxcopd/stats/",
+    "retrieved_at": "2026-11-02T22:24:35Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/fairfaxcopd/stats/",
+    "bytes": 158,
+    "sha256": "7e5a11e90d3581d5dd7171dae03384abfe005fed9fe588205b563ae411e94527",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:35 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/farmingtonpd/stats/",
+    "retrieved_at": "2026-11-02T22:24:36Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/farmingtonpd/stats/",
+    "bytes": 152,
+    "sha256": "b9e9de4b82abca56dbc2459a48b197a925badadaccb61a3383bffaf25e6bd499",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:36 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/fayettevillepd/stats/",
+    "retrieved_at": "2026-11-02T22:24:37Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/fayettevillepd/stats/",
+    "bytes": 155,
+    "sha256": "5f704567848003d05e17a8d5ccf0875743caf285447172d7d92252a2a453578c",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:37 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/federalwaypdwa/stats/",
+    "retrieved_at": "2026-11-02T22:24:38Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/federalwaypdwa/stats/",
+    "bytes": 148,
+    "sha256": "766cb2e4ccd9f7498fd3384cf1a15dd246bc208a7da70cde7586dd5eeaf6420c",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:38 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/flaglercountysheriff/stats/",
+    "retrieved_at": "2026-11-02T22:24:39Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/flaglercountysheriff/stats/",
+    "bytes": 157,
+    "sha256": "40c4c27ddc8bd1f8ceac9da527b7362016cf89ac0c0a2669fa792eb5728bedb1",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:39 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/forestparkpd/stats/",
+    "retrieved_at": "2026-11-02T22:24:40Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/forestparkpd/stats/",
+    "bytes": 157,
+    "sha256": "149fbe411e8d6e76746a9f74e96c29a9781f85d0280e2557aef4fac3c29937b6",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:40 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/forsyth/stats/",
+    "retrieved_at": "2026-11-02T22:24:41Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/forsyth/stats/",
+    "bytes": 156,
+    "sha256": "044da32c8dd7dcd5a8eb742347272093280c62dd69ea19aa54ad33858218d25d",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:41 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/forsythcosoga/stats/",
+    "retrieved_at": "2026-11-02T22:24:42Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/forsythcosoga/stats/",
+    "bytes": 155,
+    "sha256": "3af7a2dda4472a2136378b1dff5d4599a167ce13e79cc87a66a0882af286d042",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:42 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/fortbendcounty/stats/",
+    "retrieved_at": "2026-11-02T22:24:43Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/fortbendcounty/stats/",
+    "bytes": 152,
+    "sha256": "96829b97954bd68620cc945f706a6643f52092f5bd93cc28a8659c4130dcd795",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:43 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/fortdodgepdia/stats/",
+    "retrieved_at": "2026-11-02T22:24:44Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/fortdodgepdia/stats/",
+    "bytes": 146,
+    "sha256": "ec93fad5ca7110ede82a3ffddb53b786b05ba4e2693e69261d07e026331f74d9",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:44 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/fortwaltonbeachpd/stats/",
+    "retrieved_at": "2026-11-02T22:24:45Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/fortwaltonbeachpd/stats/",
+    "bytes": 150,
+    "sha256": "4436f390e04f7598de4bcf7bb4343657b6c791d63f3ca3ce835ef6b7092d16ab",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:45 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/fountainvalleypdca/stats/",
+    "retrieved_at": "2026-11-02T22:24:46Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/fountainvalleypdca/stats/",
+    "bytes": 142,
+    "sha256": "2e7969bb95d50cc582b29631bf33e85d527f082639309c0b9c0c71512580886d",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:46 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/gardengrovepdca/stats/",
+    "retrieved_at": "2026-11-02T22:24:47Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/gardengrovepdca/stats/",
+    "bytes": 145,
+    "sha256": "574ba2dca529456e6a4d1c399761998279d77e12260b965a004e6a9d92d5fa83",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:47 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/garypd/stats/",
+    "retrieved_at": "2026-11-02T22:24:48Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/garypd/stats/",
+    "bytes": 155,
+    "sha256": "810d336d9d7db3af2c79e0db82543a44d868940241e6d72170a82bc8e7634107",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:48 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/glendorapdca/stats/",
+    "retrieved_at": "2026-11-02T22:24:49Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/glendorapdca/stats/",
+    "bytes": 149,
+    "sha256": "536f39413d25579d0c6269f63840f5294996297ceeeca44696933196287b6668",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:49 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/grapevinepdtx/stats/",
+    "retrieved_at": "2026-11-02T22:24:50Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/grapevinepdtx/stats/",
+    "bytes": 149,
+    "sha256": "c49be8972acaea4dc19dc9c048e740adeed53692cf80f4eaf5aed3cd340ba157",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:50 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/greeleypd/stats/",
+    "retrieved_at": "2026-11-02T22:24:51Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/greeleypd/stats/",
+    "bytes": 157,
+    "sha256": "ac9734b2768cbc0ae1de7e82553f220e8dc8e717723bcd8abbf269fd5d8de942",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:51 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/greensboropd/stats/",
+    "retrieved_at": "2026-11-02T22:24:52Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/greensboropd/stats/",
+    "bytes": 156,
+    "sha256": "d6db57ce028bb62aecd3bffa98389e505ece804ef347b0cf69f4d9ae4c0e841d",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:52 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/greenvillecsosc/stats/",
+    "retrieved_at": "2026-11-02T22:24:53Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/greenvillecsosc/stats/",
+    "bytes": 154,
+    "sha256": "54b87a8fac8c4cf505bbb6534aa43940173bcc8183b499eca59b3af162a9a785",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:53 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/guilfordsheriff/stats/",
+    "retrieved_at": "2026-11-02T22:24:54Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/guilfordsheriff/stats/",
+    "bytes": 153,
+    "sha256": "eb6a1aec0541372f7512463ff64bbc501c49ded5fb24f5524d621c8829a876ba",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:54 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/hainescitypdfl/stats/",
+    "retrieved_at": "2026-11-02T22:24:55Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/hainescitypdfl/stats/",
+    "bytes": 150,
+    "sha256": "ca58ecba5b8edb7574295579d61371a4f8d45f04dcf1c990f3dca4328ee94286",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:55 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/hamiltoncoso/stats/",
+    "retrieved_at": "2026-11-02T22:24:56Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/hamiltoncoso/stats/",
+    "bytes": 154,
+    "sha256": "3f5864ebe84b078c4dd1adb232cfddde1071308279c630f251cc4e615e658bee",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:56 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/hammondpd/stats/",
+    "retrieved_at": "2026-11-02T22:24:57Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/hammondpd/stats/",
+    "bytes": 157,
+    "sha256": "14172af607fc6d75cb6df7a8ce905ed08ad9b09c4a6180460c6cff5653a9f4ee",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:57 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/hamptonpdva/stats/",
+    "retrieved_at": "2026-11-02T22:24:58Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/hamptonpdva/stats/",
+    "bytes": 148,
+    "sha256": "d1766bfc1a77c87cc371eca7747842c4d723cf66d687c40471d23d9bf2651c57",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:58 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/hanoverparkpdil/stats/",
+    "retrieved_at": "2026-11-02T22:24:59Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/hanoverparkpdil/stats/",
+    "bytes": 147,
+    "sha256": "bbc4b42c995e2e7bded254e303a3da735d12f595311e4e7be7148ead200be907",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:24:59 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/harrisoncso/stats/",
+    "retrieved_at": "2026-11-02T22:25:00Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/harrisoncso/stats/",
+    "bytes": 152,
+    "sha256": "083eb120bd5b47b28f644c1344128fc03767fd47a947916b7cdab13164e3eb48",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:00 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/hartfordpd/stats/",
+    "retrieved_at": "2026-11-02T22:25:01Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/hartfordpd/stats/",
+    "bytes": 155,
+    "sha256": "5e552a8adbb8ec6f36f4fd43fc83ad7f3cd0e9128f78952d8377b813040aa32d",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:01 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/harveypdil/stats/",
+    "retrieved_at": "2026-11-02T22:25:02Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/harveypdil/stats/",
+    "bytes": 148,
+    "sha256": "f8b5833a0952c770ee829c8de1f4e7faccf6f92d33587c6ef9cae06a54a08049",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:02 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/hcso/stats/",
+    "retrieved_at": "2026-11-02T22:25:03Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/hcso/stats/",
+    "bytes": 159,
+    "sha256": "cb36f11e2828670e02a0ceacf79845cc78f97c524a74ac1228f24d232d6591ac",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:03 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/hennepincountyso/stats/",
+    "retrieved_at": "2026-11-02T22:25:04Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/hennepincountyso/stats/",
+    "bytes": 157,
+    "sha256": "b73ba4b8fd8ee866935158127bfa29993b50f8e4b944e2fa19994f24059bd63e",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:04 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/henricocountypdva/stats/",
+    "retrieved_at": "2026-11-02T22:25:05Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/henricocountypdva/stats/",
+    "bytes": 156,
+    "sha256": "330ec4a524b75f097f15fff4e46c30c1a924ac72f12931156bd0d2a1eefe3c54",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:05 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/henrycountypd/stats/",
+    "retrieved_at": "2026-11-02T22:25:06Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/henrycountypd/stats/",
+    "bytes": 159,
+    "sha256": "d2bc92d4ff2254a62d9c95e765173aa5bce68bd35ad9a94b436ac0ef34a746cd",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:06 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/herndonpdva/stats/",
+    "retrieved_at": "2026-11-02T22:25:07Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/herndonpdva/stats/",
+    "bytes": 148,
+    "sha256": "93cd03acf0fd16a0d898daf83f94134e5ef06b7ec43da72383bfe7905a56cdec",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:07 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/highpointncpd/stats/",
+    "retrieved_at": "2026-11-02T22:25:08Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/highpointncpd/stats/",
+    "bytes": 153,
+    "sha256": "47e52dfa1231f0fdf91374ecd8de9e823a4f8d5a927681e685ea257462220853",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:08 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/hoodcoso/stats/",
+    "retrieved_at": "2026-11-02T22:25:09Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/hoodcoso/stats/",
+    "bytes": 148,
+    "sha256": "2fc9ac5921e528338f2f8cc0d88f05b29fe5e7254e00a945092fb27c6ba30db3",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:09 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/hooverpd/stats/",
+    "retrieved_at": "2026-11-02T22:25:10Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/hooverpd/stats/",
+    "bytes": 152,
+    "sha256": "dab74aeade53f860a1b8cb59a22281206e2c546419d1f36c1f45fceb217e2452",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:10 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/hopemillspd/stats/",
+    "retrieved_at": "2026-11-02T22:25:11Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/hopemillspd/stats/",
+    "bytes": 150,
+    "sha256": "8f0aaab50cdbff2c206e07d4771066366159bcce74e6fa08d82f047c3fa017d1",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:11 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/ilstatepolice/stats/",
+    "retrieved_at": "2026-11-02T22:25:12Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/ilstatepolice/stats/",
+    "bytes": 153,
+    "sha256": "175630b70a7f8bd62f450849657c1fe8446bd03fadc4d223efd73a82613b73f7",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:12 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/indianriversheriff/stats/",
+    "retrieved_at": "2026-11-02T22:25:13Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/indianriversheriff/stats/",
+    "bytes": 157,
+    "sha256": "11a302e93c33ae768bad620981ae4d06f64e554b4e7d865083149e8f387abac0",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:13 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/irvingpdtx/stats/",
+    "retrieved_at": "2026-11-02T22:25:14Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/irvingpdtx/stats/",
+    "bytes": 157,
+    "sha256": "b1a5db47f89c18b13d4862cef4f3ff526b65d7fa5cb577c8d34bca0c71a5df1a",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:15 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/jacksonms/stats/",
+    "retrieved_at": "2026-11-02T22:25:15Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/jacksonms/stats/",
+    "bytes": 156,
+    "sha256": "4d237046095300cda6e92caf7fcb5e3d96ece0e224cffbe274a9b8fa5cc64a15",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:16 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/jacksonpdtn/stats/",
+    "retrieved_at": "2026-11-02T22:25:16Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/jacksonpdtn/stats/",
+    "bytes": 151,
+    "sha256": "ff179ecbea2a2f0efbf7b71569e758f5d1431e23641c979fed358f33a0609db2",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:17 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/jacksonvillesheriff/stats/",
+    "retrieved_at": "2026-11-02T22:25:17Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/jacksonvillesheriff/stats/",
+    "bytes": 160,
+    "sha256": "00578a017fb7d9e039fec988389e4c834a660df8d6affb09324ee4f9c41adcd3",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:18 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/jeffersoncountysheriff/stats/",
+    "retrieved_at": "2026-11-02T22:25:18Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/jeffersoncountysheriff/stats/",
+    "bytes": 159,
+    "sha256": "d0a6f8e27a6b07e55c7309ebad49fedf015b62dab6ba7ee4e70a59101b9d4d7f",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:19 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/kalamazoodps/stats/",
+    "retrieved_at": "2026-11-02T22:25:19Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/kalamazoodps/stats/",
+    "bytes": 156,
+    "sha256": "45a403fb304706f3c5c0da944788e377097905ed2dbc9b5b18311513683bcafa",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:20 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/kansascitykspd/stats/",
+    "retrieved_at": "2026-11-02T22:25:20Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/kansascitykspd/stats/",
+    "bytes": 158,
+    "sha256": "fc1c9223f776f5c79d54bbbf9fb44b36e04c271f46f0774d39d7678009b2fbee",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:21 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/kennesawpd/stats/",
+    "retrieved_at": "2026-11-02T22:25:21Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/kennesawpd/stats/",
+    "bytes": 154,
+    "sha256": "1b7bb508bafbd3a77f365414c5dee68aa64b4bb5027f16ab7ea77925c78da44b",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:22 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/kentcountysd/stats/",
+    "retrieved_at": "2026-11-02T22:25:22Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/kentcountysd/stats/",
+    "bytes": 157,
+    "sha256": "70a9a45951f5ceebae54c08e9076c033d5137a2dead1161936dd818bfd30c9cb",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:23 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/killeenpd/stats/",
+    "retrieved_at": "2026-11-02T22:25:23Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/killeenpd/stats/",
+    "bytes": 154,
+    "sha256": "299669a058399a2204c43645d7108b787a3602cc9206ca65e8aa2ed6cf3397ee",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:24 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/knoxvillepdtn/stats/",
+    "retrieved_at": "2026-11-02T22:25:24Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/knoxvillepdtn/stats/",
+    "bytes": 154,
+    "sha256": "5a0c97e71bb95b3154e48efa8fc44d4e40d6475cfec0b42a3271c3e86673cc10",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:25 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/kylepdtx/stats/",
+    "retrieved_at": "2026-11-02T22:25:25Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/kylepdtx/stats/",
+    "bytes": 152,
+    "sha256": "09bac4a01b9c0dd2ea4a9d575c122753165ebec749ccd9a372b2dbd013d982b5",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:26 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/lafayettepd/stats/",
+    "retrieved_at": "2026-11-02T22:25:26Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/lafayettepd/stats/",
+    "bytes": 158,
+    "sha256": "2c4649469eeedb2ff0a0a85ea1e87a2326ac82f827e112f1a41799a69609797e",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:27 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/lafourcheparishso/stats/",
+    "retrieved_at": "2026-11-02T22:25:27Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/lafourcheparishso/stats/",
+    "bytes": 152,
+    "sha256": "1b1147359250de0419d84ec2f20045945ba32f1564b00d1de8a867a4c7f22774",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:28 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/lagrangepd/stats/",
+    "retrieved_at": "2026-11-02T22:25:28Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/lagrangepd/stats/",
+    "bytes": 149,
+    "sha256": "651d1cd3a8ecfbe9a823b600692d200a81d2d6f84586f1a0c663f0546bad2819",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:29 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/lagunabeachpd/stats/",
+    "retrieved_at": "2026-11-02T22:25:29Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/lagunabeachpd/stats/",
+    "bytes": 147,
+    "sha256": "24d77b30943a308a2807a49d515f718365bf3c23153a1a1eae1b77af19e38cfc",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:30 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/lakecountysheriff/stats/",
+    "retrieved_at": "2026-11-02T22:25:30Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/lakecountysheriff/stats/",
+    "bytes": 157,
+    "sha256": "e8d3c270801bc2e5dad9aaacfa85be928222b91ca027d60f022eb2a3422f81d9",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:31 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/lakewoodpdco/stats/",
+    "retrieved_at": "2026-11-02T22:25:31Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/lakewoodpdco/stats/",
+    "bytes": 150,
+    "sha256": "6c0af293172c1ffb09f0aab088f5de42e543797d49dfc45cefd571662b32e3c0",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:32 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/lapd/stats/",
+    "retrieved_at": "2026-11-02T22:25:32Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/lapd/stats/",
+    "bytes": 148,
+    "sha256": "23e28d7ed3e95dc2e2de49e30e3bf69afe01626938c51f055f3c7fe8e2004365",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:33 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/lasd/stats/",
+    "retrieved_at": "2026-11-02T22:25:33Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/lasd/stats/",
+    "bytes": 159,
+    "sha256": "d9d153a782c5eda5e5cf6e04fc19ffc3e50fe5535ff17b3c76b5b6b4bcd5e175",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:34 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/lawrencepdks/stats/",
+    "retrieved_at": "2026-11-02T22:25:34Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/lawrencepdks/stats/",
+    "bytes": 152,
+    "sha256": "69a52c0bda9482db1a98e0b56e26e029693a52244f7a8807efec2521019cf761",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:35 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/lawrencevillepdga/stats/",
+    "retrieved_at": "2026-11-02T22:25:35Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/lawrencevillepdga/stats/",
+    "bytes": 150,
+    "sha256": "1bd3642abf42508ed7da87bfa69cc71ec54077b1b795481ecb422b4bd35071fb",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:36 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/lawtonpdok/stats/",
+    "retrieved_at": "2026-11-02T22:25:36Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/lawtonpdok/stats/",
+    "bytes": 145,
+    "sha256": "7854906b0fc31cbac9fac00d5b6d200bcc20345d3b09bc2efba794c649281877",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:37 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/leavenworthpdks/stats/",
+    "retrieved_at": "2026-11-02T22:25:37Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/leavenworthpdks/stats/",
+    "bytes": 145,
+    "sha256": "45dc2800555eb6fd4fc573ab4c673bc2ea0aef48ea6214f7ad1ae54093c4d438",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:38 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/lenexapdks/stats/",
+    "retrieved_at": "2026-11-02T22:25:38Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/lenexapdks/stats/",
+    "bytes": 149,
+    "sha256": "663dd6b74fa1b038bc128e84637f21bbff5f6a633dbc253de2fab7742bbd55c8",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:39 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/lexingtonky/stats/",
+    "retrieved_at": "2026-11-02T22:25:39Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/lexingtonky/stats/",
+    "bytes": 158,
+    "sha256": "9d91fa6d0a36a68fcf707ba705e2b0a5a25be8bf268bf5e3bdffb9bde0bf0f69",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:40 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/lincolnbrookhaven/stats/",
+    "retrieved_at": "2026-11-02T22:25:40Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/lincolnbrookhaven/stats/",
+    "bytes": 154,
+    "sha256": "954a90ac1206ee1eb832d25f447f73d668a74be20949369b5529a619249b55ea",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:41 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/littlerockpd/stats/",
+    "retrieved_at": "2026-11-02T22:25:41Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/littlerockpd/stats/",
+    "bytes": 159,
+    "sha256": "0c1c269545179bfba53785fa8c6b37df2413dbbf50bbda2c201e15a1b23c5ba5",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:42 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/losgatospdca/stats/",
+    "retrieved_at": "2026-11-02T22:25:42Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/losgatospdca/stats/",
+    "bytes": 145,
+    "sha256": "224f30cb8bf22aea992402faac9db1ff1d45b0ee10d6ba7e78338704d5662a2e",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:43 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/louisvillemetro/stats/",
+    "retrieved_at": "2026-11-02T22:25:43Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/louisvillemetro/stats/",
+    "bytes": 159,
+    "sha256": "b24dac0c2e60071b98d95649edf1a73bfbcca6beb6b0318b14be35155396fc76",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:44 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/lynchburgpd/stats/",
+    "retrieved_at": "2026-11-02T22:25:44Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/lynchburgpd/stats/",
+    "bytes": 154,
+    "sha256": "6493d2e6bb0b4e3bb17611057471d947053d071e560c0214b68740ca9c6ed453",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:45 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/madisonthecity/stats/",
+    "retrieved_at": "2026-11-02T22:25:45Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/madisonthecity/stats/",
+    "bytes": 150,
+    "sha256": "5f37e89db1147e19cb1279286a5921f1db53e553224426169dee5ea27d53b3fe",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:46 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/manassaspdva/stats/",
+    "retrieved_at": "2026-11-02T22:25:46Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/manassaspdva/stats/",
+    "bytes": 148,
+    "sha256": "39f7aae3b26aa99097cf596ef3d5f7ee042419d6169ffcec8082c2f429e17319",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:47 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/manhattanbeach/stats/",
+    "retrieved_at": "2026-11-02T22:25:47Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/manhattanbeach/stats/",
+    "bytes": 157,
+    "sha256": "15590f0c4ccf08923596b7f6d0467f60b644d8b456c4fa0edbbba912850a58e1",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:48 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/manheimtwp/stats/",
+    "retrieved_at": "2026-11-02T22:25:48Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/manheimtwp/stats/",
+    "bytes": 145,
+    "sha256": "f88a63fe463582e2c81edba3c7ffbb751a0fb56ccf08f7ece320b55b414865ca",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:49 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/martincountyso/stats/",
+    "retrieved_at": "2026-11-02T22:25:49Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/martincountyso/stats/",
+    "bytes": 158,
+    "sha256": "58cb77b09033591c1e9171399e68522f8523f492b5382b14833f57bb08ef6b09",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:50 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/mcpdmd/stats/",
+    "retrieved_at": "2026-11-02T22:25:50Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/mcpdmd/stats/",
+    "bytes": 160,
+    "sha256": "fac199ae4d93753523aade3216989c1022139ff17ca6d43c8eea216951effe3b",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:51 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/mcso-tn/stats/",
+    "retrieved_at": "2026-11-02T22:25:51Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/mcso-tn/stats/",
+    "bytes": 150,
+    "sha256": "2f8cfffbfd14535040e6c945434e13909272e4eec096352c7ecb54c177abe5d4",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:52 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/melroseparkpdil/stats/",
+    "retrieved_at": "2026-11-02T22:25:52Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/melroseparkpdil/stats/",
+    "bytes": 150,
+    "sha256": "f3648c7fa20833575440b9c3f2465955505e57fb52bfda1ed656996cef307f7a",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:53 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/memphispd/stats/",
+    "retrieved_at": "2026-11-02T22:25:53Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/memphispd/stats/",
+    "bytes": 160,
+    "sha256": "996a90b6e266a0b52b4a64f4a54c1c7891942bd0082824ceb2bc8fafa9866333",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:54 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/mercedpdca/stats/",
+    "retrieved_at": "2026-11-02T22:25:54Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/mercedpdca/stats/",
+    "bytes": 150,
+    "sha256": "2ce9e291cc7324d83371e3a67b4f98766c7db516e26e9127c40488e5a214c694",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:55 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/meridianpdid/stats/",
+    "retrieved_at": "2026-11-02T22:25:55Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/meridianpdid/stats/",
+    "bytes": 145,
+    "sha256": "d9fc2490580145d9c66992842428731ec7a905278944fec4b99cdf24c29edb8b",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:56 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/meridianpdms/stats/",
+    "retrieved_at": "2026-11-02T22:25:56Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/meridianpdms/stats/",
+    "bytes": 152,
+    "sha256": "95bb420fd96f1f58351665ab6ef9b359407f75320faef4f83c8f157fbc513ef9",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:57 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/miamibeachpdfl/stats/",
+    "retrieved_at": "2026-11-02T22:25:57Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/miamibeachpdfl/stats/",
+    "bytes": 148,
+    "sha256": "66dc1ed8efd8ab96e678c7bbd57d0bce2aff7f6360920d06b45ef82f707da6c3",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:58 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/miamidadepd/stats/",
+    "retrieved_at": "2026-11-02T22:25:58Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/miamidadepd/stats/",
+    "bytes": 157,
+    "sha256": "f1e8821edbd1b6f6d7a659b6e2052fbd84b6a814f2d6717aa86625b215797130",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:25:59 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/milwaukeepd/stats/",
+    "retrieved_at": "2026-11-02T22:25:59Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/milwaukeepd/stats/",
+    "bytes": 158,
+    "sha256": "f10b3ea1aa5e64da7732561fef5b1c619b6c5bc8f8428560e0c873cbd9f1ab7c",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:00 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/minnetonkapdmn/stats/",
+    "retrieved_at": "2026-11-02T22:26:00Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/minnetonkapdmn/stats/",
+    "bytes": 157,
+    "sha256": "010b254d0994618f91e25595d2b37b3475403d80f59d6152f618078d047e44c6",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:01 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/missoulapdmt/stats/",
+    "retrieved_at": "2026-11-02T22:26:01Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/missoulapdmt/stats/",
+    "bytes": 146,
+    "sha256": "646c7c2da160a21e3e939f10864f9b9ff64f8aad3a0f9d61a2210e72e045ddb0",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:02 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/mobilepdal/stats/",
+    "retrieved_at": "2026-11-02T22:26:02Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/mobilepdal/stats/",
+    "bytes": 148,
+    "sha256": "8d926d8f64e4ca91b319097bd4e15d0d89c88fe87cb8a61511b73b4e4a491af4",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:03 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/modestopd/stats/",
+    "retrieved_at": "2026-11-02T22:26:03Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/modestopd/stats/",
+    "bytes": 153,
+    "sha256": "ce15d2bbb1bed3fe8f430d8874adf9c03a3688de6c0feff7d09440912491cce8",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:04 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/monmouthcounty/stats/",
+    "retrieved_at": "2026-11-02T22:26:04Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/monmouthcounty/stats/",
+    "bytes": 155,
+    "sha256": "c4388a5c0d3b72e5461bfe5cce5aa1dd734c1d678a0fa77c4e29cda4310460be",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:05 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/monroecoso/stats/",
+    "retrieved_at": "2026-11-02T22:26:05Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/monroecoso/stats/",
+    "bytes": 154,
+    "sha256": "a93eb427559ca6c2c962810d39c73e1d0bf24f15771c3d9d6e17216ff8134ae8",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:06 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/montgomerypd-al/stats/",
+    "retrieved_at": "2026-11-02T22:26:06Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/montgomerypd-al/stats/",
+    "bytes": 156,
+    "sha256": "ddca0637eaae5c606362189b1ade8ea7032f6ed1bb0d4d63e7f4e7566d581661",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:07 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/montgomeryso-al/stats/",
+    "retrieved_at": "2026-11-02T22:26:07Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/montgomeryso-al/stats/",
+    "bytes": 149,
+    "sha256": "3bf4a89a53e3dfda6065319f3c4316944da38438f128e212c19a114b4c5d5f54",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:08 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/montrosepdco/stats/",
+    "retrieved_at": "2026-11-02T22:26:08Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/montrosepdco/stats/",
+    "bytes": 148,
+    "sha256": "d0520f8b87245729bc030f17a9cd313f73513888942c9a50e1a3d4efa65b8f11",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:09 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/mooresvillepd/stats/",
+    "retrieved_at": "2026-11-02T22:26:09Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/mooresvillepd/stats/",
+    "bytes": 151,
+    "sha256": "d58aaede7988f188cd4a5c15f60f82f376128c9b042ffde908f2962dd525bb44",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:10 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/mpls/stats/",
+    "retrieved_at": "2026-11-02T22:26:10Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/mpls/stats/",
+    "bytes": 158,
+    "sha256": "12e55d6ebf2328523eb0387d24ae3693ade368bce661137cb4308b96373d012d",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:11 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/munsterpdin/stats/",
+    "retrieved_at": "2026-11-02T22:26:11Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/munsterpdin/stats/",
+    "bytes": 150,
+    "sha256": "14bd9f70cd52482edff699a974586ee05b39cfdc4624965f341214d70d0c5b37",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:12 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/newbrunswickpdnj/stats/",
+    "retrieved_at": "2026-11-02T22:26:12Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/newbrunswickpdnj/stats/",
+    "bytes": 148,
+    "sha256": "d219ac996cac83e54e72810c35dc1654c08107d199a00b1bcde771d329ef3d9b",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:13 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/newcastlede/stats/",
+    "retrieved_at": "2026-11-02T22:26:13Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/newcastlede/stats/",
+    "bytes": 149,
+    "sha256": "6b38fefe1353345b096ea1e228c7d7484776f7bfdf561a8e026ddbf7ead8bdf7",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:14 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/newhavenct/stats/",
+    "retrieved_at": "2026-11-02T22:26:14Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/newhavenct/stats/",
+    "bytes": 153,
+    "sha256": "9f9748532d53343abafd6deef037b96d5c581b9834347fc8e8f0c91903aa547d",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:15 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/newlondonpdct/stats/",
+    "retrieved_at": "2026-11-02T22:26:15Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/newlondonpdct/stats/",
+    "bytes": 143,
+    "sha256": "c85ad2f3ac0fc831f79340e9edc091d0b4322ce5bf3e90700b9ffa6d1e845577",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:16 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/newportbeachpdca/stats/",
+    "retrieved_at": "2026-11-02T22:26:16Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/newportbeachpdca/stats/",
+    "bytes": 151,
+    "sha256": "c9693f48972c012e906ef4a21b78e5c4a3564b5350a5dff3d4c35391a5f60c1b",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:17 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/newportnewspd/stats/",
+    "retrieved_at": "2026-11-02T22:26:17Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/newportnewspd/stats/",
+    "bytes": 158,
+    "sha256": "3062559f4e2c6f65e140b05a6b20d601992cddacef6f07d78900de36a6899cc0",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:18 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/newtonsheriff/stats/",
+    "retrieved_at": "2026-11-02T22:26:18Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/newtonsheriff/stats/",
+    "bytes": 154,
+    "sha256": "a40ed00bc9a3bf487f343045ac6424390818493c06cd2b3160b02782fa1f27fb",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:19 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/norfolkpd/stats/",
+    "retrieved_at": "2026-11-02T22:26:19Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/norfolkpd/stats/",
+    "bytes": 159,
+    "sha256": "e45ff3b82718bbd904c97e765e057a1d20d433007ccab7d5fc2389558292b567",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:20 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/northcharlestonpd/stats/",
+    "retrieved_at": "2026-11-02T22:26:20Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/northcharlestonpd/stats/",
+    "bytes": 156,
+    "sha256": "a22890b69bd21612d165329d2ba9cf1209b7d0f48941bb8702248ff9c7f1be5f",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:21 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/northlittlerock/stats/",
+    "retrieved_at": "2026-11-02T22:26:21Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/northlittlerock/stats/",
+    "bytes": 154,
+    "sha256": "edef1e012a2ccecd916774cf79e441d38196a21e10056dfbf280210b5fe8750e",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:22 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/northport/stats/",
+    "retrieved_at": "2026-11-02T22:26:22Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/northport/stats/",
+    "bytes": 154,
+    "sha256": "0dc6a687025c8ad0d76600faf3ddd6ca049079ff4905bdeefb6fc578cfa36d57",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:23 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/novatopdca/stats/",
+    "retrieved_at": "2026-11-02T22:26:23Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/novatopdca/stats/",
+    "bytes": 147,
+    "sha256": "29f226af7e90cf97037deaba2e087785a8c69c4da2c42369d128effb7b0c8109",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:24 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/nypd/stats/",
+    "retrieved_at": "2026-11-02T22:26:24Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/nypd/stats/",
+    "bytes": 158,
+    "sha256": "01636b16bc956bab46ab284568d1b1724f50adb72fe0cdf034fd5186d03dfb4b",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:25 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/oakbrookpd/stats/",
+    "retrieved_at": "2026-11-02T22:26:25Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/oakbrookpd/stats/",
+    "bytes": 154,
+    "sha256": "74297f682d3d6d43083e546927e7c07e8522bbac06770777bc6dc0e4ecdc95e2",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:26 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/oakdaleca/stats/",
+    "retrieved_at": "2026-11-02T22:26:26Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/oakdaleca/stats/",
+    "bytes": 152,
+    "sha256": "f7287bfe63eb6869442876f434cf164e9a9b462323efdb67e0a4d60baecc96b4",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:27 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/oaklawn/stats/",
+    "retrieved_at": "2026-11-02T22:26:27Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/oaklawn/stats/",
+    "bytes": 158,
+    "sha256": "897acd434b36f421e7ccaa9112e56935bd49597344df2f07c26936c25e30a98c",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:28 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/obterracepd/stats/",
+    "retrieved_at": "2026-11-02T22:26:28Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/obterracepd/stats/",
+    "bytes": 148,
+    "sha256": "55ad153373dc1db169eb036deec3794038e1936cbc78484121576071839cf8c3",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:29 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/oceansidepdca/stats/",
+    "retrieved_at": "2026-11-02T22:26:29Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/oceansidepdca/stats/",
+    "bytes": 152,
+    "sha256": "76e658a9b0651a88fee5aa989ba7915bd7544cd554c0d0ef0d8cc3a313ed0f76",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:30 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/ocsdca/stats/",
+    "retrieved_at": "2026-11-02T22:26:30Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/ocsdca/stats/",
+    "bytes": 160,
+    "sha256": "15055322831002370770497477d7331526890f8b1ce0b3843da55043e91a0523",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:31 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/okaloosacounty/stats/",
+    "retrieved_at": "2026-11-02T22:26:31Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/okaloosacounty/stats/",
+    "bytes": 155,
+    "sha256": "1882fc3f5d3ce2a74b51ed7a50cdabb8c7812061681832c654dfc602e666a239",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:32 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/okcpd/stats/",
+    "retrieved_at": "2026-11-02T22:26:32Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/okcpd/stats/",
+    "bytes": 159,
+    "sha256": "96621715ec9bcc74ebc05ebe605b1713b2070aeed9bc3ef5eef9b2de1bce0fb5",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:33 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/ontariopolice/stats/",
+    "retrieved_at": "2026-11-02T22:26:33Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/ontariopolice/stats/",
+    "bytes": 159,
+    "sha256": "f1b168fbbc4cc1f9cca3fc52a6fd66b064637a346eb6eb1d3a30f31d4d602cf4",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:34 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/orangecofl/stats/",
+    "retrieved_at": "2026-11-02T22:26:34Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/orangecofl/stats/",
+    "bytes": 159,
+    "sha256": "e62d914f37d9615a21e32e38429d43b91af47004603971d58a3b0dff5c319d3c",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:35 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/orlando/stats/",
+    "retrieved_at": "2026-11-02T22:26:35Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/orlando/stats/",
+    "bytes": 159,
+    "sha256": "0d5b5c6b10825eb6671b0c810e561239ba27b753836e1351b7401c2bcbfe4dc3",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:36 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/orlandparkpd/stats/",
+    "retrieved_at": "2026-11-02T22:26:36Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/orlandparkpd/stats/",
+    "bytes": 157,
+    "sha256": "e7892b1e82bdf4654aa3e39e6331e06b3fc5bee10d58d5953d9dbc1772a8cb27",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:37 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/overlandparkpdks/stats/",
+    "retrieved_at": "2026-11-02T22:26:37Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/overlandparkpdks/stats/",
+    "bytes": 153,
+    "sha256": "7ac0aa235063b5a42d2a2506a056921710189758baa6338a80693eafa7316153",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:38 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/pascopdwa/stats/",
+    "retrieved_at": "2026-11-02T22:26:38Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/pascopdwa/stats/",
+    "bytes": 152,
+    "sha256": "d3993a05c7668069376439b370a529bfd35acee0e14b36e097a7c0aaafc57380",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:39 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/patersonpdnj/stats/",
+    "retrieved_at": "2026-11-02T22:26:39Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/patersonpdnj/stats/",
+    "bytes": 154,
+    "sha256": "479fb9ecbab03d463b4cbc0c4a365a9456f69b0f2e3a194193cdb679cb407689",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:40 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/pbso/stats/",
+    "retrieved_at": "2026-11-02T22:26:40Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/pbso/stats/",
+    "bytes": 153,
+    "sha256": "2cc25e4321791201c54f147a8b4d76550b9ecd89598ce46ad01183a69e8472b2",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:41 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/peachtreecorners/stats/",
+    "retrieved_at": "2026-11-02T22:26:41Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/peachtreecorners/stats/",
+    "bytes": 153,
+    "sha256": "a960f7a8ab3cbc99c7937887509699073601b2a4cbbfd7f874789cf5c0496c61",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:42 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/pekinpdil/stats/",
+    "retrieved_at": "2026-11-02T22:26:42Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/pekinpdil/stats/",
+    "bytes": 145,
+    "sha256": "1a142a0ec9fbbe0a61a0e675d3f931306907ab604eddd02a3bac297593babefe",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:43 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/pellcitypd/stats/",
+    "retrieved_at": "2026-11-02T22:26:43Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/pellcitypd/stats/",
+    "bytes": 155,
+    "sha256": "e8d055f2c2797878b92e7a390079e730dbf01eb20d609ffb30c71206a03bb51a",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:44 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/peoriapd/stats/",
+    "retrieved_at": "2026-11-02T22:26:44Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/peoriapd/stats/",
+    "bytes": 153,
+    "sha256": "9302b47101963cfc196743d85ef651d23096a3f857e2cccd6492922032e5a499",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:45 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/peoriapdaz/stats/",
+    "retrieved_at": "2026-11-02T22:26:45Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/peoriapdaz/stats/",
+    "bytes": 154,
+    "sha256": "db0dde2d7a80f31496714f00f35acf0fc1cb4b8010955e7d8f929a2bba1ee8ef",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:46 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/petersburgpd/stats/",
+    "retrieved_at": "2026-11-02T22:26:46Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/petersburgpd/stats/",
+    "bytes": 157,
+    "sha256": "43c43f7dd3d7c5a01e9d376367e6f17d7e2be9b6962944841cb71b1c03d6560b",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:47 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/pgcountypd/stats/",
+    "retrieved_at": "2026-11-02T22:26:47Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/pgcountypd/stats/",
+    "bytes": 158,
+    "sha256": "4f3e19c792ab5c33c57e94e89bf6bd67a297f62483f66b3459b3a5165b61e7ec",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:48 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/placerca/stats/",
+    "retrieved_at": "2026-11-02T22:26:48Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/placerca/stats/",
+    "bytes": 154,
+    "sha256": "6c10d77cda85a9bc27d848345c7447e36e15608d95a09f81a593bfb1c9696689",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:49 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/planotx/stats/",
+    "retrieved_at": "2026-11-02T22:26:49Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/planotx/stats/",
+    "bytes": 151,
+    "sha256": "632a5de0f69d3cb1da17bab942d33ad51b4076db70d55e312b56ffb93b371349",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:50 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/plaqueminesparishso/stats/",
+    "retrieved_at": "2026-11-02T22:26:50Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/plaqueminesparishso/stats/",
+    "bytes": 152,
+    "sha256": "5911456d18bb9109158fdbb4046c2946c5a2f49ecb0aebd9f5035d8b276319bb",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:51 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/pomonapd/stats/",
+    "retrieved_at": "2026-11-02T22:26:51Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/pomonapd/stats/",
+    "bytes": 155,
+    "sha256": "96b9b41930aeb1c78bb439d9a59ac9beb4b7a08940c5f98e192a8229cbcca46e",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:52 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/portsmouthpd/stats/",
+    "retrieved_at": "2026-11-02T22:26:52Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/portsmouthpd/stats/",
+    "bytes": 157,
+    "sha256": "1d468126f4e560e9b6a49a6ada36b9e6979b4239faa4ac0d8f636ef964f7247c",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:53 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/powderspringspd/stats/",
+    "retrieved_at": "2026-11-02T22:26:53Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/powderspringspd/stats/",
+    "bytes": 152,
+    "sha256": "b47d5cf041b40e9e008c00a67b97eadffb510b40ccea87d0ae963ef312a6befd",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:54 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/prairievillagepdks/stats/",
+    "retrieved_at": "2026-11-02T22:26:54Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/prairievillagepdks/stats/",
+    "bytes": 156,
+    "sha256": "9d7f604e2a8d2588c2b341b64c57dc1922be4ded3d061aeb34b86c598e7b8c93",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:55 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/queencreekaz/stats/",
+    "retrieved_at": "2026-11-02T22:26:55Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/queencreekaz/stats/",
+    "bytes": 154,
+    "sha256": "7b26d692f7d6f3cd77a308d41c8cd00c37c8c5f2227f8a6b78c9bfca9898f031",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:56 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/raleighncpd/stats/",
+    "retrieved_at": "2026-11-02T22:26:56Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/raleighncpd/stats/",
+    "bytes": 158,
+    "sha256": "8a948a995e5910dd40d6c5646bdeab4ebb349237b408fac5cc03ef1290318afe",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:57 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/rankincounty/stats/",
+    "retrieved_at": "2026-11-02T22:26:57Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/rankincounty/stats/",
+    "bytes": 152,
+    "sha256": "eb3e149afbc920128b393aad34fbe3ceaf2f7f866d212d7bfe17f34dbabb6cfd",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:58 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/redondobchpd/stats/",
+    "retrieved_at": "2026-11-02T22:26:58Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/redondobchpd/stats/",
+    "bytes": 152,
+    "sha256": "edccb1110d3620ccdde8328df207e213c6a243d0739d943b7ee2dd4508c7a0e6",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:26:59 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/renopd/stats/",
+    "retrieved_at": "2026-11-02T22:26:59Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/renopd/stats/",
+    "bytes": 154,
+    "sha256": "8f5814cf01783df57f0b3fc6e52b0703fd23c42c5b4b8bdda38ddf2ab1b3b16f",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:00 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/rentonpdwa/stats/",
+    "retrieved_at": "2026-11-02T22:27:00Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/rentonpdwa/stats/",
+    "bytes": 151,
+    "sha256": "6441a366883d087a3fe4c49b399d797dd82346278272bcb75d87ea86cc0217fb",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:01 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/rialtopd/stats/",
+    "retrieved_at": "2026-11-02T22:27:01Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/rialtopd/stats/",
+    "bytes": 156,
+    "sha256": "16ba6075e7b04c069f7f28479506bf630d2b2dbe848b716051b9031e12d4beec",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:02 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/richlandpdwa/stats/",
+    "retrieved_at": "2026-11-02T22:27:02Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/richlandpdwa/stats/",
+    "bytes": 149,
+    "sha256": "8860696be7083bcd91668e1defc918d4ababdda5b0f6303debe50f628b66bbfb",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:03 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/richmondcsoga/stats/",
+    "retrieved_at": "2026-11-02T22:27:03Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/richmondcsoga/stats/",
+    "bytes": 148,
+    "sha256": "a1d616d72daeb7eeb3349962b466350be3922a563d723f43c98426ce5eb80968",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:04 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/richmondva/stats/",
+    "retrieved_at": "2026-11-02T22:27:04Z",
+    "attempts": 1,
+    "http_status": 404,
+    "error": "HTTP 404"
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/rileycountypd/stats/",
+    "retrieved_at": "2026-11-02T22:27:05Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/rileycountypd/stats/",
+    "bytes": 148,
+    "sha256": "88c2e65d7bb0afb17106a332e5faec7c0b92c338d080f15d3e0c993fa911acd8",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:06 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/riverdalepd/stats/",
+    "retrieved_at": "2026-11-02T22:27:06Z",
+    "attempts": 1,
+    "http_status": 404,
+    "error": "HTTP 404"
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/rocklinpd/stats/",
+    "retrieved_at": "2026-11-02T22:27:07Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/rocklinpd/stats/",
+    "bytes": 154,
+    "sha256": "ab1469407f1d2c802a4a117ef9dccc433aa249ae91cece2bf7880a9cb7599e5c",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:08 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/rockymountpd/stats/",
+    "retrieved_at": "2026-11-02T22:27:08Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/rockymountpd/stats/",
+    "bytes": 154,
+    "sha256": "286165a0969a7da1a6c82def2f9297e4e72d93823252b9776c43e3def6a763e1",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:09 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/rogerspdar/stats/",
+    "retrieved_at": "2026-11-02T22:27:09Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/rogerspdar/stats/",
+    "bytes": 150,
+    "sha256": "b5b26637bfe784cdba89a7c3a041ec39d56d32093e2ec24ad3dce4f77f10284c",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:10 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/roswellpdnm/stats/",
+    "retrieved_at": "2026-11-02T22:27:10Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/roswellpdnm/stats/",
+    "bytes": 148,
+    "sha256": "c66bf56bfba648f01fc52e2788202885b96c16485abe1fcb439a5c6e713d4184",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:11 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/sacramentocoso/stats/",
+    "retrieved_at": "2026-11-02T22:27:11Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/sacramentocoso/stats/",
+    "bytes": 155,
+    "sha256": "3a1df953e59bc05fd78f0ee09380a3c151a3e0b7f7727aa8e4e7f477a031d07c",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:12 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/sacramentopd/stats/",
+    "retrieved_at": "2026-11-02T22:27:12Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/sacramentopd/stats/",
+    "bytes": 158,
+    "sha256": "a39270d7496bcb32fe6c2726928d1930aa5af9cc5403c8cbd8518188b7b26417",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:13 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/salinaspd/stats/",
+    "retrieved_at": "2026-11-02T22:27:13Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/salinaspd/stats/",
+    "bytes": 155,
+    "sha256": "a0edcb88d750a246835bd452c5ee7911f9dadeed2c5bc3eae9189eba44b152fb",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:14 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/sanbernardinopdca/stats/",
+    "retrieved_at": "2026-11-02T22:27:14Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/sanbernardinopdca/stats/",
+    "bytes": 155,
+    "sha256": "1a1b94b0be2cc1d281de9f701b3cb7121a60c3fe1c2a6fe42af07340088a28ed",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:15 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/sandyspringspd/stats/",
+    "retrieved_at": "2026-11-02T22:27:15Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/sandyspringspd/stats/",
+    "bytes": 158,
+    "sha256": "61e41a66d57be84bca0c9e7c28a811c9f79306d65665f24f1a6cb521507376d6",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:16 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/sanjoaquincsoca/stats/",
+    "retrieved_at": "2026-11-02T22:27:16Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/sanjoaquincsoca/stats/",
+    "bytes": 149,
+    "sha256": "0ebb32b422525e2c5af519a2cbb2f78575f39ae2c3a7a7a849ed8167a36adec7",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:17 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/sanjose/stats/",
+    "retrieved_at": "2026-11-02T22:27:17Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/sanjose/stats/",
+    "bytes": 160,
+    "sha256": "89c90f24d95a73d53a60f3e1f96fc290b9d20df71ef69e23e28156d88d5431a2",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:18 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/sanmarcospdtx/stats/",
+    "retrieved_at": "2026-11-02T22:27:18Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/sanmarcospdtx/stats/",
+    "bytes": 150,
+    "sha256": "c5a5e4663a0fa1c1de493aacae716339d1dce35cedbe266cc316c9680bb897cc",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:19 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/sanmateopd/stats/",
+    "retrieved_at": "2026-11-02T22:27:19Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/sanmateopd/stats/",
+    "bytes": 154,
+    "sha256": "eeb91b26af4a9df4642b684e93e88a30a47ca104186386e7bb3447a8c813c232",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:20 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/sarasotacsofl/stats/",
+    "retrieved_at": "2026-11-02T22:27:20Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/sarasotacsofl/stats/",
+    "bytes": 149,
+    "sha256": "126451b4dc403a092a59d1f140c0b93a77d532708d4ddd9867d720c5269d6445",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:21 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/saratogaspringspdny/stats/",
+    "retrieved_at": "2026-11-02T22:27:21Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/saratogaspringspdny/stats/",
+    "bytes": 151,
+    "sha256": "bcecdb050dd50e2b81b5812ad8c173e9a53f8b9d098b8b4a3ba721d11291a1f2",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:22 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/savannahpd/stats/",
+    "retrieved_at": "2026-11-02T22:27:22Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/savannahpd/stats/",
+    "bytes": 156,
+    "sha256": "7b2f9094cd947482591f8e394d994ef187f587a088ab76c84714fb7ad2f56b4e",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:23 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/schenectadypdny/stats/",
+    "retrieved_at": "2026-11-02T22:27:23Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/schenectadypdny/stats/",
+    "bytes": 145,
+    "sha256": "bf2265e0267d1240432d9dfe113fd4bc0a3ead19a15a0859467f075587715799",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:24 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/scrantonpd/stats/",
+    "retrieved_at": "2026-11-02T22:27:24Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/scrantonpd/stats/",
+    "bytes": 148,
+    "sha256": "8e7e43d1c2f0d5fede49e5ab6f3e52b203c03738bb24d617decc301e9e853c72",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:25 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/seagovillepdtx/stats/",
+    "retrieved_at": "2026-11-02T22:27:25Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/seagovillepdtx/stats/",
+    "bytes": 148,
+    "sha256": "d79da10987a5f915fb4e57a302eb9a4cf3514ffdccf53881dc6598fe37dc34ca",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:26 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/seatpleasantmd/stats/",
+    "retrieved_at": "2026-11-02T22:27:26Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/seatpleasantmd/stats/",
+    "bytes": 153,
+    "sha256": "8a8c970c16e792e553c9cddf396021503ae3733d89cd724d65f706d6ff1c2efc",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:27 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/seattlepd/stats/",
+    "retrieved_at": "2026-11-02T22:27:27Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/seattlepd/stats/",
+    "bytes": 153,
+    "sha256": "026a937bb1aac2e7f30fefffe86b76dd6904355ad39a0af15f508170b0dfc2c2",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:28 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/seminolecountyso/stats/",
+    "retrieved_at": "2026-11-02T22:27:28Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/seminolecountyso/stats/",
+    "bytes": 157,
+    "sha256": "1400075605399a83c699c2c7efd9410ae908604bb735d943ee56e8969c6c3461",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:29 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/shawneecosheriff/stats/",
+    "retrieved_at": "2026-11-02T22:27:29Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/shawneecosheriff/stats/",
+    "bytes": 157,
+    "sha256": "a6c5230b9f8ac07d27a79bc15137b4efb6e8b31a04838d42c143a57e0c91d460",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:30 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/shelbycoso/stats/",
+    "retrieved_at": "2026-11-02T22:27:30Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/shelbycoso/stats/",
+    "bytes": 157,
+    "sha256": "8ca1426a9166b2aabde1e19c64b2084aaa5f1d99baec9572c59afdc779734ccd",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:31 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/smyrnaga/stats/",
+    "retrieved_at": "2026-11-02T22:27:31Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/smyrnaga/stats/",
+    "bytes": 158,
+    "sha256": "0c98fb172a013cab508ca136a2c3b9e57e45b3f3d4a6a7f4f533ed5bddca31ff",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:32 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/southbendpd/stats/",
+    "retrieved_at": "2026-11-02T22:27:32Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/southbendpd/stats/",
+    "bytes": 159,
+    "sha256": "7e0611ef054e4be231574e37e379ecb57338ee958b5e3d40abc16f48363c5e50",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:33 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/southfultonga/stats/",
+    "retrieved_at": "2026-11-02T22:27:33Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/southfultonga/stats/",
+    "bytes": 158,
+    "sha256": "1cdd71cf5874a7de281bc87205ff36c50a0d47682c2a10453f585b77ccb5572d",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:34 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/sparkspdnv/stats/",
+    "retrieved_at": "2026-11-02T22:27:34Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/sparkspdnv/stats/",
+    "bytes": 152,
+    "sha256": "5828f300306bf6f0e77dad04f49ad0126d5dfdede5a32beb5b6f9f28f9f06a52",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:35 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/spartanburgpd/stats/",
+    "retrieved_at": "2026-11-02T22:27:35Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/spartanburgpd/stats/",
+    "bytes": 152,
+    "sha256": "a70d69120b6f2a1e70aeff0c47b17f825b40c906e8ed21a4a85986a84c04cf38",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:36 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/spokanecsowa/stats/",
+    "retrieved_at": "2026-11-02T22:27:36Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/spokanecsowa/stats/",
+    "bytes": 152,
+    "sha256": "c4b3979baaab14693386bbba70315bcfab8d915ca7b0543b6cd8455e6ab5bcd7",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:37 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/springfieldpd/stats/",
+    "retrieved_at": "2026-11-02T22:27:37Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/springfieldpd/stats/",
+    "bytes": 157,
+    "sha256": "d500a3c9ba89caefa647646046997c4e7181d05e9876f4a5a2d87f2b0ac58bbe",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:38 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/springfieldpdmo/stats/",
+    "retrieved_at": "2026-11-02T22:27:38Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/springfieldpdmo/stats/",
+    "bytes": 151,
+    "sha256": "81a8174ba984568eedd90ae614f1efbad3f94d25a30a5ee587fa843ed7534554",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:39 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/statesboropd/stats/",
+    "retrieved_at": "2026-11-02T22:27:39Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/statesboropd/stats/",
+    "bytes": 156,
+    "sha256": "e8be9fa6f589d81cb435552fe66130df5ede01fb0e2cebf416bbf187508be499",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:40 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/stbernardso/stats/",
+    "retrieved_at": "2026-11-02T22:27:40Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/stbernardso/stats/",
+    "bytes": 149,
+    "sha256": "48d076d8ee4afc78fc528dd70fc40ef56e325950e1e9680d83c00655a226f7fa",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:41 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/stcloud/stats/",
+    "retrieved_at": "2026-11-02T22:27:41Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/stcloud/stats/",
+    "bytes": 159,
+    "sha256": "6ff9b39ac4ce107a58db60592704c9de6c9381a79222ac80b72a972f1e3ccd97",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:42 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/stcloudpdmn/stats/",
+    "retrieved_at": "2026-11-02T22:27:42Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/stcloudpdmn/stats/",
+    "bytes": 147,
+    "sha256": "f148d1aa290943f5768e7965d647b0f0ea137338e913372a9dd73309442a116b",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:43 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/stjohnscountyso/stats/",
+    "retrieved_at": "2026-11-02T22:27:43Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/stjohnscountyso/stats/",
+    "bytes": 159,
+    "sha256": "9ff3364f1d64198ab2704b5e156825da4af8587d493d26772f8834d5e3317d0f",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:44 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/stluciesheriff/stats/",
+    "retrieved_at": "2026-11-02T22:27:44Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/stluciesheriff/stats/",
+    "bytes": 152,
+    "sha256": "84814c6acd0483221646564479ee50fcbbace6b7b06ea65a83f6e2ce3b382bd1",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:45 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/stocktonpdca/stats/",
+    "retrieved_at": "2026-11-02T22:27:45Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/stocktonpdca/stats/",
+    "bytes": 149,
+    "sha256": "640a0fc886bc2659d9eef789fbcb17c99a845c174f5b69c6f2cc39c14a1b2988",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:46 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/stpaulpdmn/stats/",
+    "retrieved_at": "2026-11-02T22:27:46Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/stpaulpdmn/stats/",
+    "bytes": 152,
+    "sha256": "2e18ee8386919e7b3d66e759616f82684d5b5386ca3c6a8bcfaec9b7351b5913",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:47 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/sumnercounty/stats/",
+    "retrieved_at": "2026-11-02T22:27:47Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/sumnercounty/stats/",
+    "bytes": 151,
+    "sha256": "2c28e9c4782ae15a1f88ea06a698dd57ba2ef013fbec6060367360f468117010",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:48 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/tempepd/stats/",
+    "retrieved_at": "2026-11-02T22:27:48Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/tempepd/stats/",
+    "bytes": 155,
+    "sha256": "515351de29e54c62099a5413cb2319a29e600f064a2c2a783d8989a10c3d094d",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:49 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/torrancepd/stats/",
+    "retrieved_at": "2026-11-02T22:27:49Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/torrancepd/stats/",
+    "bytes": 153,
+    "sha256": "96458e5c2806f188d37c013f83035ede1d94c996e57c4af74b579f56fda88360",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:50 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/troypdil/stats/",
+    "retrieved_at": "2026-11-02T22:27:50Z",
+    "attempts": 1,
+    "http_status": 404,
+    "error": "HTTP 404"
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/trussvillepd/stats/",
+    "retrieved_at": "2026-11-02T22:27:51Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/trussvillepd/stats/",
+    "bytes": 150,
+    "sha256": "79574711135b5c65ee024cb6374b0955f7ccc79ca6ef37acb4790b93c24d7150",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:52 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/tucsonpd/stats/",
+    "retrieved_at": "2026-11-02T22:27:52Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/tucsonpd/stats/",
+    "bytes": 154,
+    "sha256": "f6f3101b934cc7ebbceb104652543419193ed84cf9f09c4e86032c3e9a3cda1d",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:53 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/tupeloms/stats/",
+    "retrieved_at": "2026-11-02T22:27:53Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/tupeloms/stats/",
+    "bytes": 152,
+    "sha256": "d2ad4285dee3c8cf6ab032f96a7d7ba8b278a34bad58d8fe83d37480f97b7700",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:54 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/turlockpd/stats/",
+    "retrieved_at": "2026-11-02T22:27:54Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/turlockpd/stats/",
+    "bytes": 153,
+    "sha256": "464d2abd851ddce079839a8cc40ee1778ff39e4d743b931febe2ea0c2fd4ae9f",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:55 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/tuscaloosapd/stats/",
+    "retrieved_at": "2026-11-02T22:27:55Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/tuscaloosapd/stats/",
+    "bytes": 156,
+    "sha256": "571d53579110ca4790ad9fe6a90a03185dee4fbdfe4c71030a3cb18fae058f04",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:56 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/uarizonapdaz/stats/",
+    "retrieved_at": "2026-11-02T22:27:56Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/uarizonapdaz/stats/",
+    "bytes": 143,
+    "sha256": "b40b85350b80bdd47d7fc2ce0e283c7c6a57e9a103b1aed12169531277310d7e",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:57 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/uillinoispd/stats/",
+    "retrieved_at": "2026-11-02T22:27:57Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/uillinoispd/stats/",
+    "bytes": 151,
+    "sha256": "54c71ad9773c2da7d91f3a795c06af4345b951ef8d8d11f73f7b13346db1888a",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:58 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/universityofmissouripdmo/stats/",
+    "retrieved_at": "2026-11-02T22:27:58Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/universityofmissouripdmo/stats/",
+    "bytes": 152,
+    "sha256": "1ee10d3da1cbb9d25a6fb0d3d05a9dd7483dd95490b7a087cfa2cbea843a2420",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:27:59 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/virginiabeachpd/stats/",
+    "retrieved_at": "2026-11-02T22:27:59Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/virginiabeachpd/stats/",
+    "bytes": 158,
+    "sha256": "6f5854a1f8e24c6968aa013250839ec146cca665ae1b83ba6df3d588e8ff9d79",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:00 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/volusiasheriff/stats/",
+    "retrieved_at": "2026-11-02T22:28:00Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/volusiasheriff/stats/",
+    "bytes": 157,
+    "sha256": "defe3fd635bb7e88d767097e772ffd3dc243c1c92385790bccde220a91ecc97d",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:01 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/wakecounty/stats/",
+    "retrieved_at": "2026-11-02T22:28:01Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/wakecounty/stats/",
+    "bytes": 155,
+    "sha256": "f0007d64918f7e78023510b50e12cf3de889e1871b429dab65ec7de989aedead",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:02 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/warnerrobinspd/stats/",
+    "retrieved_at": "2026-11-02T22:28:02Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/warnerrobinspd/stats/",
+    "bytes": 153,
+    "sha256": "9676a54fbbdaa59bcf6a13be9f39d0c88af4689717ce7d6c23715562cbb41051",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:03 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/warrenpdmi/stats/",
+    "retrieved_at": "2026-11-02T22:28:03Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/warrenpdmi/stats/",
+    "bytes": 154,
+    "sha256": "cc4e128bcac7afb7cec738077c25ffa4688b9d36579ee42331a35445eb24b293",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:04 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/washoesheriff/stats/",
+    "retrieved_at": "2026-11-02T22:28:04Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/washoesheriff/stats/",
+    "bytes": 150,
+    "sha256": "d224e70c907a4111b354e443fab8db9f97a215866c82a07e8d7fc073a07534d2",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:05 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/webbcountyso/stats/",
+    "retrieved_at": "2026-11-02T22:28:05Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/webbcountyso/stats/",
+    "bytes": 151,
+    "sha256": "6a0d22957bf95d0dc796be701fb11af353ad60e07f6513ae3bc100935a135019",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:06 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/westsacramento/stats/",
+    "retrieved_at": "2026-11-02T22:28:06Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/westsacramento/stats/",
+    "bytes": 153,
+    "sha256": "206244a59d2e6f4ceb3ae458809665db846faca83641a5fe2eee34cf2910567e",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:07 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/wheatonpd/stats/",
+    "retrieved_at": "2026-11-02T22:28:07Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/wheatonpd/stats/",
+    "bytes": 153,
+    "sha256": "f2ad2e258953445b7515eb46777659c159e83588f0a8e06cc3cd00a703e8ee64",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:08 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/whitehallpd/stats/",
+    "retrieved_at": "2026-11-02T22:28:08Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/whitehallpd/stats/",
+    "bytes": 155,
+    "sha256": "429404c1622ce1631154ed52651ec82e96226883d6669f7734eea6f0d0953fee",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:09 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/wichitapdks/stats/",
+    "retrieved_at": "2026-11-02T22:28:09Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/wichitapdks/stats/",
+    "bytes": 152,
+    "sha256": "65de2a54aec87c8ab15cabf80ea0d5e8511360a679d31492943271a5666732d4",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:10 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/williamsoncsotn/stats/",
+    "retrieved_at": "2026-11-02T22:28:10Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/williamsoncsotn/stats/",
+    "bytes": 144,
+    "sha256": "7bd25b41c13f71bd3bb7e0c58d0879c187bec9a953b38c0013870fd5c18aeea3",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:11 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/wilmingtonnc/stats/",
+    "retrieved_at": "2026-11-02T22:28:11Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/wilmingtonnc/stats/",
+    "bytes": 152,
+    "sha256": "33df5b3fa174a19ee2ad65fc90410c01cc8acb5f2202bc0847c67dabdb210016",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:12 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/wintergarden/stats/",
+    "retrieved_at": "2026-11-02T22:28:12Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/wintergarden/stats/",
+    "bytes": 150,
+    "sha256": "6ab22fdd9b4a3f69008ad36c383617bb74d20ac647f3a3507e4f27124ee5b0b2",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:14 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/winterpark/stats/",
+    "retrieved_at": "2026-11-02T22:28:14Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/winterpark/stats/",
+    "bytes": 156,
+    "sha256": "7d018aa11ca4083cecae4849930460362a92f4ae1581c53d4ec3f6b0b4f6a926",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:15 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/wpb/stats/",
+    "retrieved_at": "2026-11-02T22:28:15Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/wpb/stats/",
+    "bytes": 156,
+    "sha256": "21b7669ac868d41a66f700467ad153b03680bee3fb9721a1b8ce97f73b0dcbef",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:16 GMT",
+      "Content-Type": "application/json"
+    }
+  },
+  {
+    "source_url": "https://api.fususone.com/api/public/organizations/zacharypdla/stats/",
+    "retrieved_at": "2026-11-02T22:28:16Z",
+    "attempts": 1,
+    "http_status": 200,
+    "final_url": "https://api.fususone.com/api/public/organizations/zacharypdla/stats/",
+    "bytes": 142,
+    "sha256": "206c2950d8e7725a3112bd1ffc6b7640df632f31b33787f8941675348f51371b",
+    "headers": {
+      "Date": "Mon, 02 Nov 2026 22:28:17 GMT",
+      "Content-Type": "application/json"
+    }
+  }
+]
