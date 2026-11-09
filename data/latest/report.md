@@ -1,4 +1,4 @@
-# Camera statistics — 2026-11-02T22:22:39Z
+# Camera statistics — 2026-11-09T23:02:29Z
 
 Directory entries: **339**. Distinct organizations: **336**. Complete statistics: **332 (98.8%)**.
 
@@ -8,219 +8,219 @@ Counts are publicly reported API values, not independently verified camera inven
 
 | Metric | Sum across distinct organizations | Organizations reporting |
 |---|---:|---:|
-| totalRegisteredCameras | 287,422 | 332 / 336 |
-| totalIntegratedCameras | 623,498 | 332 / 336 |
-| totalOwnedCameras | 185,133 | 332 / 336 |
-| totalSharedCameras | 198,756 | 332 / 336 |
+| totalRegisteredCameras | 288,203 | 332 / 336 |
+| totalIntegratedCameras | 624,769 | 332 / 336 |
+| totalOwnedCameras | 185,907 | 332 / 336 |
+| totalSharedCameras | 199,610 | 332 / 336 |
 | totalMaxCameras | 683,953 | 332 / 336 |
-| subscribedCameras | 166,958 | 332 / 336 |
+| subscribedCameras | 167,588 | 332 / 336 |
 
 ## Largest reported integrated-camera inventories
 
 | Program | State | Integrated |
 |---|---|---:|
-| Connect Atlanta | GA | 28,323 |
-| Connect Sandy Springs | GA | 15,201 |
-| Connect South Fulton | GA | 14,812 |
-| Connect Statesboro | GA | 14,445 |
-| Connect Albany | GA | 14,041 |
-| Henry Safer Together | GA | 13,842 |
-| Connect Cherokee | GA | 13,428 |
-| Connect Cobb  | GA | 13,091 |
-| Connect Smyrna | GA | 13,075 |
-| Connect Douglasville | GA | 12,900 |
-| Chesterfield Community Connect Program | VA | 11,001 |
+| Connect Atlanta | GA | 28,311 |
+| Connect Sandy Springs | GA | 15,238 |
+| Connect South Fulton | GA | 14,814 |
+| Connect Statesboro | GA | 14,446 |
+| Connect Albany | GA | 14,038 |
+| Henry Safer Together | GA | 13,840 |
+| Connect Cherokee | GA | 13,438 |
+| Connect Cobb  | GA | 13,092 |
+| Connect Smyrna | GA | 13,071 |
+| Connect Douglasville | GA | 12,912 |
 | Connect Clayton County | GA | 10,785 |
-| Connect Roswell | GA | 10,650 |
-| Connect Acworth | GA | 10,554 |
-| Connect Forest Park | GA | 10,525 |
+| Chesterfield Community Connect Program | VA | 10,763 |
+| Connect Roswell | GA | 10,647 |
+| Connect Acworth | GA | 10,553 |
+| Connect Forest Park | GA | 10,522 |
 
 ## Largest increases
 
 | Program | State | Before | Now | Change | Change % | Days | Per week |
 |---|---|---:|---:|---:|---:|---:|---:|
-| Connect Greeley | CO | 2,782 | 3,119 | +337 | 12.1% | 7.1 | +331.2 |
-| Connect Cary | NC | 1,308 | 1,435 | +127 | 9.7% | 7.1 | +124.8 |
-| Connect Omaha | NE | 1,781 | 1,870 | +89 | 5.0% | 7.1 | +87.5 |
-| The Kent Safety Network | MI | 2,805 | 2,887 | +82 | 2.9% | 7.1 | +80.6 |
-| Connect Mobile | AL | 259 | 297 | +38 | 14.7% | 7.1 | +37.3 |
-| Connect Turlock | CA | 134 | 172 | +38 | 28.4% | 7.1 | +37.3 |
-| Connect Buncombe County | NC | 2,706 | 2,743 | +37 | 1.4% | 7.1 | +36.4 |
-| Connect Ontario | CA | 2,378 | 2,415 | +37 | 1.6% | 7.1 | +36.4 |
-| Connect San Mateo | CA | 95 | 130 | +35 | 36.8% | 7.1 | +34.4 |
-| Connect Orange County | CA | 2,876 | 2,899 | +23 | 0.8% | 7.1 | +22.6 |
-| Connect Hamilton County | OH | 472 | 490 | +18 | 3.8% | 7.1 | +17.7 |
-| Connect Charleston | SC | 576 | 591 | +15 | 2.6% | 7.1 | +14.7 |
-| Connect St. Cloud | FL | 9,016 | 9,029 | +13 | 0.1% | 7.1 | +12.8 |
-| Connect Campbell | CA | 310 | 322 | +12 | 3.9% | 7.1 | +11.8 |
-| Connect Fayetteville | NC | 548 | 560 | +12 | 2.2% | 7.1 | +11.8 |
+| Connect Saint Paul | MN | 1,256 | 2,080 | +824 | 65.6% | 7.0 | +820.8 |
+| The Kent Safety Network | MI | 2,887 | 3,088 | +201 | 7.0% | 7.0 | +200.2 |
+| ConnectDuval | FL | 9,870 | 10,045 | +175 | 1.8% | 7.0 | +174.3 |
+| Connect Miami-Dade | FL | 1,799 | 1,926 | +127 | 7.1% | 7.0 | +126.5 |
+| Connect Shelby County | TN | 2,315 | 2,416 | +101 | 4.4% | 7.0 | +100.6 |
+| Connect San Jose | CA | 1,664 | 1,752 | +88 | 5.3% | 7.0 | +87.7 |
+| Connect Martin County | FL | 6,014 | 6,088 | +74 | 1.2% | 7.0 | +73.7 |
+| Link High Point | NC | 582 | 640 | +58 | 10.0% | 7.0 | +57.8 |
+| Connect Doral | FL | 3,415 | 3,460 | +45 | 1.3% | 7.0 | +44.8 |
+| Connect Sandy Springs | GA | 15,201 | 15,238 | +37 | 0.2% | 7.0 | +36.9 |
+| Connected Wichita | KS | 366 | 394 | +28 | 7.7% | 7.0 | +27.9 |
+| Connect Williamson | TN | 9 | 32 | +23 | 255.6% | 7.0 | +22.9 |
+| Denton Connects | TX | 190 | 212 | +22 | 11.6% | 7.0 | +21.9 |
+| Connect Eagan | MN | 76 | 96 | +20 | 26.3% | 7.0 | +19.9 |
+| Connect Bristol | CT | 14 | 33 | +19 | 135.7% | 7.0 | +18.9 |
 
 ## Fastest increases per week
 
 | Program | State | Before | Now | Change | Change % | Days | Per week |
 |---|---|---:|---:|---:|---:|---:|---:|
-| Connect Greeley | CO | 2,782 | 3,119 | +337 | 12.1% | 7.1 | +331.2 |
-| Connect Cary | NC | 1,308 | 1,435 | +127 | 9.7% | 7.1 | +124.8 |
-| Connect Omaha | NE | 1,781 | 1,870 | +89 | 5.0% | 7.1 | +87.5 |
-| The Kent Safety Network | MI | 2,805 | 2,887 | +82 | 2.9% | 7.1 | +80.6 |
-| Connect Turlock | CA | 134 | 172 | +38 | 28.4% | 7.1 | +37.3 |
-| Connect Mobile | AL | 259 | 297 | +38 | 14.7% | 7.1 | +37.3 |
-| Connect Ontario | CA | 2,378 | 2,415 | +37 | 1.6% | 7.1 | +36.4 |
-| Connect Buncombe County | NC | 2,706 | 2,743 | +37 | 1.4% | 7.1 | +36.4 |
-| Connect San Mateo | CA | 95 | 130 | +35 | 36.8% | 7.1 | +34.4 |
-| Connect Orange County | CA | 2,876 | 2,899 | +23 | 0.8% | 7.1 | +22.6 |
-| Connect Hamilton County | OH | 472 | 490 | +18 | 3.8% | 7.1 | +17.7 |
-| Connect Charleston | SC | 576 | 591 | +15 | 2.6% | 7.1 | +14.7 |
-| Connect St. Cloud | FL | 9,016 | 9,029 | +13 | 0.1% | 7.1 | +12.8 |
-| Connect Fayetteville | NC | 548 | 560 | +12 | 2.2% | 7.1 | +11.8 |
-| Connect Campbell | CA | 310 | 322 | +12 | 3.9% | 7.1 | +11.8 |
+| Connect Saint Paul | MN | 1,256 | 2,080 | +824 | 65.6% | 7.0 | +820.8 |
+| The Kent Safety Network | MI | 2,887 | 3,088 | +201 | 7.0% | 7.0 | +200.2 |
+| ConnectDuval | FL | 9,870 | 10,045 | +175 | 1.8% | 7.0 | +174.3 |
+| Connect Miami-Dade | FL | 1,799 | 1,926 | +127 | 7.1% | 7.0 | +126.5 |
+| Connect Shelby County | TN | 2,315 | 2,416 | +101 | 4.4% | 7.0 | +100.6 |
+| Connect San Jose | CA | 1,664 | 1,752 | +88 | 5.3% | 7.0 | +87.7 |
+| Connect Martin County | FL | 6,014 | 6,088 | +74 | 1.2% | 7.0 | +73.7 |
+| Link High Point | NC | 582 | 640 | +58 | 10.0% | 7.0 | +57.8 |
+| Connect Doral | FL | 3,415 | 3,460 | +45 | 1.3% | 7.0 | +44.8 |
+| Connect Sandy Springs | GA | 15,201 | 15,238 | +37 | 0.2% | 7.0 | +36.9 |
+| Connected Wichita | KS | 366 | 394 | +28 | 7.7% | 7.0 | +27.9 |
+| Connect Williamson | TN | 9 | 32 | +23 | 255.6% | 7.0 | +22.9 |
+| Denton Connects | TX | 190 | 212 | +22 | 11.6% | 7.0 | +21.9 |
+| Connect Eagan | MN | 76 | 96 | +20 | 26.3% | 7.0 | +19.9 |
+| Connect Bristol | CT | 14 | 33 | +19 | 135.7% | 7.0 | +18.9 |
 
 ## Largest percentage increases (baseline at least 25)
 
 | Program | State | Before | Now | Change | Change % | Days | Per week |
 |---|---|---:|---:|---:|---:|---:|---:|
-| Connect San Mateo | CA | 95 | 130 | +35 | 36.8% | 7.1 | +34.4 |
-| Connect Turlock | CA | 134 | 172 | +38 | 28.4% | 7.1 | +37.3 |
-| Connect Mobile | AL | 259 | 297 | +38 | 14.7% | 7.1 | +37.3 |
-| Connect Greeley | CO | 2,782 | 3,119 | +337 | 12.1% | 7.1 | +331.2 |
-| Connect Cary | NC | 1,308 | 1,435 | +127 | 9.7% | 7.1 | +124.8 |
-| Connect Omaha | NE | 1,781 | 1,870 | +89 | 5.0% | 7.1 | +87.5 |
-| Connect Campbell | CA | 310 | 322 | +12 | 3.9% | 7.1 | +11.8 |
-| Connect Hamilton County | OH | 472 | 490 | +18 | 3.8% | 7.1 | +17.7 |
-| Connect Renton | WA | 237 | 245 | +8 | 3.4% | 7.1 | +7.9 |
-| The Kent Safety Network | MI | 2,805 | 2,887 | +82 | 2.9% | 7.1 | +80.6 |
-| Connect Charleston | SC | 576 | 591 | +15 | 2.6% | 7.1 | +14.7 |
-| Connect Fayetteville | NC | 548 | 560 | +12 | 2.2% | 7.1 | +11.8 |
-| Connect Chicopee | MA | 522 | 532 | +10 | 1.9% | 7.1 | +9.8 |
-| Connect Warren | MI | 245 | 249 | +4 | 1.6% | 7.1 | +3.9 |
-| SaferStockton | CA | 371 | 377 | +6 | 1.6% | 7.1 | +5.9 |
+| Connect Saint Paul | MN | 1,256 | 2,080 | +824 | 65.6% | 7.0 | +820.8 |
+| Connect Eagan | MN | 76 | 96 | +20 | 26.3% | 7.0 | +19.9 |
+| Denton Connects | TX | 190 | 212 | +22 | 11.6% | 7.0 | +21.9 |
+| Link High Point | NC | 582 | 640 | +58 | 10.0% | 7.0 | +57.8 |
+| Connected Wichita | KS | 366 | 394 | +28 | 7.7% | 7.0 | +27.9 |
+| Connect Miami-Dade | FL | 1,799 | 1,926 | +127 | 7.1% | 7.0 | +126.5 |
+| The Kent Safety Network | MI | 2,887 | 3,088 | +201 | 7.0% | 7.0 | +200.2 |
+| Connect San Jose | CA | 1,664 | 1,752 | +88 | 5.3% | 7.0 | +87.7 |
+| Fort Dodge CARES | IA | 57 | 60 | +3 | 5.3% | 7.0 | +3.0 |
+| Connect Shelby County | TN | 2,315 | 2,416 | +101 | 4.4% | 7.0 | +100.6 |
+| Connect Delray Beach | FL | 526 | 544 | +18 | 3.4% | 7.0 | +17.9 |
+| Connect Warren | MI | 249 | 257 | +8 | 3.2% | 7.0 | +8.0 |
+| Connect Montrose | CO | 175 | 179 | +4 | 2.3% | 7.0 | +4.0 |
+| ConnectDuval | FL | 9,870 | 10,045 | +175 | 1.8% | 7.0 | +174.3 |
+| Connect Los Angeles | CA | 273 | 277 | +4 | 1.5% | 7.0 | +4.0 |
 
 ## Largest decreases
 
 | Program | State | Before | Now | Change | Change % | Days | Per week |
 |---|---|---:|---:|---:|---:|---:|---:|
-| Connect Atlanta | GA | 29,826 | 28,323 | -1,503 | -5.0% | 7.1 | -1,477.1 |
-| Connect Cherokee | GA | 14,602 | 13,428 | -1,174 | -8.0% | 7.1 | -1,153.8 |
-| Connect Statesboro | GA | 15,619 | 14,445 | -1,174 | -7.5% | 7.1 | -1,153.8 |
-| Connect Sandy Springs | GA | 16,374 | 15,201 | -1,173 | -7.2% | 7.1 | -1,152.8 |
-| Connect Roswell | GA | 11,819 | 10,650 | -1,169 | -9.9% | 7.1 | -1,148.8 |
-| Henry Safer Together | GA | 15,011 | 13,842 | -1,169 | -7.8% | 7.1 | -1,148.8 |
-| Connect Acworth | GA | 11,664 | 10,554 | -1,110 | -9.5% | 7.1 | -1,090.9 |
-| Connect Cobb  | GA | 14,201 | 13,091 | -1,110 | -7.8% | 7.1 | -1,090.9 |
-| Connect Athens-Clarke County | GA | 5,437 | 4,336 | -1,101 | -20.3% | 7.1 | -1,082.0 |
-| Connect College Park | GA | 11,617 | 10,516 | -1,101 | -9.5% | 7.1 | -1,082.0 |
-| Connect Forsyth County | GA | 8,079 | 6,978 | -1,101 | -13.6% | 7.1 | -1,082.0 |
-| Connect Powder Springs | GA | 4,067 | 2,966 | -1,101 | -27.1% | 7.1 | -1,082.0 |
-| Connect Smyrna | GA | 14,176 | 13,075 | -1,101 | -7.8% | 7.1 | -1,082.0 |
-| Connect Savannah | GA | 10,366 | 9,269 | -1,097 | -10.6% | 7.1 | -1,078.1 |
-| Connect South Fulton | GA | 15,909 | 14,812 | -1,097 | -6.9% | 7.1 | -1,078.1 |
+| Connect Prince George's County | MD | 2,949 | 2,659 | -290 | -9.8% | 7.0 | -288.9 |
+| Chesterfield Community Connect Program | VA | 11,001 | 10,763 | -238 | -2.2% | 7.0 | -237.1 |
+| Connect Anne Arundel | MD | 3,256 | 3,186 | -70 | -2.1% | 7.0 | -69.7 |
+| Connect Seat Pleasant | MD | 1,192 | 1,122 | -70 | -5.9% | 7.0 | -69.7 |
+| Connect North Charleston | SC | 527 | 499 | -28 | -5.3% | 7.0 | -27.9 |
+| Connect Atlanta | GA | 28,323 | 28,311 | -12 | -0.0% | 7.0 | -12.0 |
+| Connect Apopka | FL | 7,850 | 7,839 | -11 | -0.1% | 7.0 | -11.0 |
+| Connect DeKalb County | GA | 9,095 | 9,087 | -8 | -0.1% | 7.0 | -8.0 |
+| Connect Omaha | NE | 1,870 | 1,865 | -5 | -0.3% | 7.0 | -5.0 |
+| Connect Winston-Salem | NC | 3,343 | 3,339 | -4 | -0.1% | 7.0 | -4.0 |
+| Connect College Park | GA | 10,516 | 10,512 | -4 | -0.0% | 7.0 | -4.0 |
+| Connect Dearborn | MI | 702 | 698 | -4 | -0.6% | 7.0 | -4.0 |
+| Connect Orange County | FL | 10,279 | 10,275 | -4 | -0.0% | 7.0 | -4.0 |
+| Connect Smyrna | GA | 13,075 | 13,071 | -4 | -0.0% | 7.0 | -4.0 |
+| Connect Albany | GA | 14,041 | 14,038 | -3 | -0.0% | 7.0 | -3.0 |
 
 ## Change log
 
 | Event | Organization | Field | Before | After |
 |---|---|---|---|---|
-| metric_changed | accpd | totalIntegratedCameras | 5437 | 4336 |
-| metric_changed | acworthga | totalIntegratedCameras | 11664 | 10554 |
-| metric_changed | acworthga | totalSharedCameras | 427 | 405 |
-| metric_changed | albanypolice | totalIntegratedCameras | 15119 | 14041 |
-| metric_changed | albanypolice | totalOwnedCameras | 1154 | 1160 |
-| metric_changed | alexandriapd | totalIntegratedCameras | 1751 | 1760 |
-| metric_changed | alexandriapd | totalOwnedCameras | 366 | 375 |
-| metric_changed | alexandriapd | subscribedCameras | 366 | 375 |
-| metric_changed | ashevillepdnc | totalIntegratedCameras | 346 | 344 |
-| metric_changed | ashevillepdnc | totalOwnedCameras | 346 | 344 |
-| metric_changed | birminghampd | totalRegisteredCameras | 810 | 819 |
-| metric_changed | bocaratonpdfl | totalIntegratedCameras | 912 | 906 |
-| metric_changed | bocaratonpdfl | totalOwnedCameras | 678 | 672 |
-| metric_changed | bocaratonpdfl | subscribedCameras | 655 | 649 |
-| metric_changed | bristolctpd | totalIntegratedCameras | 13 | 14 |
-| metric_changed | bristolctpd | totalOwnedCameras | 13 | 14 |
-| metric_changed | buncombesheriff | totalIntegratedCameras | 2706 | 2743 |
-| metric_changed | buncombesheriff | totalOwnedCameras | 451 | 488 |
-| metric_changed | buncombesheriff | subscribedCameras | 316 | 353 |
-| metric_changed | campbellpd | totalIntegratedCameras | 310 | 322 |
-| metric_changed | campbellpd | totalSharedCameras | 29 | 41 |
-| metric_changed | carlsbadpdnm | totalIntegratedCameras | 13 | 12 |
-| metric_changed | carlsbadpdnm | totalOwnedCameras | 13 | 12 |
-| metric_changed | carypd | totalIntegratedCameras | 1308 | 1435 |
-| metric_changed | carypd | totalOwnedCameras | 854 | 980 |
-| metric_changed | carypd | subscribedCameras | 853 | 979 |
-| metric_changed | charlestonpd | totalRegisteredCameras | 300 | 302 |
-| metric_changed | charlestonpd | totalIntegratedCameras | 576 | 591 |
-| metric_changed | charlestonpd | totalOwnedCameras | 500 | 515 |
-| metric_changed | charlestonpd | subscribedCameras | 465 | 480 |
-| metric_changed | charlottecounty | totalRegisteredCameras | 2333 | 2343 |
-| metric_changed | charlottemecklenburg | totalRegisteredCameras | 3247 | 3249 |
-| metric_changed | charlottemecklenburg | totalIntegratedCameras | 1823 | 1820 |
-| metric_changed | charlottemecklenburg | totalOwnedCameras | 1618 | 1615 |
-| metric_changed | charlottemecklenburg | subscribedCameras | 1472 | 1469 |
-| metric_changed | chattanoogapd | totalIntegratedCameras | 794 | 797 |
-| metric_changed | chattanoogapd | totalOwnedCameras | 793 | 796 |
-| metric_changed | chattanoogapd | subscribedCameras | 784 | 787 |
-| metric_changed | cherokeega | totalRegisteredCameras | 637 | 640 |
-| metric_changed | cherokeega | totalIntegratedCameras | 14602 | 13428 |
-| metric_changed | cherokeega | totalSharedCameras | 630 | 549 |
-| metric_changed | chesterfieldcounty | totalIntegratedCameras | 11062 | 11001 |
-| metric_changed | chesterfieldcounty | totalOwnedCameras | 992 | 990 |
-| metric_changed | chesterfieldcounty | totalSharedCameras | 10008 | 9949 |
-| metric_changed | chicagoheights | totalIntegratedCameras | 1225 | 1226 |
-| metric_changed | chicagoheights | totalOwnedCameras | 1172 | 1173 |
-| metric_changed | chicagoheights | subscribedCameras | 729 | 730 |
-| metric_changed | chicopee | totalIntegratedCameras | 522 | 532 |
-| metric_changed | chicopee | totalOwnedCameras | 522 | 532 |
-| metric_changed | chicopee | subscribedCameras | 519 | 529 |
-| metric_changed | cincinnatipd | totalRegisteredCameras | 1756 | 1766 |
-| metric_changed | cincinnatipd | totalIntegratedCameras | 852 | 854 |
-| metric_changed | cincinnatipd | totalOwnedCameras | 809 | 811 |
-| metric_changed | cityofatlanta | totalRegisteredCameras | 17537 | 17549 |
-| metric_changed | cityofatlanta | totalIntegratedCameras | 29826 | 28323 |
-| metric_changed | cityofatlanta | totalOwnedCameras | 3698 | 2566 |
-| metric_changed | cityofatlanta | totalSharedCameras | 11972 | 11601 |
-| metric_changed | cityofatlanta | subscribedCameras | 3686 | 2554 |
-| metric_changed | cityofnewark | totalIntegratedCameras | 929 | 932 |
-| metric_changed | cityofnewark | totalOwnedCameras | 497 | 500 |
-| metric_changed | cityofnewark | subscribedCameras | 488 | 491 |
-| metric_changed | cityofomaha | totalRegisteredCameras | 1283 | 1284 |
-| metric_changed | cityofomaha | totalIntegratedCameras | 1781 | 1870 |
-| metric_changed | cityofomaha | totalSharedCameras | 911 | 1000 |
-| metric_changed | cityofroswell | totalIntegratedCameras | 11819 | 10650 |
-| metric_changed | cityofroswell | totalSharedCameras | 455 | 374 |
-| metric_changed | cityofshreveport | totalIntegratedCameras | 2863 | 2864 |
-| metric_changed | cityofshreveport | totalOwnedCameras | 2349 | 2350 |
-| metric_changed | cityofshreveport | subscribedCameras | 2361 | 2362 |
-| metric_changed | cityofws | totalRegisteredCameras | 1684 | 1692 |
-| metric_changed | claycountysheriff | totalIntegratedCameras | 3430 | 3434 |
-| metric_changed | claycountysheriff | totalOwnedCameras | 3262 | 3266 |
-| metric_changed | claycountysheriff | subscribedCameras | 3257 | 3261 |
-| metric_changed | claytoncountypd | totalIntegratedCameras | 11873 | 10785 |
-| metric_changed | clearwaterpd | totalRegisteredCameras | 720 | 724 |
-| metric_changed | clearwaterpd | totalIntegratedCameras | 913 | 917 |
-| metric_changed | clearwaterpd | totalOwnedCameras | 843 | 847 |
-| metric_changed | clearwaterpd | subscribedCameras | 793 | 797 |
-| metric_changed | cobbcountypd | totalRegisteredCameras | 3564 | 3567 |
-| metric_changed | cobbcountypd | totalIntegratedCameras | 14201 | 13091 |
-| metric_changed | cobbcountypd | totalSharedCameras | 4069 | 4047 |
-| metric_changed | collegeparkga | totalIntegratedCameras | 11617 | 10516 |
-| metric_changed | coloradospringspd | totalIntegratedCameras | 1103 | 1101 |
-| metric_changed | coloradospringspd | totalOwnedCameras | 964 | 962 |
-| metric_changed | coloradospringspd | subscribedCameras | 862 | 860 |
-| metric_changed | covinapdca | totalRegisteredCameras | 47 | 55 |
-| metric_changed | cummingpdga | totalIntegratedCameras | 4216 | 3136 |
-| metric_changed | cummingpdga | totalOwnedCameras | 193 | 194 |
-| metric_changed | cummingpdga | subscribedCameras | 175 | 176 |
-| metric_changed | dallaspd | totalRegisteredCameras | 4110 | 4151 |
-| metric_changed | dallaspd | totalIntegratedCameras | 1705 | 1714 |
-| metric_changed | dallaspd | totalOwnedCameras | 1346 | 1355 |
-| metric_changed | dallaspd | subscribedCameras | 1254 | 1263 |
-| metric_changed | danvillepd | totalRegisteredCameras | 418 | 422 |
-| metric_changed | dcmetro | totalRegisteredCameras | 44318 | 44340 |
-| metric_changed | dcmetro | totalIntegratedCameras | 1448 | 1449 |
-| metric_changed | dcmetro | totalSharedCameras | 119 | 120 |
-| metric_changed | dearbornpdmi | totalIntegratedCameras | 700 | 702 |
-| metric_changed | dekalbcountyga | totalIntegratedCameras | 9116 | 9095 |
-| metric_changed | delraybeach | totalIntegratedCameras | 524 | 526 |
+| metric_changed | aacounty | totalIntegratedCameras | 3256 | 3186 |
+| metric_changed | accpd | totalIntegratedCameras | 4336 | 4344 |
+| metric_changed | accpd | totalOwnedCameras | 1843 | 1844 |
+| metric_changed | accpd | subscribedCameras | 534 | 535 |
+| metric_changed | acworthga | totalIntegratedCameras | 10554 | 10553 |
+| metric_changed | albanypolice | totalIntegratedCameras | 14041 | 14038 |
+| metric_changed | amarillopd | totalIntegratedCameras | 493 | 491 |
+| metric_changed | amarillopd | totalOwnedCameras | 493 | 491 |
+| metric_changed | amarillopd | subscribedCameras | 485 | 483 |
+| metric_changed | anaheim | totalRegisteredCameras | 424 | 443 |
+| metric_changed | apopkapd | totalIntegratedCameras | 7850 | 7839 |
+| metric_changed | apopkapd | totalSharedCameras | 6894 | 6883 |
+| metric_changed | auroragov | totalIntegratedCameras | 931 | 929 |
+| metric_changed | auroragov | totalOwnedCameras | 931 | 929 |
+| metric_changed | auroragov | subscribedCameras | 931 | 929 |
+| metric_changed | beaumonttx | totalRegisteredCameras | 4071 | 4095 |
+| metric_changed | bocaratonpdfl | totalIntegratedCameras | 906 | 910 |
+| metric_changed | bocaratonpdfl | totalOwnedCameras | 672 | 676 |
+| metric_changed | bocaratonpdfl | subscribedCameras | 649 | 653 |
+| metric_changed | bristolctpd | totalIntegratedCameras | 14 | 33 |
+| metric_changed | bristolctpd | totalOwnedCameras | 14 | 33 |
+| metric_changed | bristolctpd | subscribedCameras | 0 | 19 |
+| metric_changed | brooklynparkpdmn | totalIntegratedCameras | 2116 | 2117 |
+| metric_changed | brooklynparkpdmn | totalOwnedCameras | 231 | 230 |
+| metric_changed | brooklynparkpdmn | subscribedCameras | 207 | 206 |
+| metric_changed | carencropd | totalIntegratedCameras | 1627 | 1626 |
+| metric_changed | carencropd | totalOwnedCameras | 228 | 227 |
+| metric_changed | carencropd | subscribedCameras | 228 | 227 |
+| metric_changed | carypd | totalIntegratedCameras | 1435 | 1439 |
+| metric_changed | carypd | totalOwnedCameras | 980 | 984 |
+| metric_changed | carypd | subscribedCameras | 979 | 983 |
+| metric_changed | charlestonpd | totalIntegratedCameras | 591 | 590 |
+| metric_changed | charlestonpd | totalOwnedCameras | 515 | 514 |
+| metric_changed | charlestonpd | subscribedCameras | 480 | 477 |
+| metric_changed | charlottecounty | totalRegisteredCameras | 2343 | 2332 |
+| metric_changed | charlottemecklenburg | totalRegisteredCameras | 3249 | 3275 |
+| metric_changed | charlottemecklenburg | totalIntegratedCameras | 1820 | 1819 |
+| metric_changed | charlottemecklenburg | totalOwnedCameras | 1615 | 1614 |
+| metric_changed | charlottemecklenburg | subscribedCameras | 1469 | 1468 |
+| metric_changed | cherokeega | totalIntegratedCameras | 13428 | 13438 |
+| metric_changed | chesterfieldcounty | totalIntegratedCameras | 11001 | 10763 |
+| metric_changed | chesterfieldcounty | totalOwnedCameras | 990 | 989 |
+| metric_changed | chesterfieldcounty | totalSharedCameras | 9949 | 9712 |
+| metric_changed | chesterfieldcounty | subscribedCameras | 931 | 930 |
+| metric_changed | chicagoheights | totalIntegratedCameras | 1226 | 1225 |
+| metric_changed | chicagoheights | totalOwnedCameras | 1173 | 1172 |
+| metric_changed | chicagoheights | subscribedCameras | 730 | 729 |
+| metric_changed | cityofatlanta | totalIntegratedCameras | 28323 | 28311 |
+| metric_changed | cityofatlanta | totalOwnedCameras | 2566 | 2574 |
+| metric_changed | cityofatlanta | subscribedCameras | 2554 | 2562 |
+| metric_changed | cityofdoralpd | totalIntegratedCameras | 3415 | 3460 |
+| metric_changed | cityofdoralpd | totalOwnedCameras | 397 | 413 |
+| metric_changed | cityofdoralpd | totalSharedCameras | 3018 | 3047 |
+| metric_changed | cityofdoralpd | subscribedCameras | 243 | 259 |
+| metric_changed | cityofnewark | totalIntegratedCameras | 932 | 934 |
+| metric_changed | cityofnewark | totalOwnedCameras | 500 | 502 |
+| metric_changed | cityofomaha | totalRegisteredCameras | 1284 | 1318 |
+| metric_changed | cityofomaha | totalIntegratedCameras | 1870 | 1865 |
+| metric_changed | cityofomaha | totalOwnedCameras | 769 | 762 |
+| metric_changed | cityofomaha | totalSharedCameras | 1000 | 1002 |
+| metric_changed | cityofomaha | subscribedCameras | 694 | 687 |
+| metric_changed | cityofroswell | totalIntegratedCameras | 10650 | 10647 |
+| metric_changed | cityofws | totalIntegratedCameras | 3343 | 3339 |
+| metric_changed | cityofws | totalOwnedCameras | 1807 | 1803 |
+| metric_changed | cityofws | subscribedCameras | 1791 | 1787 |
+| metric_changed | claycountysheriff | totalIntegratedCameras | 3434 | 3431 |
+| metric_changed | claycountysheriff | totalOwnedCameras | 3266 | 3263 |
+| metric_changed | claycountysheriff | subscribedCameras | 3261 | 3258 |
+| metric_changed | clearwaterpd | totalIntegratedCameras | 917 | 916 |
+| metric_changed | clearwaterpd | totalOwnedCameras | 847 | 846 |
+| metric_changed | clearwaterpd | subscribedCameras | 797 | 796 |
+| metric_changed | cobbcountypd | totalIntegratedCameras | 13091 | 13092 |
+| metric_changed | collegeparkga | totalIntegratedCameras | 10516 | 10512 |
+| metric_changed | coloradospringspd | totalRegisteredCameras | 1320 | 1321 |
+| metric_changed | coloradospringspd | totalIntegratedCameras | 1101 | 1103 |
+| metric_changed | coloradospringspd | totalOwnedCameras | 962 | 964 |
+| metric_changed | coloradospringspd | subscribedCameras | 860 | 862 |
+| metric_changed | covinapdca | totalRegisteredCameras | 55 | 65 |
+| metric_changed | cummingpdga | totalIntegratedCameras | 3136 | 3143 |
+| metric_changed | dallaspd | totalRegisteredCameras | 4151 | 4161 |
+| metric_changed | dallaspd | totalIntegratedCameras | 1714 | 1718 |
+| metric_changed | dallaspd | totalOwnedCameras | 1355 | 1357 |
+| metric_changed | dallaspd | totalSharedCameras | 358 | 360 |
+| metric_changed | dcmetro | totalRegisteredCameras | 44340 | 44369 |
+| metric_changed | dealpdnj | totalIntegratedCameras | 976 | 978 |
+| metric_changed | dealpdnj | totalOwnedCameras | 224 | 226 |
+| metric_changed | dealpdnj | subscribedCameras | 224 | 226 |
+| metric_changed | dearbornpdmi | totalIntegratedCameras | 702 | 698 |
+| metric_changed | dekalbcountyga | totalRegisteredCameras | 3539 | 3552 |
+| metric_changed | dekalbcountyga | totalIntegratedCameras | 9095 | 9087 |
+| metric_changed | delraybeach | totalIntegratedCameras | 526 | 544 |
+| metric_changed | delraybeach | totalOwnedCameras | 300 | 318 |
+| metric_changed | delraybeach | subscribedCameras | 288 | 307 |
+| metric_changed | dentonpdtx | totalIntegratedCameras | 190 | 212 |
+| metric_changed | dentonpdtx | totalOwnedCameras | 190 | 212 |
+| metric_changed | dentonpdtx | subscribedCameras | 183 | 205 |
+| metric_changed | dothanpd | totalRegisteredCameras | 0 | 58 |
+| metric_changed | douglasvillepolice | totalIntegratedCameras | 12900 | 12912 |
+| metric_changed | douglasvillepolice | totalOwnedCameras | 397 | 409 |
+| metric_changed | dubuquepdia | totalIntegratedCameras | 4 | 9 |
 
-Showing 100 of 307 events; the CSV and JSON contain every event.
+Showing 100 of 269 events; the CSV and JSON contain every event.
 
 ## Reading the data
 
