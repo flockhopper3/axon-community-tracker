@@ -2,6 +2,7 @@
 
 Each link opens that run's report; dated snapshots are retained.
 
+- [2026-11-16T225643Z](runs/2026-11-16T225643Z/report_2026-11-16T225643Z.md) — 336 organizations, 98.8% complete, accepted; 270 change events
 - [2026-11-09T230229Z](runs/2026-11-09T230229Z/report_2026-11-09T230229Z.md) — 336 organizations, 98.8% complete, accepted; 269 change events
 - [2026-11-02T222239Z](runs/2026-11-02T222239Z/report_2026-11-02T222239Z.md) — 336 organizations, 98.8% complete, accepted; 307 change events
 - [2026-10-26T192543Z](runs/2026-10-26T192543Z/report_2026-10-26T192543Z.md) — 336 organizations, 98.8% complete, accepted; 316 change events
